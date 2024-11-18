@@ -1,0 +1,177 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "428c9a2a-9b21-41e3-8c34-7a843ad43387": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_jTLpcE": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_UHq6EC": {
+          "type": "caption",
+          "settings": {
+            "caption": "Client success",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_HGeGqF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Strength Comes From the Success of Our Clients",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "caption_UHq6EC",
+        "heading_HGeGqF"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {position: absolute; padding-top: 18rem; margin-left: 80%; width: 300px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Untitled-2_dbf7d5e0-c1d2-4e05-9aa7-bb3ba457a04a.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 44,
+        "padding_bottom": 0
+      }
+    },
+    "1694702189c80c8f42": {
+      "type": "apps",
+      "blocks": {
+        "baf0fdca-2222-40b4-a237-fa61a803a4a0": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_3ifSljjDUe",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 3,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "baf0fdca-2222-40b4-a237-fa61a803a4a0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".shopify-app-block {display: flex;}",
+        ".formful__dialog-button {margin: 0 auto 0;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "custom_css": [
+        "h3 {font-size: 24px;}",
+        "p {font-size: 16px;}",
+        ".article-card {background-color: #fff;}",
+        ".card__inner {width: 100px; height: 100px; margin: auto; margin-top: 20px;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "small",
+        "show_date": false,
+        "show_author": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "13a8412d-c695-4149-860c-46cd57f54584": {
+      "type": "footer",
+      "blocks": {
+        "32b6a1d0-932a-4e41-a69a-ecc7762ffd58": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "<p>From small projects to complex challenges, our expert team delivers innovative solutions.</p>",
+            "show_social": false
+          }
+        },
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "32b6a1d0-932a-4e41-a69a-ecc7762ffd58",
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-text-1",
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "428c9a2a-9b21-41e3-8c34-7a843ad43387",
+    "image_with_text_jTLpcE",
+    "1694702189c80c8f42",
+    "main",
+    "13a8412d-c695-4149-860c-46cd57f54584"
+  ]
+}

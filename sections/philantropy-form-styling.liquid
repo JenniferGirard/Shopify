@@ -1,0 +1,89 @@
+<script>
+  // https://stackoverflow.com/a/61511955
+  function waitForElm(selector) {
+    return new Promise(resolve => {
+      if (document.querySelector(selector)) {
+        return resolve(document.querySelector(selector));
+      }
+
+      const observer = new MutationObserver(mutations => {
+        if (document.querySelector(selector)) {
+          observer.disconnect();
+          resolve(document.querySelector(selector));
+        }
+      });
+
+      // If you get "parameter 1 is not of type 'Node'" error, see https://stackoverflow.com/a/77855838/492336
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+    });
+  }
+
+  waitForElm("form-embed#app-embed").then((formEmbed) => {
+    const formSection = formEmbed.shadowRoot.querySelector("section[class^=\"_formContainer\"]")
+    formSection.style.maxWidth = "unset"
+
+    const fieldset = formSection.querySelector("fieldset")
+    fieldset.style.display = "grid"
+    fieldset.style.gridGap = "16px"
+    fieldset.style.gridTemplateColumns = "repeat(auto-fill, 480px)"
+
+    const choicesContainer = fieldset.querySelector("div")
+    const choices = choicesContainer.children
+
+    // Mapping of categories and how many elements they should hold
+    let categories;
+    if (document.documentElement.lang === "fr") {
+      categories = {
+        "Communication (Site web du projet de Releaf mentionnant...)": 3,
+        "Communication": 7,
+        "Événement": 5,
+        "Légal": 3,
+        "Fonctionnel": 8,
+        "Infrastructure et équipement": 3,
+        "Autres": 1
+      }
+    } else {
+      categories = {
+        "Communication (Releaf project website, mentionning...)": 3,
+        "Communication": 7,
+        "Event": 5,
+        "Legal": 3,
+        "Fonctionnal": 8,
+        "Infrastructure & equipment": 3,
+        "Other": 1
+      }
+    }
+    for (let [categoryName, categoryLength] of Object.entries(categories)) {
+      const categoryContainer = document.createElement("div")
+      categoryContainer.className = choicesContainer.className
+      choicesContainer.parentElement.appendChild(categoryContainer)
+
+      const header = document.createElement("label")
+      header.textContent = categoryName
+      categoryContainer.appendChild(header)
+
+      for (let i = 0; i < categoryLength; i++) {
+        categoryContainer.appendChild(choices[0])
+      }
+    }
+
+    choicesContainer.remove()
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Philantropy Form Styling",
+  "tag": "section",
+  "class": "section",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Philantropy Form Styling"
+    }
+  ]
+}
+{% endschema %}

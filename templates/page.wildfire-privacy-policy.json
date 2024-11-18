@@ -1,0 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e8871918-53b6-4998-a2fb-bd8226b536bf": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo_8d62b9c9-0f7f-4878-819b-536a36c903a4.svg",
+        "logo_width": 90,
+        "logo_url": "shopify://pages/wildfire",
+        "menu": "wildfire",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "accent-2",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 4
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5696c6fb-19a6-492a-9ea3-200cfcfbaf95": {
+      "type": "footer",
+      "blocks": {
+        "f58a2846-e2c4-44d0-ab86-eed2058857f9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Wildfire_logo_footer.svg",
+            "brand_image_width": 120,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:support@wildfiregame.io\" target=\"_blank\" title=\"mailto:support@wildfiregame.io\">support@wildfiregame.io</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20440514036013__5696c6fb-19a6-492a-9ea3-200cfcfbaf95-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "wildfire-menu"
+          }
+        }
+      },
+      "block_order": [
+        "f58a2846-e2c4-44d0-ab86-eed2058857f9",
+        "template--20440514036013__5696c6fb-19a6-492a-9ea3-200cfcfbaf95-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-da433c6e-095f-4ec9-a000-f34e5f2bd3a6",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "e8871918-53b6-4998-a2fb-bd8226b536bf",
+    "main",
+    "5696c6fb-19a6-492a-9ea3-200cfcfbaf95"
+  ]
+}

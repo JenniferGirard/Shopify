@@ -1,0 +1,366 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/health_care.png",
+            "caption": "Healthcare",
+            "heading": "<strong>Improving the patient health and safety experience</strong>",
+            "text": "<p>The health sector has been particularly affected worldwide. There is real urgency to measure and understand the issues concerning patient experience.</p><p>The Canadian Patient Safety Institute recommends certain strategies for developing a culture and policy that focuses on the safety of patients, users, employees and clients in the healthcare field.</p><p>Our solution can help you with this. ExperienceStream is available in two formats: a standalone kiosk or software that can be loaded onto a tablet or cell phone.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_EK8Yk3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EW3UWg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Now is the time to use a new approach",
+            "heading_size": "hxl"
+          }
+        },
+        "heading_e6FxFp": {
+          "type": "heading",
+          "settings": {
+            "heading": "With ExperienceStream you can finally hear everyone's voice!",
+            "heading_size": "h2"
+          }
+        },
+        "text_QHUBg3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our solution greatly facilitates the collection and quality of data, the effectiveness in measuring the situations experienced, transparency towards all organizations and the urgency of the actions to be taken.</p><p>Once the data has been collected, the personalized ExperienceStream software generates powerful reports allowing you to effectively measure the security and experience issues within your establishment.</p><p>Better yet, you immediately receive reports and alerts. If a patient or employee encounters a problem, you can resolve it immediately.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EW3UWg",
+        "heading_e6FxFp",
+        "text_QHUBg3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 88,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_iDdqnm": {
+      "type": "multirow",
+      "blocks": {
+        "row_877kWf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/report.svg",
+            "caption": "",
+            "heading": "Helping Employees",
+            "text": "<h3>Staff receive daily, weekly and monthly reports with patient feedback. Employees will focus on improving the quality of services.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_877kWf"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Experiencestream offers the following benefits",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_bYqPWL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_maeWVY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Security_icon_b81bfa68-934b-4929-99b6-868ec86233b2.svg",
+            "title": "<strong>Security</strong>",
+            "text": "<p>Allows you to measure, assess and correct problems quickly before they have a major impact on everyone's safety and experience.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_tUX99r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Confidentiality_icon_5dce1a0b-0f93-4e42-a389-7b6990096b05.svg",
+            "title": "<strong>Confidentiality</strong>",
+            "text": "<p>People feel confident and comfortable reporting safety concerns without fear of being blamed.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_UjPX7Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Continuous_measurement_icon_4016a066-55e1-4b8d-a590-106f67fad985.svg",
+            "title": "<strong>Continuous measurement</strong>",
+            "text": "<p>Experiencestream provides continuous assessment to measure progress as improvements are made.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_N6z9WF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Equal_Involvement_icon_b857e20b-94ec-47b3-bfa0-36cd764bf42d.svg",
+            "title": "<strong>Equal Involvement</strong>",
+            "text": "<p>Staff at all levels as well as patients and families can all share their concerns and express themselves. Everyone can see where management, board of directors and employees are targeting efforts to focus on patient safety and well-being.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_zKV3nt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Commitment_icon_e9d460b4-61d7-4431-86fc-25d69d26d83c.svg",
+            "title": "<strong>Commitment</strong>",
+            "text": "<p>Create the commitment to patients and their families to share their level of satisfaction in connection with the health experience of your teams and your organizational culture.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_a9jUAX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Perception_icon_97a85b99-918c-43cf-9f70-8c57e7f1a52c.svg",
+            "title": "<strong>Perception</strong>",
+            "text": "<p>Collects perceptions from front line staff, patients and their families.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_mQ8YRK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon_d460acc2-5ef7-4599-99c2-559d11670067.svg",
+            "title": "<strong>Management</strong>",
+            "text": "<p>Allows better management of crisis situations quickly and in real time.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_KYRQUc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon-1.svg",
+            "title": "<strong>Experience</strong>",
+            "text": "<p>Measuring the patient experience has become a priority to put in place in organizations worldwide. Your data will allow you to stand out. Confidence will be restored between the various parties.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_D3fJLC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon-2.svg",
+            "title": "<strong>Culture</strong>",
+            "text": "<p>A measure of your organization's culture corrects deficient processes before they cause harm</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_maeWVY",
+        "column_tUX99r",
+        "column_UjPX7Q",
+        "column_N6z9WF",
+        "column_zKV3nt",
+        "column_a9jUAX",
+        "column_mQ8YRK",
+        "column_KYRQUc",
+        "column_D3fJLC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 100
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_HLamAK": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_EK8Yk3",
+    "multirow_iDdqnm",
+    "main",
+    "rich_text_LDUjYU",
+    "multicolumn_bYqPWL",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_HLamAK"
+  ]
+}

@@ -1,0 +1,49 @@
+{{ 'redcross-popup.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'redcross-popup.js' | asset_url }}" defer></script>
+
+<div class="container-popup" id="wildfire-popup" style="display: none;">
+  <div class="popup-content">
+    <img class="desktop-background" src="{{ "popup-redcross.png" | file_url }}" alt="">
+    <div class="mobile-background">
+      <img src="{{ "img_popup.png" | file_url }}" alt="">
+      <div class="mobile-background-fill"></div>
+    </div>
+
+    <button class="close-btn-popup" onclick="closePopup()">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M18 1.81286L16.1871 0L9 7.18714L1.81286 0L0 1.81286L7.18714 9L0 16.1871L1.81286 18L9 10.8129L16.1871 18L18 16.1871L10.8129 9L18 1.81286Z" fill="white"/>
+      </svg>
+    </button>
+
+    <div class="red-cross-octogon">
+      <span class="red-cross-octogon-tagline">
+        <img
+          src="{{ "redcross.png" | file_url }}"
+          alt="Red Cross"
+          id="red-cross-octogon-img"
+        >
+        Play for a Cause
+      </span>
+      <span class="red-cross-octogon-paragraph">
+        All profits of this game will be&nbsp;donated to the&nbsp;Red&nbsp;Cross&nbsp;Foundation
+      </span>
+    </div>
+
+    <p class="wildfire-desc-txt">Wildfire is a third person game where you engage in aerial firefighting.</p>
+    <a
+      class="epic-games-btn"
+      target="_blank"
+      href="https://store.epicgames.com/en-US/p/wildfire-f4546e"
+    >
+      <img
+        src="{{ "download-game-btn.svg" | file_url }}"
+        alt="Download on the EPIC GAMES store"
+      >
+    </a>
+    <p class="early-access-txt">*Early Access Version</p>
+    <p class="epic-branding-message">
+      Epic, Epic Games, Epic Games Store, the Epic Games Store logo, and Epic Online Services are trademarks and/or
+      registered trademarks of Epic Games. All other trademarks are the property of their respective owners.
+    </p>
+  </div>
+</div>

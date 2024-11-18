@@ -1,0 +1,338 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/event.png",
+            "caption": "Trade shows, sporting events and conferences",
+            "heading": "<strong>ExperienceStream lets you adjust offerings instantly and gathers feedback to help plan future events</strong>",
+            "text": "<p>Organizing an outstanding event is complex and multi-faceted. You must market to your audience, set the schedule and arrange for food and beverage.</p><p>In order to measure success and plan future events, you need to gather attendee feedback about your trade show, conference, sporting event or arts activity.</p><p>You may require instant reports as an event is going on so that you can fix a customer experience problem immediately. For example, washrooms may need cleaning or the lineup at the snack bar is so long that guests are becoming annoyed.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "ExperienceStream can help",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_RqyFf4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K8gfik": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurants-how1.png",
+            "title": "",
+            "text": "<h3>With ExperienceStream placed in key locations (using either our custom kiosk or a tablet), attendees are invited to provide feedback. With two or three simple questions, you can get powerful data about how they are feeling.</h3>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_K8gfik"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_yVXiMK": {
+      "type": "multirow",
+      "blocks": {
+        "row_rwEz6g": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Alart.svg",
+            "caption": "",
+            "heading": "Instant Alerts",
+            "text": "<h3>If there is a problem, you will receive instant alerts to your email on your phone. Within minutes, you can address the issue and have attendees smiling again.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_rwEz6g"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "align-right",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "center",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "rich_text_EEHe3M": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PxrpFR": {
+          "type": "heading",
+          "settings": {
+            "heading": "With future planning",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PxrpFR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 84,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_w9aN7Y": {
+      "type": "multirow",
+      "blocks": {
+        "row_fHtyVd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Attendees.svg",
+            "caption": "",
+            "heading": "",
+            "text": "<h3>The goal with any event is for attendees to leave happy, spread the word on social media and return on your next date. With ExperienceStream, you can gather input to improve the user experience for the future.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_gQn4zY": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Data.svg",
+            "caption": "",
+            "heading": "",
+            "text": "<h3>Contrary to post-event online surveys, ExperienceStream allows you to gather enough high-quality data to ensure that it is statistically accurate. When you make changes, you can be sure that they are what the audience wants.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_fHtyVd",
+        "row_gQn4zY"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_hjxQkA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CBE8tT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_events_number_img_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_CBE8tT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 68
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_4yXhaQ": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_LDUjYU",
+    "multicolumn_RqyFf4",
+    "multirow_yVXiMK",
+    "rich_text_EEHe3M",
+    "multirow_w9aN7Y",
+    "multicolumn_hjxQkA",
+    "main",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_4yXhaQ"
+  ]
+}

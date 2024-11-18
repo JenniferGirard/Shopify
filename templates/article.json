@@ -1,0 +1,123 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "903f3e40-652f-4905-9298-25474ca61831": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {}
+    },
+    "5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f": {
+      "type": "footer",
+      "blocks": {
+        "43b95244-6065-44f8-a7f4-aa258d6114a9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--19990917710125__5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "template--19990917710125__5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "43b95244-6065-44f8-a7f4-aa258d6114a9",
+        "template--19990917710125__5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f-link_list-1",
+        "template--19990917710125__5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f-text-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "903f3e40-652f-4905-9298-25474ca61831",
+    "main",
+    "5622ec1d-1dfb-4c61-ac4e-4a5d0cd7358f"
+  ]
+}

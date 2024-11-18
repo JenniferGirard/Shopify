@@ -1,0 +1,24 @@
+.case-study-essentials {
+  text-align: left;
+}
+.case-study-essentials h2 {
+  font-weight: bold;
+}
+.case-study-essentials .grid > div {
+  flex: 1;
+  min-width: inherit;
+}
+ul.expertise-list {
+  padding-inline-start: 1.8rem;
+}
+@media screen and (max-width: 1000px) {
+  .case-study-essentials {
+    margin: auto 3%;
+  }
+  .case-study-essentials > div {
+    min-width: 300px;
+  }
+}
+
+
+

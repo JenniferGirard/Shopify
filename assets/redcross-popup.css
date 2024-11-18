@@ -1,0 +1,173 @@
+.container-popup {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.popup-content {
+  position: relative;
+  max-width: 800px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Poppins", sans-serif;
+}
+
+.container-popup img {
+  width: 100%;
+  height: auto;
+}
+
+.close-btn-popup {
+  cursor: pointer;
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  border: none;
+  background: none;
+}
+
+.close-btn-popup img {
+  max-width: 20px;
+  height: auto;
+}
+
+.epic-games-btn {
+  position: absolute;
+  bottom: 6%;
+  left: 4%;
+}
+
+.wildfire-desc-txt {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  border: none;
+  background: none;
+  max-width: 40%;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+}
+
+.early-access-txt {
+  position: absolute;
+  line-height: 1.5;
+  bottom: 5%;
+  left: 22%;
+  color: #e80000;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.red-cross-octogon {
+  padding: 0.9rem;
+  background-color: white;
+  color: #e80000;
+  text-align: center;
+  font-family: "Poppins";
+  max-width: 40%;
+  position: absolute;
+  z-index: 0;
+  top: 10%;
+  left: 5%;
+
+  --red-cross-broder-width: 4px;
+  --red-cross-shape-var: 30px;
+}
+
+.red-cross-octogon:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(45deg, red, red);
+  --g1: #000 var(--red-cross-broder-width),
+    #0000 0 calc(100% - var(--red-cross-broder-width)), #000 0;
+  --g2: #0000 calc(0.707 * var(--red-cross-shape-var)),
+    #000 0
+      calc(0.707 * var(--red-cross-shape-var) + var(--red-cross-broder-width)),
+    #0000 0
+      calc(
+        100% - 0.707 * var(--red-cross-shape-var) -
+          var(--red-cross-broder-width)
+      ),
+    #000 0 calc(100% - 0.707 * var(--red-cross-shape-var)), #0000 0;
+  -webkit-mask: linear-gradient(45deg, var(--g2)),
+    linear-gradient(-45deg, var(--g2)),
+    linear-gradient(90deg, var(--g1)) 50%/100%
+      calc(100% - 2 * var(--red-cross-shape-var)) no-repeat,
+    linear-gradient(180deg, var(--g1)) 50% /
+      calc(100% - 2 * var(--red-cross-shape-var)) 100% no-repeat;
+}
+
+#red-cross-octogon-img {
+  height: 33px;
+  width: auto;
+  display: inline-block;
+}
+
+.red-cross-octogon-tagline {
+  font-family: "Anton";
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.red-cross-octogon-paragraph {
+  font-size: 14px;
+  line-height: 1.5;
+  display: inline-block;
+}
+
+.epic-branding-message {
+  position: absolute;
+  color: #fff;
+  bottom: -12%;
+  left: 5%;
+  max-width: 90%;
+  font-size: 8px;
+}
+
+.mobile-background {
+  display: none;
+  background: white;
+}
+.mobile-background-fill.mobile-background-fill {
+  display: block; /* Must override div:empty definition from base.css */
+  height: 256px;
+}
+@media only screen and (max-width: 749px) {
+  .mobile-background {
+    display: block;
+  }
+  .desktop-background {
+    display: none;
+  }
+
+  .red-cross-octogon {
+    max-width: 90%;
+    top: unset;
+    bottom: 26%;
+  }
+  .wildfire-desc-txt {
+    top: unset;
+    bottom: 12%;
+    max-width: 90%;
+  }
+  .early-access-txt {
+    left: 40%;
+    bottom: 2%;
+  }
+  .epic-games-btn {
+    bottom: 2%;
+  }
+}

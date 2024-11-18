@@ -1,0 +1,748 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": true,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "229705de-974d-4821-bf3c-e93a7b836d51": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Powerful virtual management system",
+            "heading_size": "h0"
+          }
+        },
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Outstanding customer service keeps clients returning, boosting sales and profits. Reliable data is essential for consistently great service. ExperienceStream is the solution: a dynamic program that collects and analyzes feedback, ensuring satisfied customers without guesswork.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Sign up for a free trial!",
+            "button_link_1": "https://beslogic.com/pages/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-heading-1",
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-text-1",
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Final_banner_ES.png",
+        "image_overlay_opacity": 10,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "slideshow_xKHr9e": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Rg7zhd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/color_bg_banner.png",
+            "heading": "\"When l am not there, I can see if the employees are still doing a good job.\"",
+            "heading_size": "h2",
+            "subheading": "Maude Rivest-Beaudoin - Store Manager, Bilboquet",
+            "button_label": "Download Case Study",
+            "link": "https://drive.google.com/file/d/1oN_WO-xzLYbBpyrt05LJm8f63rsuYYZN/view?usp=sharing",
+            "button_style_secondary": true,
+            "slider_icon": "shopify://shop_images/bilboquet-logo.png",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Cmt3TE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/color_bg_banner.png",
+            "heading": "<em>\"More than 30 percent of attendees answered, double the usual response using SurveyMonkey.\"</em>",
+            "heading_size": "h2",
+            "subheading": "Sandrine Théard - TRUMontréal Recruiting",
+            "button_label": "Download Case Study",
+            "link": "https://drive.google.com/file/d/15pZ7L0E__xn_fqJjHIbdOU0BowWyy0s1/view?usp=sharing",
+            "button_style_secondary": true,
+            "slider_icon": "shopify://shop_images/trumontrealLogoNDD.png",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_C7Ahiw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/color_bg_banner.png",
+            "heading": "<em>\"The response rate was great. As a non-profit, having actual data attached to a program is super helpful.\"</em>",
+            "heading_size": "h2",
+            "subheading": "Madison Hainstock - Community Programs Manager, Loving Spoonful",
+            "button_label": "Download Case Study",
+            "link": "https://drive.google.com/file/d/1sDCZdjV8ws6l4isZf9n4QVvK93PnoxsB/view?usp=sharing",
+            "button_style_secondary": true,
+            "slider_icon": "shopify://shop_images/LS-LiveTrace-Logo-white-01.png",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_M8tUmh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/color_bg_banner.png",
+            "heading": "“ExperienceStream helped us to sell more tickets because online readers saw that the audience loved the preview.”",
+            "heading_size": "h2",
+            "subheading": "Billy Guo - Director, Yu Theatre Company",
+            "button_label": "Download Case Study",
+            "link": "https://drive.google.com/file/d/13ZPGtVsAZozmw3qhG48bRLEcBKNhUa8_/view?usp=sharing",
+            "button_style_secondary": true,
+            "slider_icon": "shopify://shop_images/YuTheatreLogoNDD.png",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_7iwgR8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/color_bg_banner.png",
+            "heading": "<em>\"I find it really cool to receive daily feedback reports on how we are doing. I can review them on my phone in just a few minutes.”</em>",
+            "heading_size": "h2",
+            "subheading": "Brent Laderoute – General Manager, McKibbin’s Irish Pub",
+            "button_label": "Download Case Study",
+            "link": "https://drive.google.com/file/d/1fsH4QIU2Ua3ZtPEfJnRdkamLxbQpAVpC/view?usp=sharing",
+            "button_style_secondary": true,
+            "slider_icon": "shopify://shop_images/mckibbons-irish-pub_988d89b7-ba0a-4a4e-ba97-5120c39cbde3.png",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Rg7zhd",
+        "slide_Cmt3TE",
+        "slide_C7Ahiw",
+        "slide_M8tUmh",
+        "slide_7iwgR8"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "slider_icon_height": 56,
+        "slider_overlap": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Client testimonials"
+      }
+    },
+    "rich_text_AJMHdG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g9jjPc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Versatile Industry Usage",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g9jjPc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 8
+      }
+    },
+    "b43644df-acfb-441e-8944-f632435f262b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurant.png",
+            "title": "",
+            "text": "<h3><strong>Restaurants & Bars</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-industries",
+            "is_card_clickable": true
+          }
+        },
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/retail.png",
+            "title": "",
+            "text": "<h3><strong>Retail</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-retail",
+            "is_card_clickable": true
+          }
+        },
+        "column_eynrMh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/event.png",
+            "title": "",
+            "text": "<h3><strong>Events</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-events",
+            "is_card_clickable": true
+          }
+        },
+        "column_t78Dzh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/health_care.png",
+            "title": "",
+            "text": "<h3><strong>Healthcare</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-healthcare",
+            "is_card_clickable": true
+          }
+        },
+        "column_n7c8aX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/tourism.png",
+            "title": "",
+            "text": "<h3><strong>Tourism</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-tourism",
+            "is_card_clickable": true
+          }
+        },
+        "column_CCJwje": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/properties.png",
+            "title": "",
+            "text": "<h3><strong>Properties</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-properties",
+            "is_card_clickable": true
+          }
+        },
+        "column_pif7Nk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/spa_salon.png",
+            "title": "",
+            "text": "<h3><strong>Spa & Salon</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-spa-salon",
+            "is_card_clickable": true
+          }
+        },
+        "column_L8pBbM": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/non_profit.png",
+            "title": "",
+            "text": "<h3><strong>Non-Profits</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-non-profits",
+            "is_card_clickable": true
+          }
+        },
+        "column_W79ztT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/human_resources.png",
+            "title": "",
+            "text": "<h3><strong>Human Resources</strong></h3>",
+            "link_label": "",
+            "link": "shopify://pages/experiencestream-human-resources",
+            "is_card_clickable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-2",
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-3",
+        "column_eynrMh",
+        "column_t78Dzh",
+        "column_n7c8aX",
+        "column_CCJwje",
+        "column_pif7Nk",
+        "column_L8pBbM",
+        "column_W79ztT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 56,
+        "padding_bottom": 100
+      }
+    },
+    "c08417a8-3c47-4736-b9e9-f29d76027b3d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__c08417a8-3c47-4736-b9e9-f29d76027b3d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Benefits in a glance",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__c08417a8-3c47-4736-b9e9-f29d76027b3d-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 52
+      }
+    },
+    "fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/response-rate.png",
+            "title": "Increased Response Rate",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/inviting-kiosk.png",
+            "title": "Durable, Ergonomic Kiosk",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/operations.png",
+            "title": "Improve Operations",
+            "text": "<p></p><p></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_ggVc6K": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/social-media.png",
+            "title": "Improve Social Media Reviews",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_Ja38Kz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/employee-engagement.png",
+            "title": "Increased Employee Engagement",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_eGpXcg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/revenues.png",
+            "title": "Increased Revenues",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-1",
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-2",
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-3",
+        "column_ggVc6K",
+        "column_Ja38Kz",
+        "column_eGpXcg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 100
+      }
+    },
+    "898b9b3b-02c8-46d9-828c-b7539e651c19": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Here’s how it works",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "50538470-c3fd-49cb-b855-2221e184a962": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/devices.png",
+            "title": "",
+            "text": "<h3>Integrate ExperienceStream on any device you prefer</h3>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurants-how1.png",
+            "title": "",
+            "text": "<h3>Effortlessly collect valuable insights from customers and employees</h3>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/informative-reports.png",
+            "title": "",
+            "text": "<h3>Receive analyzed reports for informed decision-making</h3>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "5bdf1821-0e22-4dd5-94ce-352e5f048d0c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/screen_animated_1366.gif",
+            "title": "",
+            "text": "<h3>Build sales and profits by making strategic decisions</h3>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-1",
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-2",
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-3",
+        "5bdf1821-0e22-4dd5-94ce-352e5f048d0c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 100
+      }
+    },
+    "a83c8163-f3b7-4ee8-8806-d5c87d4e85ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__a83c8163-f3b7-4ee8-8806-d5c87d4e85ba-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tap the power of ExperienceStream",
+            "heading_size": "hxl"
+          }
+        },
+        "heading_FGFeBq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Fix problems in real time</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_TgbPtE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When clients take tap ExperienceStream you get immediate results. ExperienceStream delivers alerts directly to your phone – allowing you to address issues right away before the complaints pile up.<br/>With online surveys and mystery shopper reviews, you have to wait for the data. However, by that time a disgruntled customer has spread the word to other people or perhaps posted a review online. Other customers may be experiencing the same problem, causing an avalanche of negative feedback.</p>"
+          }
+        },
+        "text_4mAUzg": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>With ExperienceStream, the solution is simple:</h2><p>1, A problem is identified</p><p>2, Managers remedy it immediately</p><p>3, The complaints stop and the compliments pour in again</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__a83c8163-f3b7-4ee8-8806-d5c87d4e85ba-heading-1",
+        "heading_FGFeBq",
+        "text_TgbPtE",
+        "text_4mAUzg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "abf5270e-d886-4225-bec5-e9162bb08bc1": {
+      "type": "multirow",
+      "blocks": {
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Engage_Staff.png",
+            "caption": "",
+            "heading": "Motivate and engage staff",
+            "text": "<p>With ExperienceStream, clients can provide specific feedback about the employee who served them. Positive comments let you thank and recognize team members. Poor results give you a heads up to coach staff to improve their service.</p><p>ExperienceStream reports are a great way to appreciate staff for their dedication. At busy times, restaurant servers and retail staff can be stressed. Managers can ease the burden by sharing the ExperienceStream data and compliment them on their outstanding work.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Review.png",
+            "caption": "",
+            "heading": "Avoid nasty reviews",
+            "text": "<p>Many businesses rely on favourable posts on social media to gain new customers. However, sometimes things go wrong. If a client gives a negative evaluation on ExperienceStream, the system can automatically apologize and generate a coupon for them. As the business manager, you control the coupon offers – such as a discount on a future visit or special prices on products.</p><h3>When the client leaves your business, they will be feeling more positive and may drop the idea of posting a negative review.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Market_analyse.jpg",
+            "caption": "",
+            "heading": "Understand your market and drive operations",
+            "text": "<p>Online surveys and mystery shoppers provide only tiny amounts of data. With ExperienceStream you collect enough information to provide powerful evidence to support decision-making about customer preferences and market trends.</p><p>In addition, you can use ExperienceStream’s sophisticated data analysis capability to improve productivity and increase profitability.</p><h4>For example, your reports may indicate that you are receiving negative feedback at certain times of the day when staff are very busy. By deploying your team efficiently, you can increase customer satisfaction – and your profits.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-1",
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-2",
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-3"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "subtitle",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-right",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_KxGH94": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "main",
+    "229705de-974d-4821-bf3c-e93a7b836d51",
+    "slideshow_xKHr9e",
+    "rich_text_AJMHdG",
+    "b43644df-acfb-441e-8944-f632435f262b",
+    "c08417a8-3c47-4736-b9e9-f29d76027b3d",
+    "fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61",
+    "898b9b3b-02c8-46d9-828c-b7539e651c19",
+    "50538470-c3fd-49cb-b855-2221e184a962",
+    "a83c8163-f3b7-4ee8-8806-d5c87d4e85ba",
+    "abf5270e-d886-4225-bec5-e9162bb08bc1",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_KxGH94"
+  ]
+}

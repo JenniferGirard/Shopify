@@ -1,0 +1,260 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "center",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": false,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "99a5b903-8828-4a72-a6b1-04fe4f896b7a": {
+      "type": "multirow",
+      "blocks": {
+        "template--20748792267053__99a5b903-8828-4a72-a6b1-04fe4f896b7a-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/monitoring.png",
+            "caption": "SERVICE / DIGITAL TRANSFORMATION",
+            "heading": "Technology Monitoring Service",
+            "text": "<p>Our technology monitoring service consists of an in-depth examination of your company and the technologies currently in use. Our experts can help guide you in choosing and integrating software solutions specifically adapted to the needs of your organization.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20748792267053__99a5b903-8828-4a72-a6b1-04fe4f896b7a-row-1"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5c7e2857-068d-47a5-ac6c-c807218a5549": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20748792267053__5c7e2857-068d-47a5-ac6c-c807218a5549-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Make Informed Technology Choices to Reach Your Goals More Efficiently</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20748792267053__5c7e2857-068d-47a5-ac6c-c807218a5549-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It's important to adapt to the changing market and the changing needs of your customers. Companies that stay on top of the latest technologies tend to be more successful and prosperous in the long run.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20748792267053__5c7e2857-068d-47a5-ac6c-c807218a5549-heading-1",
+        "template--20748792267053__5c7e2857-068d-47a5-ac6c-c807218a5549-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 32
+      }
+    },
+    "98cbfc25-3812-45d0-b4c3-e00268608026": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Develop a Solid Business Strategy to Succeed in Your Digital Transformation</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Position Yourself as an Expert in Your Industry</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Optimize Your Resources and Revenues With Informed Technology Choices</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "ce99e6d8-ca79-4f9e-b9fd-ccfbe40bfdb8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Avoid Cybersecurity Breaches</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-1",
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-2",
+        "template--20748792267053__98cbfc25-3812-45d0-b4c3-e00268608026-column-3",
+        "ce99e6d8-ca79-4f9e-b9fd-ccfbe40bfdb8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "90eede14-8d6e-4d41-b2f3-b988a5aa0bd1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20748792267053__90eede14-8d6e-4d41-b2f3-b988a5aa0bd1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Why Rely on Beslogic for Technology Monitoring?</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20748792267053__90eede14-8d6e-4d41-b2f3-b988a5aa0bd1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4></h4><h4>➤ Strengthen and Improve the Security of Your Internal Software and Applications on an Ongoing Basis with Our Experts</h4><h4></h4><h4>➤ Anticipate Potential Risks and Threats</h4><h4></h4><h4></h4><h4>➤ Maximize Your Business Strategy by Staying on Top of Technology Opportunities</h4><h4></h4><h4>➤ Stand Out by Adopting the Latest Technological Practices in Your Field</h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20748792267053__90eede14-8d6e-4d41-b2f3-b988a5aa0bd1-heading-1",
+        "template--20748792267053__90eede14-8d6e-4d41-b2f3-b988a5aa0bd1-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/contact-3_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8": {
+      "type": "footer",
+      "blocks": {
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        },
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0",
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f",
+    "main",
+    "99a5b903-8828-4a72-a6b1-04fe4f896b7a",
+    "5c7e2857-068d-47a5-ac6c-c807218a5549",
+    "98cbfc25-3812-45d0-b4c3-e00268608026",
+    "90eede14-8d6e-4d41-b2f3-b988a5aa0bd1",
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8"
+  ]
+}

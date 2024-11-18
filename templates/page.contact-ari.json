@@ -1,0 +1,167 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "631369c0-02e5-476f-9139-a6b429e5fa93": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/Navbar_logo.svg",
+        "logo_width": 70,
+        "logo_url": "shopify://pages/ari",
+        "menu": "ari-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "36564331-2a23-4b32-b4ad-6963c71db3c3": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_H4ebyN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_H4ebyN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner_contact.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1706300274b1660f0f": {
+      "type": "apps",
+      "blocks": {
+        "formful_app_block_form_X4hyFx": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_aKgtTzefgg",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": "scheme 13"
+          }
+        }
+      },
+      "block_order": [
+        "formful_app_block_form_X4hyFx"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16976564069b4563f3": {
+      "type": "apps",
+      "blocks": {
+        "4adffd05-cb82-4b1c-b8bb-2a08d444ad91": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "disabled": true,
+          "settings": {
+            "form_id": "form_nYNmh4D70K",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "4adffd05-cb82-4b1c-b8bb-2a08d444ad91"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "a81a547f-7863-4997-9c87-d8f651e60bfa": {
+      "type": "footer",
+      "blocks": {
+        "33435d9f-100f-4881-9694-221289dadcd6": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_ARI.svg",
+            "brand_image_width": 100,
+            "brand_description": "<p><a href=\"mailto:info@beslogic.com\" target=\"_blank\" title=\"mailto:info@beslogic.com\">info@beslogic.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20458377642285__a81a547f-7863-4997-9c87-d8f651e60bfa-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "ari-footer"
+          }
+        }
+      },
+      "block_order": [
+        "33435d9f-100f-4881-9694-221289dadcd6",
+        "template--20458377642285__a81a547f-7863-4997-9c87-d8f651e60bfa-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "631369c0-02e5-476f-9139-a6b429e5fa93",
+    "main",
+    "36564331-2a23-4b32-b4ad-6963c71db3c3",
+    "1706300274b1660f0f",
+    "16976564069b4563f3",
+    "a81a547f-7863-4997-9c87-d8f651e60bfa"
+  ]
+}

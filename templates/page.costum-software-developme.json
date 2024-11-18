@@ -1,0 +1,772 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "fdf2ee5b-b7ea-4753-9bd1-7808b2e8bff3": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "text_hwWLEN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SERVICE / CUSTOM SOFTWARE DEVELOPMENT</p><p></p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Are a Custom Software Development Company",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The combination of your specific needs, challenges and environment makes you unique. We’ll work with you to understand what you’re looking for, and we’ll dedicate the necessary resources to make sure it’s a success the first time. Come to us with just an idea or specific challenges and we’ll help you solve them.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_hwWLEN",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "3adeeac6-2a11-402a-a8d5-501306deedcd": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_wdR9g7": {
+          "type": "caption",
+          "settings": {
+            "caption": "SERVICE / CUSTOM SOFTWARE DEVELOPMENT",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--20454815433005__3adeeac6-2a11-402a-a8d5-501306deedcd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Are a Custom Software Development Company",
+            "heading_size": "h1"
+          }
+        },
+        "template--20454815433005__3adeeac6-2a11-402a-a8d5-501306deedcd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The combination of your specific needs, challenges and environment makes you unique. We’ll work with you to understand what you’re looking for, and we’ll dedicate the necessary resources to make sure it’s a success the first time. Come to us with just an idea or specific challenges and we’ll help you solve them.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_wdR9g7",
+        "template--20454815433005__3adeeac6-2a11-402a-a8d5-501306deedcd-heading-1",
+        "template--20454815433005__3adeeac6-2a11-402a-a8d5-501306deedcd-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_RnHAkp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4jLJGK": {
+          "type": "heading",
+          "settings": {
+            "heading": "We could help you",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4jLJGK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 0
+      }
+    },
+    "ec70c22b-4819-4d9f-8133-bdce8d8b41d1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Integration_of_new_technologies_in_your_digital_ecosystem.png",
+            "title": "Integrate New Technologies",
+            "text": "<p>You could make significant efficiency gains, reduce costs and remain innovative within your industry.</p>",
+            "link_label": "",
+            "link": "shopify://pages/integration-of-new-technologies",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Business_process_automation.png",
+            "title": "Automate your Business Process",
+            "text": "<p>Be more efficient, profitable and competitive by reducing operational costs and time spent on repetitive tasks.</p>",
+            "link_label": "",
+            "link": "shopify://pages/process-automation",
+            "is_card_clickable": false
+          }
+        },
+        "d5c13f3b-e8ff-4615-a280-00f131210478": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Custom_software_solutions.png",
+            "title": "System Integrations with API",
+            "text": "<p>Use flexible software, connected interfaces, and automation to streamline data processing and transfer.</p>",
+            "link_label": "",
+            "link": "shopify://pages/custom-solution",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cybersecurity_consulting.png",
+            "title": "Increase your CyberSecurity",
+            "text": "<p>We advise and support you in order to better prepare you to face digital attacks and protect you against them.</p>",
+            "link_label": "",
+            "link": "shopify://pages/system-integration",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-1",
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-2",
+        "d5c13f3b-e8ff-4615-a280-00f131210478",
+        "template--20454815433005__ec70c22b-4819-4d9f-8133-bdce8d8b41d1-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_mwaiGM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zm9ymb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Integration_of_new_technologies_in_your_digital_ecosystem.png",
+            "title": "Integration of New Technologies in Your Digital Ecosystem",
+            "text": "<p>Integrating new technologies into your business allows you to make significant efficiency gains, reduce costs and remain innovative within your industry.</p>",
+            "link_label": "",
+            "link": "shopify://pages/integration-of-new-technologies",
+            "is_card_clickable": true
+          }
+        },
+        "column_rjHjzk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Business_process_automation.png",
+            "title": "Business Process Automation",
+            "text": "<p>Business process automation allows companies to be more efficient, profitable and competitive by reducing operational costs and time spent on repetitive tasks.</p>",
+            "link_label": "",
+            "link": "shopify://pages/process-automation",
+            "is_card_clickable": true
+          }
+        },
+        "column_z3znmD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Integrations_between_your_systems_and_API_development.png",
+            "title": "Integrations Between Your Systems and Api Development",
+            "text": "<p>Take advantage of more flexible software, connected interfaces and automated systems to process and transfer data within your organization.</p>",
+            "link_label": "",
+            "link": "shopify://pages/system-integration",
+            "is_card_clickable": true
+          }
+        },
+        "column_iDArUX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Custom_software_solutions.png",
+            "title": "Custom Software Solutions",
+            "text": "<p>Custom solutions have the advantage of giving you greater flexibility for future software upgrades and modifications, as well as allowing you to maintain control over the security of your data.</p>",
+            "link_label": "",
+            "link": "shopify://pages/custom-solution",
+            "is_card_clickable": true
+          }
+        },
+        "column_gbYNQt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Business_transformation_consulting.png",
+            "title": "Business Transformation Consulting",
+            "text": "<p>Our experts help you achieve your goals by collecting valuable data that allows you to reinvent your business processes. Take better advantage of your digital assets and develop the full potential of your business.</p>",
+            "link_label": "",
+            "link": "shopify://pages/integration-of-new-technologies",
+            "is_card_clickable": true
+          }
+        },
+        "column_pWDjmY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Technology_monitoring.png",
+            "title": "Technology Monitoring",
+            "text": "<p>Our experts help you implement an effective business model within your organization by analyzing your internal technologies in depth. This strategy allows you to better understand the long-term impact of technology on your organization.</p>",
+            "link_label": "",
+            "link": "shopify://pages/process-automation",
+            "is_card_clickable": true
+          }
+        },
+        "column_MGcjGX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cybersecurity_consulting.png",
+            "title": "Cybersecurity Consulting",
+            "text": "<p>The digital transformation service includes a cybersecurity component. We advise and support you in order to better prepare you to face digital attacks and protect you against them.</p>",
+            "link_label": "",
+            "link": "shopify://pages/custom-solution",
+            "is_card_clickable": true
+          }
+        }
+      },
+      "block_order": [
+        "column_zm9ymb",
+        "column_rjHjzk",
+        "column_z3znmD",
+        "column_iDArUX",
+        "column_gbYNQt",
+        "column_pWDjmY",
+        "column_MGcjGX"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 100
+      }
+    },
+    "ba550ba5-152b-4137-99f7-567225912b21": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20454815433005__ba550ba5-152b-4137-99f7-567225912b21-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Choose Custom Software Development",
+            "heading_size": "h2"
+          }
+        },
+        "template--20454815433005__ba550ba5-152b-4137-99f7-567225912b21-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>➤  Deal Directly With Our Experienced and Dedicated Team of Developers</h4><h4>➤  Get Support and Advises With Our Available Team of Experts</h4><h4>➤  Benefit From Fast, Simple and Efficient Technical Support</h4><h4>➤  Get Greater Flexibility in the Development of Your Project With Custom Solutions</h4><h4>➤  Feel Safe That Our Team Always Ensure That Your Software is Updated and Optimized</h4><h4>➤  Benefit From Easier Software Integration Within Your Own Ecosystem and in the Ecosystems of the Software You Already Use</h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20454815433005__ba550ba5-152b-4137-99f7-567225912b21-heading-1",
+        "template--20454815433005__ba550ba5-152b-4137-99f7-567225912b21-text-1"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_Kk9Nim": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xidLab": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Choose Custom Software Development",
+            "heading_size": "h2"
+          }
+        },
+        "text_THVxyi": {
+          "type": "text",
+          "settings": {
+            "text": "<h4> Our team accompanies you through each step of this co-creation process. We are committed to a long-term relationship with you.</h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xidLab",
+        "text_THVxyi"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BSL_solo_Etienne-1_91847b51-8415-4e9c-937a-4b9478153c82.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_7HDKkj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_n86xff": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Deal Directly With Our Experienced and Dedicated Team of Developers</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_XXx88m": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Get Support and Advises With Our Available Team of Experts</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_F4qyfG": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Benefit From Fast, Simple and Efficient Technical Support</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_payKdX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Get Greater Flexibility in the Development of Your Project With Custom Solutions</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_Q7daaQ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Feel Safe That Our Team Always Ensure That Your Software is Updated and Optimized</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_HfiBMq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Benefit From Easier Software Integration Within Your Own Ecosystem and in the Ecosystems of the Software You Already Use</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_n86xff",
+        "column_XXx88m",
+        "column_F4qyfG",
+        "column_payKdX",
+        "column_Q7daaQ",
+        "column_HfiBMq"
+      ],
+      "custom_css": [
+        ".multicolumn-card {box-shadow: none; background: #f6f7f9 !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_6fGXmn": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_8FmyeE": {
+          "type": "caption",
+          "settings": {
+            "caption": "Trusted by Industry Leaders",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_V6b3hc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Valued Clients",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "caption_8FmyeE",
+        "heading_V6b3hc"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "17278830239ab09131": {
+      "type": "apps",
+      "blocks": {
+        "slidy_testimonial_carousel_star_rating_8mtyDW": {
+          "type": "shopify://apps/slidy-testimonial-carousel/blocks/star_rating/aec155f2-eaa1-4784-b6a2-6990d99df314",
+          "settings": {
+            "image_with_text_image_1": "shopify://shop_images/Weatherford.webp",
+            "image_description_1": "",
+            "image_with_text_image_2": "shopify://shop_images/Attitude_de1f703a-cf60-44e2-879d-9fb54e3fcb0c.png",
+            "image_description_2": "",
+            "image_with_text_image_3": "shopify://shop_images/DRL-Systems.png",
+            "image_description_3": "",
+            "image_with_text_image_4": "shopify://shop_images/Cycles-St-Onge.png",
+            "image_description_4": "",
+            "image_with_text_image_5": "shopify://shop_images/INSPQ_5dd3f89b-10c5-4afe-abf2-9545a108036b.png",
+            "image_description_5": "",
+            "image_with_text_image_6": "shopify://shop_images/Orica_5b5b2157-0130-4242-9ce3-8041ed23979c.png",
+            "image_description_6": "",
+            "image_with_text_image_7": "shopify://shop_images/Novisto.jpg",
+            "image_description_7": "",
+            "image_with_text_image_8": "shopify://shop_images/purkinje.jpg",
+            "image_description_8": "",
+            "slide_count": 6,
+            "image_size": 150,
+            "margin_top": 8,
+            "margin_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "slidy_testimonial_carousel_star_rating_8mtyDW"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_3cir7L": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_KNXJEV": {
+          "type": "caption",
+          "settings": {
+            "caption": "Streamlining Your Supply Chain for a Digital Future",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_3f7Kyk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform Your Company with Logistics Automation",
+            "heading_size": "h1"
+          }
+        },
+        "text_YyCRNL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In today’s fast-paced logistics landscape, efficiency and accuracy are key. Our logistics automation solutions are designed to transform supply chain operations through advanced AI and robotics, empowering businesses to:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_KNXJEV",
+        "heading_3f7Kyk",
+        "text_YyCRNL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_D38whT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nxyUA4": {
+          "type": "column",
+          "settings": {
+            "title": "Optimize Inventory Management",
+            "text": "<p>With AI-driven insights, gain real-time visibility and control over inventory, reducing stock-outs and minimizing holding costs.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_DHPRUK": {
+          "type": "column",
+          "settings": {
+            "title": "Streamline Order Fulfillment",
+            "text": "<p>Our automation tools ensure faster, more accurate order processing, enhancing customer satisfaction and boosting fulfillment capacity.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_tyGtGT": {
+          "type": "column",
+          "settings": {
+            "title": "Enhance Warehouse Operations",
+            "text": "<p>Leveraging robotics and intelligent systems, we streamline warehouse workflows, reduce errors, and maximize storage space.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_nxyUA4",
+        "column_DHPRUK",
+        "column_tyGtGT"
+      ],
+      "custom_css": [
+        ".multicolumn-card {background: rgba(255, 255, 255, 0.2) !important; border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3);}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "See Logistics Automation in Action",
+        "button_link": "shopify://blogs/case-studies/order-automation-and-warehouse-control-system-for-molsons-new-distribution-center",
+        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_3AUPBn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Pp6xWP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Show us your project",
+            "heading_size": "h1"
+          }
+        },
+        "text_TYF9WF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our diverse team is ready to bring your dream project to life. From innovative ideas to expert execution, we're here to help you succeed. Let's create something amazing together!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Pp6xWP",
+        "text_TYF9WF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_7mhkEW": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "e8f482c2-5ebc-4ee9-8b59-55435ef0d060": {
+      "type": "footer",
+      "blocks": {
+        "f6acea88-b3ea-42fe-ab0e-2ddbc10d1be0": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--20454815433005__e8f482c2-5ebc-4ee9-8b59-55435ef0d060-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--20454815433005__e8f482c2-5ebc-4ee9-8b59-55435ef0d060-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "f6acea88-b3ea-42fe-ab0e-2ddbc10d1be0",
+        "template--20454815433005__e8f482c2-5ebc-4ee9-8b59-55435ef0d060-text-1",
+        "template--20454815433005__e8f482c2-5ebc-4ee9-8b59-55435ef0d060-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "fdf2ee5b-b7ea-4753-9bd1-7808b2e8bff3",
+    "main",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "3adeeac6-2a11-402a-a8d5-501306deedcd",
+    "rich_text_RnHAkp",
+    "ec70c22b-4819-4d9f-8133-bdce8d8b41d1",
+    "multicolumn_mwaiGM",
+    "ba550ba5-152b-4137-99f7-567225912b21",
+    "image_with_text_Kk9Nim",
+    "multicolumn_7HDKkj",
+    "rich_text_6fGXmn",
+    "17278830239ab09131",
+    "rich_text_3cir7L",
+    "multicolumn_D38whT",
+    "rich_text_3AUPBn",
+    "contact_form_7mhkEW",
+    "e8f482c2-5ebc-4ee9-8b59-55435ef0d060"
+  ]
+}

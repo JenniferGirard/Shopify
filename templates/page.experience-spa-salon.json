@@ -1,0 +1,492 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/spa_salon.png",
+            "caption": "Spas, Salons & Wellness",
+            "heading": "<strong>A virtual assistant manager for customer experience</strong>",
+            "text": "<p>Managing a spa is not easy. You must ensure client satisfaction, motivate staff and generate new business. Fortunately, help is at hand in the form of a virtual assistant manager, on duty 24/7.</p><p>ExperienceStream is a dynamic customer feedback tool and team engagement program. Using either a tablet or our custom-built kiosk, clients take a few seconds to tell you about their visit. Our powerful software crunches the data and provides advice on how to improve the customer experience. It delivers Key Performance Indicators so that you can track results hourly and daily.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_Y6BatC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UGPGXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "It’s like having a virtual assistant manager",
+            "heading_size": "h0"
+          }
+        },
+        "text_xeHLFN": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>ExperienceStream celebrates great service, turns negative reviews into sales and engages employees.</h2>"
+          }
+        },
+        "text_WzTpfw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It’s like having a virtual assistant manager in charge of monitoring customer experiences.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UGPGXn",
+        "text_xeHLFN",
+        "text_WzTpfw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Here are some of the ways that experiencestream can benefit spas",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_RqyFf4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K8gfik": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fix_problems_in_real_time_icon_bf459b4a-2417-41ca-b9db-5169a480831a.svg",
+            "title": "<strong>Fix problems in real time</strong>",
+            "text": "<p>When clients take the survey we can provide immediate results. Customer service may be lagging or wait times are too long. Whatever the problem, you must take quick action to maintain guest satisfaction. ExperienceStream delivers alerts directly to your phone – allowing you to address issues right away.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_RKKUqR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Engage_staff_icon_827ed590-3bb0-43e3-b3a7-6209dda25a59.svg",
+            "title": "<strong>Engage staff</strong>",
+            "text": "<p>Employee turnover is a serious concern in the spa sector and increases costs for hiring and training. As well, managers must work hard to reward and encourage employees.</p><p>With ExperienceStream, clients can provide specific feedback about the staff who served them. Positive comments let you thank and recognize team members. Poor results give you a heads up to coach staff to improve their customer service.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_nQXpRz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Avoid_nasty_reviews_icon_90d7bf13-207e-4b75-9e3a-831f958efc53.svg",
+            "title": "<strong>Avoid nasty reviews</strong>",
+            "text": "<p>Like many service industries, spas rely on favourable posts on social media to gain new customers. However, sometimes things go wrong.</p><p>When a client gives a negative evaluation at a kiosk, the ExperienceStream system can automatically generate a coupon for them. As the spa manager, you control the coupon offers – such as a discount on a future visit or special prices on products.</p><p><strong>When the client leaves your spa, they will be feeling more positive and may drop the idea of posting a negative review.</strong></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_whJT6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Generate_revenue_icon_59411f62-e8df-472e-ad83-f928e6763b64.svg",
+            "title": "<strong>Generate revenue</strong>",
+            "text": "<p>Every spa wants to increase its sales per customer. ExperienceStream can print coupons for survey respondents, offering a discount on additional products and services.</p><p><strong>Gather data and increase revenue at the same time!</strong></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_K8gfik",
+        "column_RKKUqR",
+        "column_nQXpRz",
+        "column_whJT6V"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 92
+      }
+    },
+    "multicolumn_hjxQkA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CBE8tT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_restaurant_number_img_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_CBE8tT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 84,
+        "padding_bottom": 84
+      }
+    },
+    "rich_text_hYHPNV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JKKDgQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Here are some of the ways that experiencestream can benefit spas",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JKKDgQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_KaLV7p": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tenc8M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurants-how1.png",
+            "title": "",
+            "text": "<p><strong>Guests are invited to take 20 seconds to give feedback. We keep it short to ensure response rates are high.</strong></p><p>You have the choice of installing one of our custom-built kiosks to gather responses or simply have your clients tap on a tablet. If you choose the kiosk, you can instantly generate coupons for guests based on their responses.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_mJdGp8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/award_f97e74ad-4d8a-4d1e-b3c9-8702b04d67d3.png",
+            "title": "",
+            "text": "<p>You can customize the survey by adding photos of the employees working that day. This gives your clients a chance to thank spa staff who went the extra mile.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_8JFh7n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Corrective_action.png",
+            "title": "",
+            "text": "<p><strong>If a client is unhappy, you receive a report immediately.</strong> This allows you to take corrective action – perhaps the washrooms need cleaning or there has been a customer service letdown.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Tenc8M",
+        "column_mJdGp8",
+        "column_8JFh7n"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 92
+      }
+    },
+    "multirow_th6xHx": {
+      "type": "multirow",
+      "blocks": {
+        "row_ML7EdA": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Review.png",
+            "caption": "",
+            "heading": "Engage staff",
+            "text": "<h3>At the end of each day, employees get a summary of their personal feedback for the shift. This motivates them to engage positively with every single client.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_ML7EdA"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 76
+      }
+    },
+    "multicolumn_MxR6J8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_b4n9jK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_restaurant_number_img_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_b4n9jK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_af4mXT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BYPEti": {
+          "type": "heading",
+          "settings": {
+            "heading": "You can use ExperienceStream’s powerful data analysis capabilities to improve operations and increase profitability.",
+            "heading_size": "h1"
+          }
+        },
+        "text_rFWTDd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For example, your reports may show feedback lagging at certain times of the day when the spa is very busy. By deploying your team efficiently, you can increase guest satisfaction – and your profits.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BYPEti",
+        "text_rFWTDd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_qHpbYX": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_Y6BatC",
+    "rich_text_LDUjYU",
+    "multicolumn_RqyFf4",
+    "multicolumn_hjxQkA",
+    "rich_text_hYHPNV",
+    "multicolumn_KaLV7p",
+    "multirow_th6xHx",
+    "multicolumn_MxR6J8",
+    "main",
+    "rich_text_af4mXT",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_qHpbYX"
+  ]
+}

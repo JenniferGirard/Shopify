@@ -1,0 +1,226 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "4f5b00a9-8be8-4988-9e79-4165302ab983": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_mwf8FE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W4WzDY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in touch",
+            "heading_size": "h0"
+          }
+        },
+        "text_fNXwQz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Got an application to send, a project to chat about, or just curious about our company? Give us a call or hit us up using the form below!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_W4WzDY",
+        "text_fNXwQz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_GdKitd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PEXe9L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20201126_085537-2.jpg",
+            "title": "Montreal Office",
+            "text": "<p>1-844-237-5644</p><p> 721 Walker avenue, Office 200 </p><p>Montreal, Quebec, Canada </p><p>H4C 2H5</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_dPXJ79": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/paris_office.png",
+            "title": "Paris Office",
+            "text": "<p>38 Rue de Berri </p><p>75008 Paris</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_PEXe9L",
+        "column_dPXJ79"
+      ],
+      "custom_css": [
+        ".multicolumn-list {display: flex; justify-content: center;}",
+        ".multicolumn-list__item {max-width: 400px;}",
+        ".multicolumn-card.content-container {background: white !important; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}",
+        ".multicolumn-card-spacing {margin: auto;}",
+        ".media {padding-bottom: 40%;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_GA67iF": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_LqJDHr": {
+          "type": "caption",
+          "settings": {
+            "caption": "Leave us a message",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_X9Aj4b": {
+          "type": "heading",
+          "settings": {
+            "heading": "We will get back to you shortly!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "caption_LqJDHr",
+        "heading_X9Aj4b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_faNrA6": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "aa642b73-e413-488c-8be0-aba9bb27cf8c": {
+      "type": "footer",
+      "blocks": {
+        "7f96209c-6e60-4eff-a865-b276eb846265": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "<p>From small projects to complex challenges, our expert team delivers innovative solutions.</p>",
+            "show_social": false
+          }
+        },
+        "template--19990917906733__aa642b73-e413-488c-8be0-aba9bb27cf8c-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--19990917906733__aa642b73-e413-488c-8be0-aba9bb27cf8c-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "7f96209c-6e60-4eff-a865-b276eb846265",
+        "template--19990917906733__aa642b73-e413-488c-8be0-aba9bb27cf8c-text-1",
+        "template--19990917906733__aa642b73-e413-488c-8be0-aba9bb27cf8c-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4f5b00a9-8be8-4988-9e79-4165302ab983",
+    "rich_text_mwf8FE",
+    "multicolumn_GdKitd",
+    "rich_text_GA67iF",
+    "main",
+    "contact_form_faNrA6",
+    "aa642b73-e413-488c-8be0-aba9bb27cf8c"
+  ]
+}

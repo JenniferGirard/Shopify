@@ -1,0 +1,207 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "428c9a2a-9b21-41e3-8c34-7a843ad43387": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "2c72c63c-09f5-4139-8bee-4d845845a24b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blogs",
+            "heading_size": "h0"
+          }
+        },
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay Up to Date on the Latest Trends and New Technologies!</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-heading-1",
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-text-1",
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "0d5f7dd7-63bb-42bb-b28f-48db7001d42c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19990917742893__0d5f7dd7-63bb-42bb-b28f-48db7001d42c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover How AI Improves Customer Experience! 🚀",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917742893__0d5f7dd7-63bb-42bb-b28f-48db7001d42c-heading-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "1694702189c80c8f42": {
+      "type": "apps",
+      "blocks": {
+        "baf0fdca-2222-40b4-a237-fa61a803a4a0": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_3ifSljjDUe",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 3,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "baf0fdca-2222-40b4-a237-fa61a803a4a0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".shopify-app-block {display: flex;}",
+        ".formful__dialog-button {margin: 0 auto 0;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "13a8412d-c695-4149-860c-46cd57f54584": {
+      "type": "footer",
+      "blocks": {
+        "32b6a1d0-932a-4e41-a69a-ecc7762ffd58": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "<p>From small projects to complex challenges, our expert team delivers innovative solutions.</p>",
+            "show_social": false
+          }
+        },
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "32b6a1d0-932a-4e41-a69a-ecc7762ffd58",
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-text-1",
+        "template--19990917742893__13a8412d-c695-4149-860c-46cd57f54584-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "428c9a2a-9b21-41e3-8c34-7a843ad43387",
+    "2c72c63c-09f5-4139-8bee-4d845845a24b",
+    "0d5f7dd7-63bb-42bb-b28f-48db7001d42c",
+    "1694702189c80c8f42",
+    "main",
+    "13a8412d-c695-4149-860c-46cd57f54584"
+  ]
+}

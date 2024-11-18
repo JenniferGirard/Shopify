@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "center",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_qfLey4": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_iCPdBm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elevate Your Skills",
+            "heading_size": "h0"
+          }
+        },
+        "text_3BbQD7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are excited to offer a range of trainings and workshops designed for all skill levels. Whether you're a beginner looking to build foundational knowledge or an advanced learner seeking specialized skills, our programs cater to your needs. Join us to enhance your expertise and unlock new opportunities!</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iCPdBm",
+        "text_3BbQD7"
+      ],
+      "custom_css": [
+        ".banner__box {width: 100%;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_banner_PmCrhm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Eti3Hy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elevate Your Skills",
+            "heading_size": "h1"
+          }
+        },
+        "text_YxERE9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are excited to offer a range of trainings and workshops designed for all skill levels. Whether you're a beginner looking to build foundational knowledge or an advanced learner seeking specialized skills, our programs cater to your needs. Join us to enhance your expertise and unlock new opportunities!</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Eti3Hy",
+        "text_YxERE9"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4a0b5572-e4ac-4138-95ed-212faef51d14",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_Q8NrN6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tjwrYW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/intelligent_auto.png",
+            "title": "Introduction to AI",
+            "text": "<p>We offer hands-on AI training, providing expert guidance and practical experience to help you master the latest technologies.</p>",
+            "link_label": "Start Your AI Training",
+            "link": "shopify://pages/ai-training",
+            "is_card_clickable": true
+          }
+        },
+        "column_KgWUK6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pattern.png",
+            "title": "Digital Transformation Training",
+            "text": "<p>We train your teams to integrate best practices, simplifying system management and optimizing software performance.</p>",
+            "link_label": "Join the Digital Revolution",
+            "link": "shopify://pages/training",
+            "is_card_clickable": true
+          }
+        },
+        "column_bgrnqm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/training_0af32d66-0d5a-4112-8013-910fb4cbcd69.png",
+            "title": "Perspective Workshop",
+            "text": "<p>Optimize your business efficiency with AI and human intelligence. We know that the key to performance is the right perspective!</p>",
+            "link_label": "Explore our Workshop",
+            "link": "shopify://pages/perspective-workshop",
+            "is_card_clickable": true
+          }
+        }
+      },
+      "block_order": [
+        "column_tjwrYW",
+        "column_KgWUK6",
+        "column_bgrnqm"
+      ],
+      "custom_css": [
+        ".multicolumn-list {display: flex; justify-content: center;}",
+        ".multicolumn-list__item {max-width: 400px;}",
+        ".media {padding-bottom: 70%;}",
+        ".multicolumn-card__info {padding-bottom: 80px;}",
+        ".link {position: absolute; bottom: 30px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8": {
+      "type": "footer",
+      "blocks": {
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "text_jGM3kL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0",
+        "text_jGM3kL",
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f",
+    "main",
+    "image_banner_qfLey4",
+    "image_banner_PmCrhm",
+    "multicolumn_Q8NrN6",
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8"
+  ]
+}

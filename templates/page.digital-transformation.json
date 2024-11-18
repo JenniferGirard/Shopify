@@ -1,0 +1,242 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "dd0c58f1-aa38-4dd3-8cc0-13f5c6f37db5": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Digital Transformation Expertise to Reach Your Full Potential",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Digital transformation is much more than just the transition to the digital sphere for organizations. Our digital transformation service supports your company in its operational effectiveness.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8f360430-771e-4dce-abc0-df6f8a89bf39": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20454826410285__8f360430-771e-4dce-abc0-df6f8a89bf39-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Business_transformation_consulting.png",
+            "title": "Business Transformation Consulting",
+            "text": "<p>Our experts help you achieve your goals by collecting valuable data that allows you to reinvent your business processes. Take better advantage of your digital assets and develop the full potential of your business.</p>",
+            "link_label": "",
+            "link": "shopify://pages/consulting-and-support",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454826410285__8f360430-771e-4dce-abc0-df6f8a89bf39-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Technology_monitoring.png",
+            "title": "Technology Monitoring",
+            "text": "<p>Our experts help you implement an effective business model within your organization by analyzing your internal technologies in depth. This strategy allows you to better understand the long-term impact of technology on your organization.</p>",
+            "link_label": "",
+            "link": "shopify://pages/technology-monitoring",
+            "is_card_clickable": false
+          }
+        },
+        "d5081827-b6de-4173-ab42-66bba772ddd1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cybersecurity_consulting.png",
+            "title": "Cybersecurity Consulting",
+            "text": "<p>The digital transformation service includes a cybersecurity component. We advise and support you in order to better prepare you to face digital attacks and protect you against them.</p>",
+            "link_label": "",
+            "link": "shopify://pages/cybersecurity-consulting",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20454826410285__8f360430-771e-4dce-abc0-df6f8a89bf39-column-1",
+        "template--20454826410285__8f360430-771e-4dce-abc0-df6f8a89bf39-column-2",
+        "d5081827-b6de-4173-ab42-66bba772ddd1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_cerehH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LWMbPW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in Touch for Your Digital Transformation Journey",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LWMbPW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_z7kB4A": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "c15dd6c3-ee6e-4157-9795-189349ff2236": {
+      "type": "footer",
+      "blocks": {
+        "0171c82a-a385-40fb-b2d2-2d8e2ff06a9c": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        },
+        "template--20454826410285__c15dd6c3-ee6e-4157-9795-189349ff2236-link_list-1": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "template--20454826410285__c15dd6c3-ee6e-4157-9795-189349ff2236-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "0171c82a-a385-40fb-b2d2-2d8e2ff06a9c",
+        "template--20454826410285__c15dd6c3-ee6e-4157-9795-189349ff2236-link_list-1",
+        "template--20454826410285__c15dd6c3-ee6e-4157-9795-189349ff2236-text-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "dd0c58f1-aa38-4dd3-8cc0-13f5c6f37db5",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "main",
+    "8f360430-771e-4dce-abc0-df6f8a89bf39",
+    "rich_text_cerehH",
+    "contact_form_z7kB4A",
+    "c15dd6c3-ee6e-4157-9795-189349ff2236"
+  ]
+}

@@ -1,0 +1,561 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/human_resources.png",
+            "caption": "Human Resource Management",
+            "heading": "<strong>A virtual HR assistant to measure employee experience</strong>",
+            "text": "<p>Are you looking to innovate and understand the impact of your HR programs and policies on your employees.</p><p>ExperienceStream is the ideal solution to help you in the success of your HR initiatives and measure the added value of your career paths. Stay human while using technology and artificial intelligence. </p><p>ExperienceStream is ideal for your industry as you can measure and qualify the experience interactions with your team members.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_Y6BatC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UGPGXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring experience is essential to better target the path used within companies",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UGPGXn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_hjxQkA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CBE8tT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_HR_number_img_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_CBE8tT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_af4mXT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rFWTDd": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Listen to them in real time for better continuous engagement. Every day you can measure and share different subjects.</h2>"
+          }
+        },
+        "heading_BYPEti": {
+          "type": "heading",
+          "settings": {
+            "heading": "It only takes 6 seconds to get your HR data.",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "text_rFWTDd",
+        "heading_BYPEti"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stand Out From Other Employers by Collecting Feedback With Experiencestream",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_RqyFf4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K8gfik": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about3.png",
+            "title": "Improve the employee experience",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_RKKUqR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/social-media.png",
+            "title": "Strengthen your employer brand",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_nQXpRz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about2.png",
+            "title": "Mobilize your employees",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_whJT6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about1.png",
+            "title": "Continually assess everyone's perceptions",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_L9UxgH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/response-rate.png",
+            "title": "Share the good moves of your teams",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_K8gfik",
+        "column_RKKUqR",
+        "column_nQXpRz",
+        "column_whJT6V",
+        "column_L9UxgH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 92
+      }
+    },
+    "multicolumn_MxR6J8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_b4n9jK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_HR_number_img_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_b4n9jK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_UWVYYp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Txg7Kd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Candidate Experience",
+            "heading_size": "hxl"
+          }
+        },
+        "text_CQ4zRx": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>A virtual HR assistant to measure the experience of your candidates</h2>"
+          }
+        },
+        "text_jzrcTL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Would you like to validate the experience of your candidates with your teams in real time? We have been working for several years to develop an interactive terminal allowing, among other things, to recover the appreciation of people in various business sectors.</p><p>Create a different candidate experience that can allow your company to stand out from the market.</p><p>ExperienceStream is ideal for your industry because you can finally measure and qualify the experience of your candidates. What could be better than being able to measure your candidate’s career and make sure you can gather opinions quickly, and that in six seconds and less!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Txg7Kd",
+        "text_CQ4zRx",
+        "text_jzrcTL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_hYHPNV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JKKDgQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Yes, experiencestream is the solution to stand out from the crowd.",
+            "heading_size": "h2"
+          }
+        },
+        "heading_mEWQxP": {
+          "type": "heading",
+          "settings": {
+            "heading": "It allows you to:",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JKKDgQ",
+        "heading_mEWQxP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 76
+      }
+    },
+    "multicolumn_KaLV7p": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tenc8M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Evaluation_of_services_icon_2326d933-cdf3-45de-a7fe-ab4ab407685b.svg",
+            "title": "",
+            "text": "<h4>Evaluate in real time the experiences of your candidates with employees and recruiters</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_mJdGp8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Equal_Involvement_icon_b857e20b-94ec-47b3-bfa0-36cd764bf42d.svg",
+            "title": "",
+            "text": "<h4>Measure the impact of your employee ambassadors on your candidates</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_8JFh7n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Guarding_reputation_icon_ff192c09-3550-45f0-8e15-ba814bea5850.svg",
+            "title": "",
+            "text": "<h4>Promote your corporate brand</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_UaxMHp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Repairs_maintenance_icon_e283a7c2-799a-497b-aba9-5b354c7b2ff4.svg",
+            "title": "",
+            "text": "<h4>Immediately receive feedback from applicants</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_XWfUxF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon_d460acc2-5ef7-4599-99c2-559d11670067.svg",
+            "title": "",
+            "text": "<h4>Evaluate your recruiting team</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_RRWxPG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon-2.svg",
+            "title": "",
+            "text": "<h4>Stand out on the job market</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_CCycmU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Continuous_measurement_icon_4016a066-55e1-4b8d-a590-106f67fad985.svg",
+            "title": "",
+            "text": "<h4>Develop your brand ambassador candidate</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_XnrdBt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Management_icon-1.svg",
+            "title": "",
+            "text": "<h4>Get detailed reports in real time</h4>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Tenc8M",
+        "column_mJdGp8",
+        "column_8JFh7n",
+        "column_UaxMHp",
+        "column_XWfUxF",
+        "column_RRWxPG",
+        "column_CCycmU",
+        "column_XnrdBt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 92
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_b9ckYJ": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_Y6BatC",
+    "multicolumn_hjxQkA",
+    "rich_text_af4mXT",
+    "rich_text_LDUjYU",
+    "multicolumn_RqyFf4",
+    "multicolumn_MxR6J8",
+    "rich_text_UWVYYp",
+    "rich_text_hYHPNV",
+    "multicolumn_KaLV7p",
+    "main",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_b9ckYJ"
+  ]
+}

@@ -1,0 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "a5f3bc7e-9e7a-4b75-91d2-8f89a64ffc6a": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo.png",
+        "logo_width": 130,
+        "logo_url": "shopify://pages/encryptio",
+        "menu": "encryptio-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-4a0b5572-e4ac-4138-95ed-212faef51d14",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 24,
+        "padding_bottom": 8
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a006a86f-bb9c-40f2-80ed-f5de665818af": {
+      "type": "footer",
+      "blocks": {
+        "eec80a4a-77f6-4bfa-9f96-097aec24e711": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/navbar_logo.png",
+            "brand_image_width": 150,
+            "brand_description": "",
+            "show_social": true
+          }
+        },
+        "template--20458463297837__a006a86f-bb9c-40f2-80ed-f5de665818af-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "encryptio-footer"
+          }
+        }
+      },
+      "block_order": [
+        "eec80a4a-77f6-4bfa-9f96-097aec24e711",
+        "template--20458463297837__a006a86f-bb9c-40f2-80ed-f5de665818af-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "a5f3bc7e-9e7a-4b75-91d2-8f89a64ffc6a",
+    "main",
+    "a006a86f-bb9c-40f2-80ed-f5de665818af"
+  ]
+}

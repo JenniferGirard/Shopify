@@ -1,0 +1,635 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_AhGDpQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zGmeLm": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "hxl"
+          }
+        },
+        "text_zgKELR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over the decades, our founders have seen it all. Toxic bosses, frustrated customers and employees who are so paralyzed by fear that productivity has plummeted. On the other hand, they have also been blessed to observe wonderful people delivering outstanding customer service, supervisors who care about their staff and teams that work brilliantly together.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zGmeLm",
+        "text_zgKELR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_hYQhcy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NQnYyB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/changent.png",
+            "title": "",
+            "text": "<p>With all of these experiences in mind, Changent was born from a desire to improve customer interactions and create healthier workplaces. Many years were spent studying and learning about human psychology, customer service and workplace best practices. The Changent co-founders even opened a café to put their innovative ideas into practice. </p><p>They knew that the solutions would require tools to gather data about the experiences of customers and employees. They would need powerful software to assemble and analyze information and recommend actions. It would highlight wonderful customer service and flag situations where managers should intervene.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_NQnYyB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_feDUbM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ra8dtp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Changent has several products that will dramatically change workplaces and the way that both customers and team members view customer experience.",
+            "heading_size": "h2"
+          }
+        },
+        "text_MWtp8a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In addition to ExperienceStream, the company has created PeerSpheres. It is a powerful human resources tool that gathers comprehensive employee experiences and provides warnings about potentially troubling workplace situations. PeerSpheres fosters positive workplace cultures and promotes employee well-being.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ra8dtp",
+        "text_MWtp8a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_Grqxyx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Rnc6NJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_iDDifE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ExperienceStream-1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/experience-stream",
+            "is_card_clickable": true
+          }
+        },
+        "column_Fi6F86": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_6nwQHF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PeerSpheres_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_3LYxmn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Rnc6NJ",
+        "column_iDDifE",
+        "column_Fi6F86",
+        "column_6nwQHF",
+        "column_3LYxmn"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_pChDae": {
+      "type": "rich-text",
+      "blocks": {
+        "text_wMcXDc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Changent stands for high value and high standards. At the same time, we believe that these lead to increased revenues and greater profitability.</p>"
+          }
+        },
+        "heading_8DkRUN": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Changent team is dedicated to:",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_wMcXDc",
+        "heading_8DkRUN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_KB9RLa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bBfrFr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_NWr9RC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about1.png",
+            "title": "Improving Workplace Interactions",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_HDt9q4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about2.png",
+            "title": "Growing Employee Engagement",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_NWcrbh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about3.png",
+            "title": "Building Customer Experience",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_pY99RM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_bBfrFr",
+        "column_NWr9RC",
+        "column_HDt9q4",
+        "column_NWcrbh",
+        "column_pY99RM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 72
+      }
+    },
+    "rich_text_Xj3yWg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UFXkcT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Great Customer Experiences",
+            "heading_size": "h0"
+          }
+        },
+        "text_p6pPjn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ExperienceStream is the voice of the customer. Brick and mortar operations – stores, restaurants, cinemas and more – are all under threat from online services. The pace of change is incredible. It’s no longer possible to serve customers through “trial and error.” Firms need high quality data, delivered quickly. They require reports that allow them to implement immediate changes to keep existing customers and attract new ones.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UFXkcT",
+        "text_p6pPjn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_tzTVT4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i7CEcA": {
+          "type": "heading",
+          "settings": {
+            "heading": "At the same time, front-line employees must better understand what customers are experiencing and feeling. With improved customer understanding, staff can adjust their approach to clients and become more engaged at work.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_i7CEcA"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_mdkVCP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E3cTYh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about_page_img.png",
+            "title": "",
+            "text": "<h1>That’s a startling difference!</h1>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_E3cTYh"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_aMWVBN": {
+      "type": "rich-text",
+      "blocks": {
+        "text_mB9zyy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking into this further, we discovered that companies often survey a handful of customers, either in person or via online survey invitations on receipts. As any statistician will advise, you need a large amount of data in order to generate useful information. Surveys just weren’t cutting it.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_mB9zyy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_qHPN8C": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YNRpef": {
+          "type": "heading",
+          "settings": {
+            "heading": "As well, by the time a customer took a receipt survey the customer service issue was over. Businesses need real-time information so that they can make immediate improvements.",
+            "heading_size": "h2"
+          }
+        },
+        "text_fNQtF6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our founders vowed to find a better way. They were determined to come up with a method to gather more data, add value by analyzing it, and create better experiences for both customers and employees. ExperienceStream was born. Since then, their committed and talented team have poured their hearts into producing exceptional software and products.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YNRpef",
+        "text_fNQtF6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_XTb6kd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hWX6NT": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Our founders and the team would love to chat with you about how ExperienceStream can make a difference in your organization.</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hWX6NT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 64
+      }
+    },
+    "multicolumn_MjGAjM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nxPBQg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/about-team.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_nxPBQg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_YF9Tzq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_f8UTAF": {
+          "type": "heading",
+          "settings": {
+            "heading": "We hope you’ll join us on this great journey.",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_f8UTAF"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Final_banner_ES.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20458405495085__03c0b5e8-c0db-48ad-85d1-9e6b2131df28-link_list-1": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Information",
+            "menu": "empassion-footer"
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47",
+        "template--20458405495085__03c0b5e8-c0db-48ad-85d1-9e6b2131df28-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_kkRQqR": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "rich_text_AhGDpQ",
+    "multicolumn_hYQhcy",
+    "rich_text_feDUbM",
+    "main",
+    "multicolumn_Grqxyx",
+    "rich_text_pChDae",
+    "multicolumn_KB9RLa",
+    "rich_text_Xj3yWg",
+    "rich_text_tzTVT4",
+    "multicolumn_mdkVCP",
+    "rich_text_aMWVBN",
+    "rich_text_qHPN8C",
+    "rich_text_XTb6kd",
+    "multicolumn_MjGAjM",
+    "image_banner_YF9Tzq",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_kkRQqR"
+  ]
+}

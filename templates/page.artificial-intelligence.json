@@ -1,0 +1,523 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "0d2d8c03-5eb6-496b-8b38-6dde8317f431": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "text_wyngjK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Services / Artificial Intelligence</p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artificial Intelligence Expertise",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are proud to participate in innovative projects contributing to the acceleration of AI adoption in Quebec and North America. Our AI technologies are available to assist a wide range of companies who wish to optimize their processes.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "text_wyngjK",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "243ea6a6-5392-42b4-9c1b-ac9f8e069dc6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20454822805805__243ea6a6-5392-42b4-9c1b-ac9f8e069dc6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash the Possibilities",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20454822805805__243ea6a6-5392-42b4-9c1b-ac9f8e069dc6-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 0
+      }
+    },
+    "704fec7c-9f20-4fff-ba76-a7cf081a7f58": {
+      "type": "multicolumn",
+      "blocks": {
+        "9718a3b1-ec4d-419b-b8e3-74b342d56bab": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AI_models_57c82c82-0bb7-4feb-ac10-e777ea939383.png",
+            "title": "AI Models",
+            "text": "<p>Integrate the power of AI models to boost your work force such as ChatGPT, Bard and many more. </p>",
+            "link_label": "",
+            "link": "shopify://pages/contact",
+            "is_card_clickable": false
+          }
+        },
+        "column_FDtmpN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/chatbot.png",
+            "title": "ChatBot",
+            "text": "<p>Chatbots are playing a crucial role in enhancing customer service, streamlining operations, and driving business innovation. </p>",
+            "link_label": "",
+            "link": "shopify://pages/contact",
+            "is_card_clickable": false
+          }
+        },
+        "column_XM3igz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/RAG.png",
+            "title": "RAG",
+            "text": "<p>Fetches relevant information from a vast data source to provide more precise, detailed, and context-aware answers.</p>",
+            "link_label": "",
+            "link": "shopify://pages/contact",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natural_language_processing.png",
+            "title": "Natural Language Processing",
+            "text": "<p>Enhance text interpretation, speed up searches, and optimize data extraction.</p>",
+            "link_label": "",
+            "link": "shopify://pages/natural-language-processing",
+            "is_card_clickable": false
+          }
+        },
+        "05a15410-f739-44b2-a436-c3a6b3e8b955": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Intelligent_automation.png",
+            "title": "Intelligent Automation",
+            "text": "<p>Boosts efficiency by handling multiple tasks at once, saving time and energy, and reducing errors.</p>",
+            "link_label": "",
+            "link": "shopify://pages/intelligent-automation",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Image_enhancement.png",
+            "title": "Image Enhancement",
+            "text": "<p>Enhance image resolution by adding new pixels, improving overall image quality.</p>",
+            "link_label": "",
+            "link": "shopify://pages/image-enhancement",
+            "is_card_clickable": false
+          }
+        },
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pattern_recognition.png",
+            "title": "Pattern Recognition",
+            "text": "<p>Identify patterns in data such as faces, QR codes, voice, satellite images and many more, for better informed decision-making.</p>",
+            "link_label": "",
+            "link": "shopify://pages/pattern-recognition",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "9718a3b1-ec4d-419b-b8e3-74b342d56bab",
+        "column_FDtmpN",
+        "column_XM3igz",
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-1",
+        "05a15410-f739-44b2-a436-c3a6b3e8b955",
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-3",
+        "template--20454822805805__704fec7c-9f20-4fff-ba76-a7cf081a7f58-column-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_KVHgfV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EDNTgn": {
+          "type": "column",
+          "settings": {
+            "title": "What is Natural Language  Processing?",
+            "text": "",
+            "link_label": "Learn More",
+            "link": "shopify://pages/natural-language-processing",
+            "is_card_clickable": true
+          }
+        },
+        "column_NenppQ": {
+          "type": "column",
+          "settings": {
+            "title": "What is Intelligence Automation?",
+            "text": "",
+            "link_label": "Learn More",
+            "link": "shopify://pages/intelligent-automation",
+            "is_card_clickable": true
+          }
+        },
+        "column_JQcKdm": {
+          "type": "column",
+          "settings": {
+            "title": "What is Image Enhancement?",
+            "text": "",
+            "link_label": "Lear More",
+            "link": "shopify://pages/image-enhancement",
+            "is_card_clickable": true
+          }
+        }
+      },
+      "block_order": [
+        "column_EDNTgn",
+        "column_NenppQ",
+        "column_JQcKdm"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Let's learn AI together!",
+        "button_link": "shopify://pages/ai-training",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20454822805805__f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Choose our AI",
+            "heading_size": "h2"
+          }
+        },
+        "template--20454822805805__f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We specialize in integrating AI into your existing app or project, enhancing its capabilities with advanced technology. </p><p>We also offer custom software development services to build bespoke solutions that incorporate AI, unlocking new possibilities and optimizing your project's potential.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--20454822805805__f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae-heading-1",
+        "template--20454822805805__f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BSL_solo_Yannick-1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "f51f8ca8-9be8-4316-b7fd-c57d16f24bf1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20454822805805__f51f8ca8-9be8-4316-b7fd-c57d16f24bf1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concerned About AI?",
+            "heading_size": "h2"
+          }
+        },
+        "template--20454822805805__f51f8ca8-9be8-4316-b7fd-c57d16f24bf1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ethical and responsible AI integration practices are foundational to our mission. Beslogic prides itself on ensuring the healthy progression of all its developed technologies.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--20454822805805__f51f8ca8-9be8-4316-b7fd-c57d16f24bf1-heading-1",
+        "template--20454822805805__f51f8ca8-9be8-4316-b7fd-c57d16f24bf1-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BSL_solo_Helene.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_EiDUQw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DP3f8U": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pioneering Project for a Smarter Tomorrow",
+            "heading_size": "h1"
+          }
+        },
+        "text_D4XwNW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our AI project is driving innovation across industries, delivering smarter solutions through advanced machine learning. We’re dedicated to transforming challenges into opportunities with cutting-edge technology.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DP3f8U",
+        "text_D4XwNW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_q9hQ6A": {
+      "type": "multirow",
+      "blocks": {
+        "row_7BjqQN": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Product_img_0cf32e43-e088-40e1-b088-51df956099f6.png",
+            "caption": "Research & investigation tool",
+            "heading": "ARI",
+            "text": "<p>ARI is an embedded on premise AI platform. Through proprietary AI and NLP technologies, ARI delivers real-time, secure, compliant and accelerated document search insights from a broad array of public and private file sources –without the fear of compromising and exposing your data to the world. </p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/ari"
+          }
+        }
+      },
+      "block_order": [
+        "row_7BjqQN"
+      ],
+      "custom_css": [
+        ".image-with-text__text-item {background: rgba(255, 255, 255, 0.2); border-radius: 0px 16px 16px 0px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3);}",
+        "p {color: white;}",
+        "h2 {color: white;}"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_ptTwqA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rPtdRQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's work together",
+            "heading_size": "h1"
+          }
+        },
+        "text_mJCaig": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our diverse team is ready to bring your dream project to life. From innovative ideas to expert execution, we're here to help you succeed. Let's create something amazing together!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rPtdRQ",
+        "text_mJCaig"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_Hqt9wQ": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "18b9906e-496b-4fc8-81a8-921811d290c5": {
+      "type": "footer",
+      "blocks": {
+        "782d4c79-416f-48dc-88a3-d777a05ad773": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--20454822805805__18b9906e-496b-4fc8-81a8-921811d290c5-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--20454822805805__18b9906e-496b-4fc8-81a8-921811d290c5-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "782d4c79-416f-48dc-88a3-d777a05ad773",
+        "template--20454822805805__18b9906e-496b-4fc8-81a8-921811d290c5-text-1",
+        "template--20454822805805__18b9906e-496b-4fc8-81a8-921811d290c5-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "0d2d8c03-5eb6-496b-8b38-6dde8317f431",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "main",
+    "243ea6a6-5392-42b4-9c1b-ac9f8e069dc6",
+    "704fec7c-9f20-4fff-ba76-a7cf081a7f58",
+    "multicolumn_KVHgfV",
+    "f11c648a-4cf4-4cd5-a9e7-f81afa44c4ae",
+    "f51f8ca8-9be8-4316-b7fd-c57d16f24bf1",
+    "rich_text_EiDUQw",
+    "multirow_q9hQ6A",
+    "rich_text_ptTwqA",
+    "contact_form_Hqt9wQ",
+    "18b9906e-496b-4fc8-81a8-921811d290c5"
+  ]
+}

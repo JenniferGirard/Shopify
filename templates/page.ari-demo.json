@@ -1,0 +1,155 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "32254524-8a52-4e2a-b456-b6a4c6403f9f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/Navbar_logo.svg",
+        "logo_width": 70,
+        "logo_url": "shopify://pages/ari",
+        "menu": "ari-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
+    "image_banner_7GUGYL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_n8b4KJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bring secure AI search to your most sensitive data",
+            "heading_size": "h1"
+          }
+        },
+        "text_hhKf6z": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ARI is an on-premise AI search platform that provides secure document search insights sourced exclusively from your organization's internal database, ensuring data privacy and compliance.</p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_fT9DNk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Try out the demo",
+            "button_link_1": "https://app.arisearch.ai/register",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_n8b4KJ",
+        "text_hhKf6z",
+        "buttons_fT9DNk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_banner_demo_page_22153add-b111-4007-901c-fc35a0f4bcaf.png",
+        "image_overlay_opacity": 10,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "video_cmP3VB": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/ARI demo V4.mp4",
+        "video_url": "",
+        "cover_image": "shopify://shop_images/Demo_video_cover.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "padding_top": 60,
+        "padding_bottom": 100
+      }
+    },
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e": {
+      "type": "footer",
+      "blocks": {
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_ARI.svg",
+            "brand_image_width": 100,
+            "brand_description": "<p>1 844 BES-LOGIC<br/><a href=\"mailto:support@arisearch.ai\" target=\"_blank\" title=\"mailto:support@arisearch.ai\">support@arisearch.ai</a></p><p>721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p>",
+            "show_social": true
+          }
+        },
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "ari-footer"
+          }
+        }
+      },
+      "block_order": [
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9",
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "32254524-8a52-4e2a-b456-b6a4c6403f9f",
+    "image_banner_7GUGYL",
+    "main",
+    "video_cmP3VB",
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e"
+  ]
+}

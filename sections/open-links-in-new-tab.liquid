@@ -1,0 +1,42 @@
+<script>
+  const links = document.links;
+  for (let link of links) {
+    {%- for block in section.blocks -%}
+        if (link.href.includes('{{ block.settings.new_tab_link }}')) {
+          link.target = '{{ block.settings.link_target }}';
+          // We want the same button click to re-use the same tab, commenting this out
+          // link.rel = 'noreferrer noopener';
+      }
+    {% endfor %}
+  }
+</script>
+{% schema %}
+{
+  "name": "Open links in new tab",
+  "blocks": [
+    {
+      "type": "new_tab_link",
+      "name": "New tab link",
+      "settings": [
+        {
+          "type": "text",
+          "id": "link_target",
+          "default": "_blank",
+          "label": "Link Target",
+          "info": "Defaults to \"_blank\" if empty"
+        },
+        {
+          "type": "url",
+          "id": "new_tab_link",
+          "label": "Link to open in new tab"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Open links in new tab"
+    }
+  ]
+}
+{% endschema %}

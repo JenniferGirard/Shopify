@@ -1,0 +1,479 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/retail.png",
+            "caption": "Retail Industry",
+            "heading": "<strong>Retail stores battle online shopping by delivering outstanding customer experiences</strong>",
+            "text": "<p>In Canada, online shopping accounts for one in ten retail purchases. While that number may seem small, it is growing at an annual rate of 20 percent. In order to fight back against the trend toward online purchases, bricks and mortar stores need to deliver outstanding service and create wonderful customer experiences.</p><p>A bike shop might take a customer’s measurements to ensure that a new bicycle is the right size. A hardware store can help a homeowner find the perfect paint for the exterior trim. And an artist gallery can show how a work will look in a living room.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_YNccn6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>But how do you know when you are delivering great service? How do you continuously improve?</h3>"
+          }
+        },
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "That’s where ExperienceStream comes in.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_YNccn6",
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_RqyFf4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K8gfik": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/restaurants-how1.png",
+            "title": "",
+            "text": "<p>Using one of our custom kiosks or your store’s tablet, clients tap their feedback. You can set the questions – these could cover product selection, service, store cleanliness and the helpfulness of your staff.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_nQXpRz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Results.svg",
+            "title": "",
+            "text": "<p>Once customers have responded, ExperienceStream’s powerful software generates valuable reports that let you track results, analyze operational problems and engage your team.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_RKKUqR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/award_f97e74ad-4d8a-4d1e-b3c9-8702b04d67d3.png",
+            "title": "",
+            "text": "<p>By asking clients for on-the-spot comments, restaurants can receive up to nine times more responses than including a survey request on a bill.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_K8gfik",
+        "column_nQXpRz",
+        "column_RKKUqR"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_LqQwdD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4x4yNT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_restaurant_number_img_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_4x4yNT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 84
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multirow_Tp6HH4": {
+      "type": "multirow",
+      "blocks": {
+        "row_xF47pz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/retail_locations.png",
+            "caption": "",
+            "heading": "",
+            "text": "<h3>Retailers with more than one location can compare store results. This helps leadership to learn why some stores are posting outstanding revenues and customer service ratings while others are underperforming.</h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_xF47pz"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_hjxQkA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CBE8tT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_restaurant_number_img_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_CBE8tT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7wLXaN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_g4RxqR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_restaurant_number_img_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_g4RxqR"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_ddK73p": {
+      "type": "multirow",
+      "blocks": {
+        "row_ath8e8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Alart.svg",
+            "caption": "",
+            "heading": "Instant Alerts",
+            "text": "<h4>When ExperienceStream detects a problem, it sends a real-time alert to the manager’s phone. It could be a washroom needs cleaning or the bartender is taking too long to fill orders. The manager can immediately take steps to solve the problem and restore customer experiences to the expected level.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_8GkRq9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/report.svg",
+            "caption": "",
+            "heading": "Daily & monthly reports",
+            "text": "<h4>Regular reports allow managers to monitor and improve the quality of the food and service. By analyzing the results, you can pinpoint problems and take action.</h4><h4>For example, ExperienceStream reports may show a decline in service at certain times of the day when staff are extremely busy. The restaurant can redeploy its team to fill the gap.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_AwBkr7": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Congrats.svg",
+            "caption": "",
+            "heading": "Engage & motivate staff",
+            "text": "<h3><strong>Customer feedback helps keep staff on top of their game and builds their confidence.</strong></h3><h4>Our “Congratulate Your Server” feature allows customers to thank the person who provided outstanding service or went above and beyond to deliver a wonderful customer experience.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_ath8e8",
+        "row_8GkRq9",
+        "row_AwBkr7"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 76
+      }
+    },
+    "image_banner_VeVWA6": {
+      "type": "image-banner",
+      "blocks": {
+        "text_reXLCh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Store Manager of Bilboquet Ice cream, Maude Rivest-Beaudoin says:</p><p></p>",
+            "text_style": "subtitle"
+          }
+        },
+        "text_wgV3VB": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>“When I’m not there I can see if employees are still doing a good job.”</h2>",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_3peqBc": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View Case Study",
+            "button_link_1": "https://drive.google.com/file/d/1oN_WO-xzLYbBpyrt05LJm8f63rsuYYZN/view?usp=sharing",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_reXLCh",
+        "text_wgV3VB",
+        "buttons_3peqBc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gradient_img_bcg.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_jj7zkF": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_LDUjYU",
+    "multicolumn_RqyFf4",
+    "multicolumn_LqQwdD",
+    "main",
+    "multirow_Tp6HH4",
+    "multicolumn_hjxQkA",
+    "multicolumn_7wLXaN",
+    "multirow_ddK73p",
+    "image_banner_VeVWA6",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_jj7zkF"
+  ]
+}

@@ -1,0 +1,278 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1164d6cc-be1a-43a8-9e0f-c5a4f57ee7ac": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a3cd35cb-017f-4c85-b93c-19466469d885": {
+      "type": "image-banner",
+      "blocks": {
+        "text_hk4qXx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From Vision to Reality</p><p></p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Internal Software Development Projects",
+            "heading_size": "h1"
+          }
+        },
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We've applied our industry experience and combined it with the expertise of our people to deliver unique solutions that meets growing business needs across a variety of industries.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_hk4qXx",
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-heading-1",
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-text-1",
+        "template--20433037656365__a3cd35cb-017f-4c85-b93c-19466469d885-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Products_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "0812ce5a-c087-49e2-878d-74f25a7b5173": {
+      "type": "multirow",
+      "blocks": {
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Product_img_0cf32e43-e088-40e1-b088-51df956099f6.png",
+            "caption": "Research & investigation tool",
+            "heading": "ARI",
+            "text": "<p>ARI is an embedded on premise AI platform. Through proprietary AI and NLP technologies, ARI delivers real-time, secure, compliant and accelerated document search insights from a broad array of public and private file sources –without the fear of compromising and exposing your data to the world. </p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/ari"
+          }
+        },
+        "row_APEfnX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/ExperienceStream_prodct_card.png",
+            "caption": "Customer service management tool",
+            "heading": "ExperienceStream",
+            "text": "<p>Outstanding customer service keeps clients returning, boosting sales and profits. Reliable data is essential for consistently great service. ExperienceStream is the solution: a dynamic program that collects and analyzes feedback, ensuring satisfied customers without guesswork.</p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/experience-stream"
+          }
+        },
+        "515bbe45-c0ac-48b9-ab06-83a81be508bb": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/WildFire2.png",
+            "caption": "video game",
+            "heading": "Wildfire",
+            "text": "<p>Wildfire is a third person game where you engage in aerial firefighting.</p><p>All profits of this game will be donated to the Red Cross Foundation.</p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/wildfire"
+          }
+        },
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Empassion.png",
+            "caption": "HR Management tool",
+            "heading": "EmPassion",
+            "text": "<p>Empassion is a human-centered solution that allows you to visualize the drivers of engagement among the members of your organization. so that you can build a more joyful, engaged, and productive workforce.</p>",
+            "button_label": "Coming soon",
+            "button_link": ""
+          }
+        },
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Encryptio_4b7310c8-25b1-47aa-9f3b-930d29184b2d.png",
+            "caption": "Microsoft Teams plugin",
+            "heading": "Encryptio",
+            "text": "<p> Encryptio is a Microsoft Teams plugin designed to provide encryption and decryption capabilities for various types of files, which is a crucial security measure that protects sensitive data by converting it into an unreadable format that can only be deciphered with the right decryption key.</p>",
+            "button_label": "Coming Soon",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-1",
+        "row_APEfnX",
+        "515bbe45-c0ac-48b9-ab06-83a81be508bb",
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-2",
+        "template--20433037656365__0812ce5a-c087-49e2-878d-74f25a7b5173-row-3"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "2a530790-439a-49a7-b89f-f8e8289bf98c": {
+      "type": "open-links-in-new-tab",
+      "blocks": {
+        "ab09235d-da7d-428d-8fdb-f915577a5bff": {
+          "type": "new_tab_link",
+          "settings": {
+            "link_target": "EmPassion",
+            "new_tab_link": "shopify://pages/empassion"
+          }
+        },
+        "2a8a9c8a-ae51-446e-bb90-a435c6b242e1": {
+          "type": "new_tab_link",
+          "settings": {
+            "link_target": "ARI",
+            "new_tab_link": "shopify://pages/ari"
+          }
+        },
+        "a6e9bf4f-9993-4ad1-af6b-5a2e44cc8a82": {
+          "type": "new_tab_link",
+          "settings": {
+            "link_target": "Encryptio",
+            "new_tab_link": "shopify://pages/encryptio"
+          }
+        },
+        "97cc9139-15e0-4966-818a-cfdca06efa7c": {
+          "type": "new_tab_link",
+          "settings": {
+            "link_target": "Wildfire",
+            "new_tab_link": "shopify://pages/wildfire"
+          }
+        }
+      },
+      "block_order": [
+        "ab09235d-da7d-428d-8fdb-f915577a5bff",
+        "2a8a9c8a-ae51-446e-bb90-a435c6b242e1",
+        "a6e9bf4f-9993-4ad1-af6b-5a2e44cc8a82",
+        "97cc9139-15e0-4966-818a-cfdca06efa7c"
+      ],
+      "settings": {}
+    },
+    "85700192-d730-4b3b-9707-e366ef881276": {
+      "type": "footer",
+      "blocks": {
+        "7c2d9931-3c4f-4230-8de5-1dcdc27037c7": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--20433037656365__85700192-d730-4b3b-9707-e366ef881276-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "template--20433037656365__85700192-d730-4b3b-9707-e366ef881276-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "7c2d9931-3c4f-4230-8de5-1dcdc27037c7",
+        "template--20433037656365__85700192-d730-4b3b-9707-e366ef881276-link_list-1",
+        "template--20433037656365__85700192-d730-4b3b-9707-e366ef881276-text-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1164d6cc-be1a-43a8-9e0f-c5a4f57ee7ac",
+    "main",
+    "a3cd35cb-017f-4c85-b93c-19466469d885",
+    "0812ce5a-c087-49e2-878d-74f25a7b5173",
+    "2a530790-439a-49a7-b89f-f8e8289bf98c",
+    "85700192-d730-4b3b-9707-e366ef881276"
+  ]
+}

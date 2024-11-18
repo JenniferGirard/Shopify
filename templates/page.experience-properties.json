@@ -1,0 +1,425 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/ES_header_logo_green.png",
+        "logo_width": 80,
+        "logo_url": "shopify://pages/experience-stream",
+        "menu": "experience-stream-header-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_KHArDM": {
+      "type": "multirow",
+      "blocks": {
+        "row_LRkrp8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/properties.png",
+            "caption": "Property Management",
+            "heading": "<strong>Ensure tenant satisfaction with ExperienceStream</strong>",
+            "text": "<p>Property management companies want to make sure that residents are happy and renew their leases, saving the time and cost of finding new tenants. ExperienceStream is a tool that allows you to gather feedback from residents and quickly identify problems that your team needs to address.</p><p>ExperienceStream is offered in two formats – a stand-alone kiosk or software that can be loaded onto a tablet. Featuring a response rate as high as 27 percent, it will revolutionize how companies measure customer experiences.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LRkrp8"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "row_color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_Y6BatC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UGPGXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "It’s time for a new approach",
+            "heading_size": "h0"
+          }
+        },
+        "text_xeHLFN": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>With ExperienceStream in your lobby, you invite tenants and prospective renters to take 6 seconds to answer a few questions.</h2>"
+          }
+        },
+        "text_WzTpfw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Once data has been gathered, ExperienceStream’s custom software generates powerful reports for you to manage your building.<br/>Best of all, you receive reports right away.<br/>If residents are experiencing a problem, you can address it immediately.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UGPGXn",
+        "text_xeHLFN",
+        "text_WzTpfw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "full_width": true,
+        "padding_top": 88,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_th6xHx": {
+      "type": "multirow",
+      "blocks": {
+        "row_ML7EdA": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/report.svg",
+            "caption": "",
+            "heading": "Helping employees",
+            "text": "<h4>Staff receive daily, weekly and monthly reports with tenant feedback. Employees will be focused on improving the quality of services.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_ML7EdA"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 76
+      }
+    },
+    "rich_text_LDUjYU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jwMipd": {
+          "type": "heading",
+          "settings": {
+            "heading": "ExperienceStream offers the following benefits",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jwMipd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_RqyFf4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K8gfik": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Guarding_reputation_icon_ff192c09-3550-45f0-8e15-ba814bea5850.svg",
+            "title": "<strong>Guarding reputation</strong>",
+            "text": "<p>Tenants have many options when it comes to finding the right apartment to rent.</p><p>With ExperienceStream, you can collect data showing high satisfaction rates of existing tenants, which may be the best advertisement for potential renters.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_RKKUqR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Evaluation_of_services_icon_2326d933-cdf3-45de-a7fe-ab4ab407685b.svg",
+            "title": "<strong>Evaluation of services</strong>",
+            "text": "<p>Tenants will be aware that the company is responsive to resident concerns and is offering many valuable services.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_nQXpRz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Potential_tenants_icon_c5c38c3e-2771-491b-b51e-ca752547b36d.svg",
+            "title": "<strong>Potential tenants</strong>",
+            "text": "<p>Managers spend a lot of time conducting house/apartment tours and reviewing rental applications.</p><p>By offering ExperienceStream at model units, property managers will know whether potential tenants are interested in the unit right after the tour.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_whJT6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Voucher_icon_4961c88d-ca31-4da4-a827-e829d5d20205.svg",
+            "title": "<strong>Vouchers</strong>",
+            "text": "<p>When a prospective tenant visits a building, the kiosk can print out a voucher with a link to the rental application. This reduces waiting and emailing to check if the person is interested. Busy seasons become easy seasons.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_nqQ4zK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Repairs_maintenance_icon_e283a7c2-799a-497b-aba9-5b354c7b2ff4.svg",
+            "title": "<strong>Repairs & maintenance</strong>",
+            "text": "<p>Tenants can use ExperienceStream to alert management about general concerns in their apartment or building.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_K8gfik",
+        "column_RKKUqR",
+        "column_nQXpRz",
+        "column_whJT6V",
+        "column_nqQ4zK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 92
+      }
+    },
+    "multicolumn_hjxQkA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CBE8tT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ES_events_number_img_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_CBE8tT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "image",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 84,
+        "padding_bottom": 84
+      }
+    },
+    "multirow_ddK73p": {
+      "type": "multirow",
+      "blocks": {
+        "row_ath8e8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Alart.svg",
+            "caption": "",
+            "heading": "Instant Alerts",
+            "text": "<h4>When ExperienceStream detects a problem, it sends a real-time alert to the manager’s phone. It could be a washroom needs cleaning or the bartender is taking too long to fill orders. The manager can immediately take steps to solve the problem and restore customer experiences to the expected level.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_ath8e8"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h0",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "row_color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "mobile_content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 76
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_VeVWA6": {
+      "type": "image-banner",
+      "blocks": {
+        "text_reXLCh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ExperienceStream is much more than a feedback tool.</p><p></p>",
+            "text_style": "subtitle"
+          }
+        },
+        "text_wgV3VB": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>At ExperienceStream, we’re transforming how property management companies work with tenants and prospective renters.</h2><p></p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "text_reXLCh",
+        "text_wgV3VB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gradient_img_bcg.png",
+        "image_overlay_opacity": 40,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "contact_form_LfhRYh": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Give us a call at <a href=\"https://web.archive.org/web/20240110202552/tel:+18448258325\">1.844.825.8325</a> to learn how ExperienceStream can help your business",
+        "heading_size": "h0",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/ExperienceStreamLogo.png",
+            "brand_image_width": 100,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:info@experiencestream.com\" target=\"_blank\" title=\"mailto:info@experiencestream.com\">info@experiencestream.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_6y68Lb": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Neris",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "multirow_KHArDM",
+    "rich_text_Y6BatC",
+    "multirow_th6xHx",
+    "rich_text_LDUjYU",
+    "multicolumn_RqyFf4",
+    "multicolumn_hjxQkA",
+    "multirow_ddK73p",
+    "main",
+    "image_banner_VeVWA6",
+    "contact_form_LfhRYh",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_6y68Lb"
+  ]
+}

@@ -1,0 +1,629 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "center",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_DzW9Q3": {
+      "type": "image-banner",
+      "blocks": {
+        "text_r7rNVt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TRAININGS & WORKSHOP / introduction to ai</p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_CY8mth": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock the Power of Artificial Intelligence with Expert-Led Training",
+            "heading_size": "h0"
+          }
+        },
+        "text_R6cRpr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're a beginner in artificial intelligence or looking to enhance your existing skills, our comprehensive AI training courses are designed to provide hands-on experience with the latest tools and techniques in AI. Learn from industry experts and stay ahead in this fast-evolving field.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_r7rNVt",
+        "heading_CY8mth",
+        "text_R6cRpr"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_4GPMNK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pe4RKt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Training framework",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pe4RKt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_dX7riN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eeq7P9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_4_4x_1665666b-85c2-4c81-9268-40e2ec220ad4.png",
+            "title": "Introduction to AI and it's Capabilities",
+            "text": "<p>Discover what artificial intelligence (AI) is, with a focus on generative AI and other types of AI. Get an overview of large language models (LLMs), RAG, and ChatGPT, along with the common applications of AI across various fields.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_crfcdH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_5_4x_878951c2-b0e8-4eb2-9647-4f3dcbbf9ed2.png",
+            "title": "Evaluation and Effectiveness",
+            "text": "<p>Explore the strengths and limitations of generative models and discover the purpose of Generative AI.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_imGKe4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_6_4x_c284f18b-3243-4588-9f66-312a7cf004a5.png",
+            "title": "Security",
+            "text": "<p>When using Cloud AI, consider alternatives that prioritize data security and ownership rights, including copyright issues. Protect your data by exploring on-premises solutions, secure practices, and transparent AI providers that emphasize user rights and ethics.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_VnKAhk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_7_4x_a55407e0-669a-4dab-9fe8-43123fd20023.png",
+            "title": "Market Review",
+            "text": "<p>Explore the main tools, their construction, and their functionalities.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_eeq7P9",
+        "column_crfcdH",
+        "column_imGKe4",
+        "column_VnKAhk"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 900px) {.multicolumn-card {display: flex; flex-direction: column; align-items: center; }}",
+        "@media screen and (min-width: 900px) {.multicolumn-card {display: flex; }}",
+        ".multicolumn-card-spacing {padding-top: 15px;}",
+        ".multicolumn-card__info {width: 90%;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_CDh6r9": {
+      "type": "multirow",
+      "blocks": {
+        "row_tkGAzK": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Introduction to AI and it's Capabilities",
+            "text": "<p>Discover what artificial intelligence (AI) is, with a focus on generative AI and other types of AI. Get an overview of large language models (LLMs), RAG, and ChatGPT, along with the common applications of AI across various fields.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_RJLJhE": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Evaluation and Effectiveness",
+            "text": "<p>Explore the strengths and limitations of generative models and discover the purpose of Generative AI.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_bx6acL": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Security",
+            "text": "<p>When using Cloud AI, it's essential to consider alternatives that prioritize data security and ownership rights, including copyright concerns. To protect your data while leveraging Generative AI, explore options like on-premises solutions, secure data practices, and transparent AI providers that prioritize user rights and ethical guidelines.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CPfwz6": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Market Review",
+            "text": "<p>Explore the main tools, their construction, and their functionalities.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_tkGAzK",
+        "row_RJLJhE",
+        "row_bx6acL",
+        "row_CPfwz6"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "{max-width: 80%; margin: auto;}",
+        ".image-with-text__content {padding: 1em;}",
+        ".image-with-text__media-item {width: 5em; height: 5em; margin: auto;}"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_aEY3gC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rKM4KV": {
+          "type": "heading",
+          "settings": {
+            "heading": "How it Works",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rKM4KV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_KzRhwn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BWxTqT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/clock_colored.png",
+            "title": "<strong>Duration</strong>",
+            "text": "<p>Half a day!</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_z4GeVd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/people_colored_0fe08820-30dd-47e1-a694-3a27050b403e.png",
+            "title": "<strong>Format</strong>",
+            "text": "<p>In-person class</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_BWxTqT",
+        "column_z4GeVd"
+      ],
+      "custom_css": [
+        "{margin: auto;}",
+        ".multicolumn-card {display: flex; background: white !important; background: rgba(255, 255, 255, 0.2) !important; border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3);}",
+        ".multicolumn-card__image-wrapper {max-width: 100px;}",
+        ".multicolumn-card-spacing {padding-top: 30px; padding-bottom: 30px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_xnUrnK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YxFVew": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet our Instructors",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YxFVew"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_k3nrwP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Wc6HiA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/saniadouville_icon_e889f15a-e38b-435b-b468-1a595b3129b5.png",
+            "title": "Sania",
+            "text": "<p>Technical Director</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_fCeaEU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gabrieltrottier_icopn_372630ab-45ca-4b6d-8238-97d75e3d370a.png",
+            "title": "Gabriel",
+            "text": "<p>Data Scientist</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_YGF4DM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/alex.george_icon_0bf3526f-565f-45bb-a299-76ac9d73189e.png",
+            "title": "Alex",
+            "text": "<p>Director of Engineering</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Wc6HiA",
+        "column_fCeaEU",
+        "column_YGF4DM"
+      ],
+      "custom_css": [
+        ".media {margin-top: -50px;}",
+        ".multicolumn-list__item {margin-bottom: 20px;}",
+        ".multicolumn-card {background: white !important; box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "smi_testimonial_1_1_FQCReB": {
+      "type": "smi-testimonial-1-1",
+      "blocks": {
+        "testimonial_block_b8Dq4a": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "I absolutely love the fashion choices on this website. The quality and variety of clothing are top-notch. It's become my go-to place for trendy outfits.",
+            "author_name": "Jame Bones",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-7.jpg",
+            "author_shape": "default",
+            "star": "5"
+          }
+        },
+        "testimonial_block_73jXid": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "Great website for stylish clothing. I've found some fantastic pieces here. The only thing I'd suggest is more size options for a wider range of customers.",
+            "author_name": "Emily Blunt",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-3.jpg",
+            "author_shape": "default",
+            "star": "4"
+          }
+        },
+        "testimonial_block_DRt7eV": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "This website has transformed my wardrobe! I can always count on them for the latest fashion trends. The service is excellent, and the delivery is fast.",
+            "author_name": "Olivia Wilde",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-5.jpg",
+            "author_shape": "default",
+            "star": "4.5"
+          }
+        },
+        "testimonial_block_cypPwM": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "Absolutely in love with my recent fashion haul! The quality of the clothes exceeded my expectations. Will definitely be a repeat customer!",
+            "author_name": "Olivia Blunt",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-2.jpg",
+            "author_shape": "default",
+            "star": "5"
+          }
+        },
+        "testimonial_block_QBiLkr": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "I love it so much! The outfits fit perfectly, and the fabrics are so comfortable. Can't wait to show off my new looks. Highly recommend this brand.",
+            "author_name": "Emily Wilde",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-5.jpg",
+            "author_shape": "default",
+            "star": "5"
+          }
+        },
+        "testimonial_block_HPypDT": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "Impressed with the fashion quality and unique designs. The pieces I ordered arrived promptly. A great online shopping experience overall!",
+            "author_name": "Isabella Gonzalez",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-4.jpg",
+            "author_shape": "default",
+            "star": "5"
+          }
+        },
+        "testimonial_block_dhGykG": {
+          "type": "testimonial_block",
+          "settings": {
+            "heading": "",
+            "heading_size": "smi-h6",
+            "description": "Fantastic fashion choices! The clothing is not only stylish but also comfortable. Quick shipping adds to the positive experience. Will shop here again!",
+            "author_name": "Alexei Petrovich",
+            "author_info": "Customers in U.S.A",
+            "author_image": "shopify://shop_images/smi-customer-8.jpg",
+            "author_shape": "default",
+            "star": "4"
+          }
+        },
+        "color_fTDc4K": {
+          "type": "color",
+          "settings": {
+            "background_color": "#ffffff",
+            "background_gradient_color": "",
+            "text_color": "#000000",
+            "subtext_color": "#000000",
+            "solid_background_button_color": "#000000",
+            "solid_button_label_color": "#fcf8f5",
+            "shadow_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_block_b8Dq4a",
+        "testimonial_block_73jXid",
+        "testimonial_block_DRt7eV",
+        "testimonial_block_cypPwM",
+        "testimonial_block_QBiLkr",
+        "testimonial_block_HPypDT",
+        "testimonial_block_dhGykG",
+        "color_fTDc4K"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "{margin-bottom: 100px;}",
+        ".smi-carousel {padding: 30px; box-shadow: 5px 5px 30px #ebebef; border-radius: 5px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "sub_heading": "",
+        "heading": "Testimonials",
+        "heading_size": "smi-h2",
+        "description": "",
+        "heading_alignment": "center",
+        "content_alignment": "center",
+        "arrow_style": "arr-circle-style-1",
+        "sticky_page_dot_style": "dot-style-1",
+        "auto_rotate_slides": false,
+        "change_slide_every": 5,
+        "number_of_item": "1",
+        "color_scheme": "scheme_2",
+        "color_rating": "#f8a427",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "contact_form_9K3X3t": {
+      "type": "contact-form",
+      "custom_css": [],
+      "settings": {
+        "heading": "Ready to enhance your AI skills?",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8": {
+      "type": "footer",
+      "blocks": {
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0",
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f",
+    "main",
+    "image_banner_DzW9Q3",
+    "rich_text_4GPMNK",
+    "multicolumn_dX7riN",
+    "multirow_CDh6r9",
+    "rich_text_aEY3gC",
+    "multicolumn_KzRhwn",
+    "rich_text_xnUrnK",
+    "multicolumn_k3nrwP",
+    "smi_testimonial_1_1_FQCReB",
+    "contact_form_9K3X3t",
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8"
+  ]
+}

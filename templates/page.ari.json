@@ -1,0 +1,663 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "631369c0-02e5-476f-9139-a6b429e5fa93": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/Navbar_logo.svg",
+        "logo_width": 70,
+        "logo_url": "shopify://pages/ari",
+        "menu": "ari-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a96ac94d-1aa4-4f5f-b578-4f860582f917": {
+      "type": "slideshow",
+      "blocks": {
+        "db3e9417-dd2a-4490-8988-1540dc87a236": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_aerospace.png",
+            "heading": "Accelerate operational workflows",
+            "heading_size": "h1",
+            "subheading": "ARI enables personnel to locate parts databases faster through natural-language search engines. In addition, ARI allows you to maintain equipment more effectively through AI-guided procedures",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/Aerospace_white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "8b1511b2-6f0e-456f-9003-c7a133198066": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_security.jpg",
+            "heading": "Revolutionizing SecureEnterprise Search",
+            "heading_size": "h1",
+            "subheading": "Real-time, secure,compliant and accelerated document search through proprietary AI and NaturalLanguage Processing (NLP) technologies.",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/security.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--20458377642285__a96ac94d-1aa4-4f5f-b578-4f860582f917-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_legal_consulting.png",
+            "heading": "Improve litigation research",
+            "heading_size": "h1",
+            "subheading": "Access a broad array of public and private source data. Reduce research time and improve effectiveness.",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/Legal_Consulting_white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "template--20458377642285__a96ac94d-1aa4-4f5f-b578-4f860582f917-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_construction.png",
+            "heading": "Validate the accuracy of building plans",
+            "heading_size": "h1",
+            "subheading": "ARI indexes and applies rules to architectural drawings to support search queries on accuracy and consistency – improving quotation and construction processes.",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/construction_white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "82db729f-dea9-4a0a-8724-67401005de57": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_pharmaceutical.png",
+            "heading": "Expedite clinical research/patient relationships ",
+            "heading_size": "h1",
+            "subheading": "Speed up the process of connecting patient to clinic research when searching through distributed and complex data sources",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/Pharmaceutical_white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "00c7b383-b761-4bf4-96fb-8fba64b84b31": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/ARI_telecommunication.png",
+            "heading": "Accelerate operational workflows",
+            "heading_size": "h1",
+            "subheading": "ARI enables personnel to locate parts databases faster through natural-language search engines. In addition, ARI allows you to maintain equipment more effectively through AI-guided procedures",
+            "button_label": "Let's meet!",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/Telecommunication_white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 60,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b27ad8c3-718b-4b16-affc-0c49c2754d81": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ARI_Public_sector.png",
+            "heading": "Reduce time to fill roles and manage attrition ",
+            "heading_size": "h1",
+            "subheading": "Overcoming information overload, ARI helps recruiters match candidates to job descriptions fast enabling roles to be fulfilled in a timely and effective manner. ",
+            "button_label": "Learn more",
+            "link": "https://outlook.office365.com/owa/calendar/ARIConnect@beslogic.com/bookings/",
+            "button_style_secondary": false,
+            "slider_icon": "shopify://shop_images/public___white.svg",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "db3e9417-dd2a-4490-8988-1540dc87a236",
+        "8b1511b2-6f0e-456f-9003-c7a133198066",
+        "template--20458377642285__a96ac94d-1aa4-4f5f-b578-4f860582f917-slide-1",
+        "template--20458377642285__a96ac94d-1aa4-4f5f-b578-4f860582f917-slide-2",
+        "82db729f-dea9-4a0a-8724-67401005de57",
+        "00c7b383-b761-4bf4-96fb-8fba64b84b31",
+        "b27ad8c3-718b-4b16-affc-0c49c2754d81"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "slider_icon_height": 40,
+        "slider_overlap": true,
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about ARI"
+      }
+    },
+    "18f76fab-15ff-4e68-8bb0-08e3a0cc8e4a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458377642285__18f76fab-15ff-4e68-8bb0-08e3a0cc8e4a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download Brochure ARI",
+            "button_link": "https://drive.google.com/file/d/1at6MBcrkZmN7Vk7kXtvK1O16cFAm905w/view?usp=sharing",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458377642285__18f76fab-15ff-4e68-8bb0-08e3a0cc8e4a-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "dca15a62-8036-441c-ae0b-ceeef56bb4f0": {
+      "type": "rich-text",
+      "blocks": {
+        "bd494c74-3d57-4543-becd-a1104c7eb4ad": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock value, deliver insight and uncover meaning from your unstructured and distributed data, securely, within minutes.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "bd494c74-3d57-4543-becd-a1104c7eb4ad"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 24
+      }
+    },
+    "233d5269-ab07-4841-a5d2-d76b49415dbb": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/ARI_Functional_sheet_English.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "59ac2fa8-0434-4ade-acec-7ccf46214ad4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458377642285__59ac2fa8-0434-4ade-acec-7ccf46214ad4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Key Features",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458377642285__59ac2fa8-0434-4ade-acec-7ccf46214ad4-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 32
+      }
+    },
+    "b5546cc0-16cc-4731-9cd4-1198ccbeac38": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Feature1new.png",
+            "title": "Real-time, infinite content scanning across both network and cloud",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Feature2new.png",
+            "title": "Supports 100+ languages ​​",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Feature3new.png",
+            "title": "Located on premise, encapsulated within your network and fully cyber secure​​",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "d3c318a8-6b66-4b45-a8da-35cbaa48fceb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Feature4new.png",
+            "title": "Supports your custom file types ​​",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "af0072ea-d763-4262-9be7-c56bc9300a47": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Feature5new.png",
+            "title": "Includes training, support and continuous AI learning ​",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-1",
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-2",
+        "template--20458377642285__b5546cc0-16cc-4731-9cd4-1198ccbeac38-column-3",
+        "d3c318a8-6b66-4b45-a8da-35cbaa48fceb",
+        "af0072ea-d763-4262-9be7-c56bc9300a47"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Contact us",
+        "button_link": "shopify://pages/contact-ari",
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 100
+      }
+    },
+    "ebbd602a-65fc-47e3-be65-e4d2630cc049": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458377642285__ebbd602a-65fc-47e3-be65-e4d2630cc049-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Built For Business Workloads",
+            "heading_size": "h1"
+          }
+        },
+        "template--20458377642285__ebbd602a-65fc-47e3-be65-e4d2630cc049-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With ARI, you get a broad array of capabilities under one single unified solution.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458377642285__ebbd602a-65fc-47e3-be65-e4d2630cc049-heading-1",
+        "template--20458377642285__ebbd602a-65fc-47e3-be65-e4d2630cc049-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 16
+      }
+    },
+    "e6a79a0b-50e7-418c-9333-e15495210238": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Document_summarization.svg",
+            "title": "",
+            "text": "<h5>Document summarization​</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Similarity_analysis.svg",
+            "title": "",
+            "text": "<h5>Similarity analysis</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Entity_recognition_extraction_relations_and_context_understanding.svg",
+            "title": "",
+            "text": "<h5>Entity recognition, extraction, relations, and context understanding​</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "e7fac8a2-e39c-41d8-b292-9e6525d7334c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Semantic_search_supports_keyword_search_typos_word_roots_and_context-based_search.svg",
+            "title": "",
+            "text": "<h5>Semantic search (supports keyword search, typos, word roots and context-based search)​</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "e9bd514b-1ad9-42fe-8034-45e698c9dd9d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Keyword_and_key_phrases_extraction.svg",
+            "title": "",
+            "text": "<h5>Keyword and key phrases extraction</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "22ce1539-77f4-44fb-89e4-80caf0986619": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Paraphrasing_rewording_your_content.svg",
+            "title": "",
+            "text": "<h5>Paraphrasing (rewording your content)</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "5d893953-f16f-4955-8bca-1ee615edb0ba": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ability_to_Q_A_talk_to_your_data.svg",
+            "title": "",
+            "text": "<h5>Ability to Q&A – talk to your data</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "b4207f62-0830-40b6-a793-fce54bbb0ea5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Flexible_and_adaptable_chatbots_and_conversational_AI.svg",
+            "title": "",
+            "text": "<h5>Flexible and adaptable chatbots, and conversational AI​</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "8f79f2c5-7779-41a6-b8f9-44b95253fb10": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Connection_to_ChatGPT_or_Bard_when_data_privacy_is_not_a_concern.svg",
+            "title": "",
+            "text": "<h5>Connection to ChatGPT or Bard, when data privacy is not a concern</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "924f0eab-a04c-4d6f-be43-484d5be76c05": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Full_integration_with_existing_external_LLM_and_foundational_models.svg",
+            "title": "",
+            "text": "<h5>Full integration with existing external LLM, and foundational models ​</h5>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-1",
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-2",
+        "template--20458377642285__e6a79a0b-50e7-418c-9333-e15495210238-column-3",
+        "e7fac8a2-e39c-41d8-b292-9e6525d7334c",
+        "e9bd514b-1ad9-42fe-8034-45e698c9dd9d",
+        "22ce1539-77f4-44fb-89e4-80caf0986619",
+        "5d893953-f16f-4955-8bca-1ee615edb0ba",
+        "b4207f62-0830-40b6-a793-fce54bbb0ea5",
+        "8f79f2c5-7779-41a6-b8f9-44b95253fb10",
+        "924f0eab-a04c-4d6f-be43-484d5be76c05"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "46803e33-99e1-45fb-b8b7-77c3d9e2242a": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/vcOPij1E2Yo",
+        "cover_image": "shopify://shop_images/Navbar_logo.svg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "16980614448b733fb3": {
+      "type": "apps",
+      "blocks": {
+        "07465b42-ce80-4101-842c-e17e855d2523": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_aKgtTzefgg",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "07465b42-ce80-4101-842c-e17e855d2523"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "a81a547f-7863-4997-9c87-d8f651e60bfa": {
+      "type": "footer",
+      "blocks": {
+        "33435d9f-100f-4881-9694-221289dadcd6": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_ARI.svg",
+            "brand_image_width": 100,
+            "brand_description": "<p><a href=\"mailto:info@beslogic.com\" target=\"_blank\" title=\"mailto:info@beslogic.com\">info@beslogic.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20458377642285__a81a547f-7863-4997-9c87-d8f651e60bfa-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "ari-footer"
+          }
+        }
+      },
+      "block_order": [
+        "33435d9f-100f-4881-9694-221289dadcd6",
+        "template--20458377642285__a81a547f-7863-4997-9c87-d8f651e60bfa-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "7d0afc94-f938-453a-9f45-bea326cf0fb6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  .formful__button.button {\n  background-color: rgb(0, 130, 202);\n}\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "page_font_KUd3Ci": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "DM sans",
+        "font_body_family": "Inter-regular"
+      }
+    }
+  },
+  "order": [
+    "631369c0-02e5-476f-9139-a6b429e5fa93",
+    "main",
+    "a96ac94d-1aa4-4f5f-b578-4f860582f917",
+    "18f76fab-15ff-4e68-8bb0-08e3a0cc8e4a",
+    "dca15a62-8036-441c-ae0b-ceeef56bb4f0",
+    "233d5269-ab07-4841-a5d2-d76b49415dbb",
+    "59ac2fa8-0434-4ade-acec-7ccf46214ad4",
+    "b5546cc0-16cc-4731-9cd4-1198ccbeac38",
+    "ebbd602a-65fc-47e3-be65-e4d2630cc049",
+    "e6a79a0b-50e7-418c-9333-e15495210238",
+    "46803e33-99e1-45fb-b8b7-77c3d9e2242a",
+    "16980614448b733fb3",
+    "a81a547f-7863-4997-9c87-d8f651e60bfa",
+    "7d0afc94-f938-453a-9f45-bea326cf0fb6",
+    "page_font_KUd3Ci"
+  ]
+}

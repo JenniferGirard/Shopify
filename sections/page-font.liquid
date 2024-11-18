@@ -1,0 +1,37 @@
+<style>
+  body, #MainContent {
+    {% if section.settings.font_heading_family != blank %}
+      --font-heading-family: {{section.settings.font_heading_family}};
+    {% endif %}
+    {% if section.settings.font_body_family != blank %}
+      --font-body-family: {{section.settings.font_body_family}};
+    {% endif %}
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Page-specific font",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Leave empty for theme default"
+    },
+    {
+      "type": "text",
+      "id": "font_heading_family",
+      "label": "Heading font-family"
+    },
+    {
+      "type": "text",
+      "id": "font_body_family",
+      "label": "Body font-family"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Page-specific font"
+    }
+  ]
+}
+{% endschema %}

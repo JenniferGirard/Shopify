@@ -1,0 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "30b71fe3-1eea-424a-8f65-6b6271a97688": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo_b1ae8e9d-5519-42b6-be94-8352825fbfac.svg",
+        "logo_width": 100,
+        "logo_url": "shopify://pages/empassion",
+        "menu": "empassion-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d4e54c57-b574-4fdc-9f21-ab88459ca59b",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e": {
+      "type": "footer",
+      "blocks": {
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_Empassion.svg",
+            "brand_image_width": 120,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:support@empassion.io\" target=\"_blank\" title=\"mailto:support@empassion.io\">support@empassion.io</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "empassion-footer"
+          }
+        }
+      },
+      "block_order": [
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9",
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-207a3177-7fd8-472e-a218-a1da2dd95882",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "30b71fe3-1eea-424a-8f65-6b6271a97688",
+    "main",
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e"
+  ]
+}

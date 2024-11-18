@@ -1,0 +1,234 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "d5442890-d4bb-4e66-b13a-4cfaa9365461": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": false,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "f8657ce5-390a-4dbc-85af-4536899174b1": {
+      "type": "multirow",
+      "blocks": {
+        "template--20436457324845__f8657ce5-390a-4dbc-85af-4536899174b1-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "{{ article.image }}",
+            "caption": "{{ article.metafields.custom.case_study_industry | metafield_text }}",
+            "heading": "{{ article.title }}",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20436457324845__f8657ce5-390a-4dbc-85af-4536899174b1-row-1"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "subtitle",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "row_color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "42bb1931-e6d6-41d7-9dea-4390e8f31278": {
+      "type": "image-with-text",
+      "blocks": {
+        "889e9cc1-8095-4b73-8018-5acdc94e3589": {
+          "type": "caption",
+          "settings": {
+            "caption": "{{ article.metafields.custom.case_study_industry | metafield_text }}",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "8176e6a3-417c-440f-8533-f27d007d3242": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>{{ article.title }}</h1>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "889e9cc1-8095-4b73-8018-5acdc94e3589",
+        "8176e6a3-417c-440f-8533-f27d007d3242"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "{{ article.image }}",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0f3b7df4-8449-4020-abe3-b1635dd2bc04": {
+      "type": "case-study-essentials",
+      "blocks": {
+        "template--20436457324845__0f3b7df4-8449-4020-abe3-b1635dd2bc04-expertise-1": {
+          "type": "expertise",
+          "repeater": "{{ article.metafields.custom.expertise.value }}",
+          "settings": {
+            "title": "{{ block.repeater.title.value }}",
+            "expertise_link": "{{ block.repeater.link.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--20436457324845__0f3b7df4-8449-4020-abe3-b1635dd2bc04-expertise-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "mission": "<p>{{ article.metafields.custom.case_study_mission | metafield_tag }}</p>",
+        "result": "<p>{{ article.metafields.custom._case_study_result_summary | metafield_tag }}</p>",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "47e24bfc-1e00-491f-9322-9fbf60e1e89d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20436457324845__47e24bfc-1e00-491f-9322-9fbf60e1e89d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ article.metafields.custom._case_study_quote | metafield_tag }}</p><p><strong>{{ article.metafields.custom._case_study_quote_author.value }}</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20436457324845__47e24bfc-1e00-491f-9322-9fbf60e1e89d-text-1"
+      ],
+      "custom_css": [
+        ".banner__text > p:nth-child(3) {background-image: linear-gradient(47.92deg, #ab7eff -1.12%, #f389ff 71.19%); -webkit-background-clip: text; color: transparent;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "content"
+      ],
+      "settings": {}
+    },
+    "38e9e1c0-b194-4f9e-a55f-8ba8c002b99e": {
+      "type": "footer",
+      "blocks": {
+        "2aaaefee-f24d-4e58-ad81-94de847df3ce": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        },
+        "template--20436457324845__38e9e1c0-b194-4f9e-a55f-8ba8c002b99e-link_list-1": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "2aaaefee-f24d-4e58-ad81-94de847df3ce",
+        "template--20436457324845__38e9e1c0-b194-4f9e-a55f-8ba8c002b99e-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "d4877a20-d381-46fa-96a7-c7fb5c150342": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "d5442890-d4bb-4e66-b13a-4cfaa9365461",
+    "f8657ce5-390a-4dbc-85af-4536899174b1",
+    "42bb1931-e6d6-41d7-9dea-4390e8f31278",
+    "0f3b7df4-8449-4020-abe3-b1635dd2bc04",
+    "47e24bfc-1e00-491f-9322-9fbf60e1e89d",
+    "main",
+    "38e9e1c0-b194-4f9e-a55f-8ba8c002b99e",
+    "d4877a20-d381-46fa-96a7-c7fb5c150342"
+  ]
+}

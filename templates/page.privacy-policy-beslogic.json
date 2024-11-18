@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Privacy policy",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Panneau-auto_2023-02-06-165058_qcgs.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "main"
+  ]
+}

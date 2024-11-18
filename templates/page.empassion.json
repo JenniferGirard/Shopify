@@ -1,0 +1,645 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo_b1ae8e9d-5519-42b6-be94-8352825fbfac.svg",
+        "logo_width": 120,
+        "logo_url": "shopify://pages/empassion",
+        "menu": "empassion-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": true,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-d4e54c57-b574-4fdc-9f21-ab88459ca59b",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "229705de-974d-4821-bf3c-e93a7b836d51": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spark Engagement Elevate Performance",
+            "heading_size": "h1"
+          }
+        },
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Empassion is a human-centered solution that allows you to visualize the drivers of engagement among the members of your organization. so that you can build a more joyful, engaged, and productive workforce.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Let's meet!",
+            "button_link_1": "https://outlook.office365.com/owa/calendar/EmPassionConnect@beslogic.com/bookings/",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-heading-1",
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-text-1",
+        "template--20458405495085__229705de-974d-4821-bf3c-e93a7b836d51-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Empassion_banner.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-973f1558-16bf-4835-9d2a-6214baf92ae7",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "898b9b3b-02c8-46d9-828c-b7539e651c19": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "“Companies with engaged employees perform 202% better than those with disengaged teams.”",
+            "heading_size": "h2"
+          }
+        },
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>10 reasons employee engagement matters - Huffpost.com</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-heading-1",
+        "template--20458405495085__898b9b3b-02c8-46d9-828c-b7539e651c19-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d4e54c57-b574-4fdc-9f21-ab88459ca59b",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "c08417a8-3c47-4736-b9e9-f29d76027b3d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__c08417a8-3c47-4736-b9e9-f29d76027b3d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Can Empassion Do?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__c08417a8-3c47-4736-b9e9-f29d76027b3d-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "abf5270e-d886-4225-bec5-e9162bb08bc1": {
+      "type": "multirow",
+      "blocks": {
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/empassion_feature_1.png",
+            "caption": "",
+            "heading": "Seamless Task Assignment",
+            "text": "<p>Effortlessly assign tasks to employees, taking into account their skills and hobbies. Maximize productivity and job satisfaction by aligning tasks with employees' areas of expertise and personal interests, fostering a sense of fulfillment and motivation.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Empassion_feature_2_8634cb76-2d82-4088-affe-7ad88b85484b.png",
+            "caption": "",
+            "heading": "Valuable Feedback",
+            "text": "<p>Empassion empowers managers to gather valuable feedback by sending surveys to employees about their feelings and experiences with previous tasks. Gain actionable insights to enhance task design, optimize work processes, and nurture a positive work environment.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Empassion_feature_3.png",
+            "caption": "",
+            "heading": "Intuitive Passion Map",
+            "text": "<p>Empassion's user-friendly \"passion map\" feature provides a holistic view of all tasks and employees. Easily track individual employee feedback for each task and collective feedback for specific tasks. This intuitive tool streamlines task allocation and promotes effective collaboration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5a292c63-ea04-403f-83ae-ce5be6d41027": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Empassion_feature_4.png",
+            "caption": "",
+            "heading": "Training Insights",
+            "text": "<p>Unlock Valuable Insights and Actionable Recommendations for Training and Development. Seamlessly Address Succession Planning Strategies, Nurture Talent, and Optimize Team Compositions to Drive Enhanced Performance, Productivity, and Long-Term Growth Potential.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-1",
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-2",
+        "template--20458405495085__abf5270e-d886-4225-bec5-e9162bb08bc1-row-3",
+        "5a292c63-ea04-403f-83ae-ce5be6d41027"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "scheme-d4e54c57-b574-4fdc-9f21-ab88459ca59b",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "c07e1c53-07ba-425d-8887-b9c58b81c24a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__c07e1c53-07ba-425d-8887-b9c58b81c24a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "How Does It Work ?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__c07e1c53-07ba-425d-8887-b9c58b81c24a-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "ea322b78-98cc-4f29-8274-d00059620d2f": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/tableau.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "e9f24333-dd0c-4f75-8bf9-b2bc403fe7df": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 68
+      }
+    },
+    "acb03373-3117-4d03-95e7-40a0b01d5ae2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mobile Application for Employees",
+            "heading_size": "h2"
+          }
+        },
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Streamline feedback collection and enhance employee engagement with the user-friendly Empassion mobile app.  Empower your HR team and managers to effortlessly gather valuable insights and drive a culture of continuous improvement.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Download",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-heading-1",
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-text-1",
+        "template--20458405495085__acb03373-3117-4d03-95e7-40a0b01d5ae2-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Empassion_mobile_mockup.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-d4e54c57-b574-4fdc-9f21-ab88459ca59b",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_xeNHw7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TNy9KM": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Awaits Your Employees:",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TNy9KM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 88,
+        "padding_bottom": 20
+      }
+    },
+    "50538470-c3fd-49cb-b855-2221e184a962": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Discover_your_passions.png",
+            "title": "Discover your passions",
+            "text": "<p>Explore your interests and discover what truly passionate you.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Set_your_goals.png",
+            "title": "Set your goals",
+            "text": "<p>Define your aspirations and create a roadmap for your professional growth.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Develop_your_skills.png",
+            "title": "Develop your skills",
+            "text": "<p>Take advantage of a wealth of resources to improve your skills and expand your knowledge.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "5bdf1821-0e22-4dd5-94ce-352e5f048d0c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Track_your_performance.png",
+            "title": "Track your performance",
+            "text": "<p>Measure your progress, celebrate your achievements, and receive invaluable feedback</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-1",
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-2",
+        "template--20458405495085__50538470-c3fd-49cb-b855-2221e184a962-column-3",
+        "5bdf1821-0e22-4dd5-94ce-352e5f048d0c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-973f1558-16bf-4835-9d2a-6214baf92ae7",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 100
+      }
+    },
+    "b43644df-acfb-441e-8944-f632435f262b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/thanks.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-1",
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-2",
+        "template--20458405495085__b43644df-acfb-441e-8944-f632435f262b-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-973f1558-16bf-4835-9d2a-6214baf92ae7",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 8
+      }
+    },
+    "a83c8163-f3b7-4ee8-8806-d5c87d4e85ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458405495085__a83c8163-f3b7-4ee8-8806-d5c87d4e85ba-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Special Thanks To:",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__a83c8163-f3b7-4ee8-8806-d5c87d4e85ba-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/stephanie_a8a69103-ef35-4ff7-83cd-9f8e3c4a1a67.png",
+            "title": "Stéphanie Sauvé",
+            "text": "<p>stephanie.sauve@stesconseils.com</p><p><a href=\"https://www.stesconseils.com\" title=\"https://www.stesconseils.com\">stesconseils.com</a></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/catherine.png",
+            "title": "Catherine Lamonde",
+            "text": "<p>catherine.lamonde@lamonde.ca</p><p><a href=\"https://www.lamonde.ca\" title=\"https://www.lamonde.ca\">lamonde.ca</a></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/alex.png",
+            "title": "Alex Bouchard",
+            "text": "<p>alex.boucchard@v3stent.com</p><p><a href=\"https://v3stent.com\" title=\"https://v3stent.com\">v3stent.com</a></p><p></p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-1",
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-2",
+        "template--20458405495085__fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 100
+      }
+    },
+    "850f4fe8-3bb9-44c3-af10-483a92ea45a8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--20458405495085__850f4fe8-3bb9-44c3-af10-483a92ea45a8-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Empassion 1.0 Contributor:",
+            "icon": "silhouette",
+            "row_content": "<ul><li>Hélène Lebrun</li><li>Jennifer Girard</li><li>Atena Fallahdost</li><li>Nayeeda Rao</li><li>Alexandre George</li><li>Olivier Bouchard</li><li>Nicolas Dontigny</li><li>Mohamed El-Naghy</li><li>Yujie Zhou</li><li>Gabriel Trottier</li><li>Sania Douville</li><li>Yilinuer Yilixate</li><li>Mathias Havekes</li><li>Jean Colombel</li><li>Samuel Poirier</li><li>Esteban Ramos</li><li>Anthony Sanou</li><li>Sarah Bedn</li><li>Xavier Paquet-Rapold</li><li>Carl Montplaisir</li><li>Andrew Parker</li><li>Matthieu Pauze</li><li>Samuel Therrien</li><li>Jerome Kastoun</li><li>Andres Zamora</li><li>Christophe Simard</li><li>Félix-Oliver Landry</li><li>Ali Elzein</li><li>Ana Maria Duque</li><li>Marie-Elaine Roy</li><li>Sandra Carlizza</li></ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20458405495085__850f4fe8-3bb9-44c3-af10-483a92ea45a8-collapsible_row-1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 84
+      }
+    },
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28": {
+      "type": "footer",
+      "blocks": {
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_Empassion.svg",
+            "brand_image_width": 120,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:support@empassion.io\" target=\"_blank\" title=\"mailto:support@empassion.io\">support@empassion.io</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20458405495085__03c0b5e8-c0db-48ad-85d1-9e6b2131df28-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "empassion-footer"
+          }
+        }
+      },
+      "block_order": [
+        "34a15b94-2019-4f18-bbaf-075b81d0dc47",
+        "template--20458405495085__03c0b5e8-c0db-48ad-85d1-9e6b2131df28-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-207a3177-7fd8-472e-a218-a1da2dd95882",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_9wwXgE": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Circe",
+        "font_body_family": "roboto-regular"
+      }
+    }
+  },
+  "order": [
+    "324d21d9-d82e-4e6f-a4bd-4c21942ea23c",
+    "main",
+    "229705de-974d-4821-bf3c-e93a7b836d51",
+    "898b9b3b-02c8-46d9-828c-b7539e651c19",
+    "c08417a8-3c47-4736-b9e9-f29d76027b3d",
+    "abf5270e-d886-4225-bec5-e9162bb08bc1",
+    "c07e1c53-07ba-425d-8887-b9c58b81c24a",
+    "ea322b78-98cc-4f29-8274-d00059620d2f",
+    "e9f24333-dd0c-4f75-8bf9-b2bc403fe7df",
+    "acb03373-3117-4d03-95e7-40a0b01d5ae2",
+    "rich_text_xeNHw7",
+    "50538470-c3fd-49cb-b855-2221e184a962",
+    "b43644df-acfb-441e-8944-f632435f262b",
+    "a83c8163-f3b7-4ee8-8806-d5c87d4e85ba",
+    "fab73fa7-c1d5-485e-b7ed-e7fbe3dcdd61",
+    "850f4fe8-3bb9-44c3-af10-483a92ea45a8",
+    "03c0b5e8-c0db-48ad-85d1-9e6b2131df28",
+    "page_font_9wwXgE"
+  ]
+}

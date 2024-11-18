@@ -1,0 +1,711 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "9f7a12b8-b61f-46ee-bf0b-42fdb4838c13": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "2feeef66-6903-4141-ae27-db73562bc751": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_e3mrYb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Since 2008",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--20433044111661__2feeef66-6903-4141-ae27-db73562bc751-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "You come first!",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "caption_e3mrYb",
+        "template--20433044111661__2feeef66-6903-4141-ae27-db73562bc751-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_8aqJ6q": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_T7K7wi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fueled by 15+ years' experience,  built from a collaborative and process driven approach, we transform ideas, visions and concepts into custom solutions that solve client’s unique challenges.  </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_T7K7wi"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PreAllIN2024-37-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "be414724-5452-4879-bb29-dd5c9c9c8119": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover a Company Culture That is All About Humans!",
+            "heading_size": "h2"
+          }
+        },
+        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With a commitment and drive to build advanced custom AI solutions, we work collaboratively with our clients to create high-performance high-accuracy models to achieve your organization's strategic objectives, efficiently and effectively. </p><p>Our hallmark is transparency, our guiding principles are expertise, timeliness and quality.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-heading-1",
+        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BESLOGIC-Eventlancement-70.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "d61d0106-79a1-42af-9bf4-ac1aca0ca953": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/beer_1_K-2.jpg",
+            "title": "We Like to Do Things Differently",
+            "text": "<p>We have deconstructed standard hierarchical models by placing team members at the center of our structure. In this way, barriers fall and ideas flow more organically, leaving room for collaboration and innovation.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/beer_img-besl.jpg",
+            "title": "We Believe in You",
+            "text": "<p>In order to encourage professional growth and achievement, we have put in place an internal training program that motivates team members to propel their careers and develop their potential. Here, the interests, aspirations and passions of our employees come first. This is how we ensure the success of each project. The management team is accessible and always available to support BesTeam members and help them grow.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/beer_1_K-1.jpg",
+            "title": "A Friendly and Creative Space",
+            "text": "<p>Our offices are located in the heart of Little Burgundy, just a stone's throw from the shops on Montreal's iconic Atwater Street. We like to get together for all kinds of activities: lunchtime picnics, video game nights, 5@7 at the best restaurant on the corner...</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-1",
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-2",
+        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-3"
+      ],
+      "custom_css": [
+        ".multicolumn-card {box-shadow: none; background: #f6f7f9 !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 100
+      }
+    },
+    "3e1e507f-055e-41e1-b6e7-74fa9e00d1c7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20433044111661__3e1e507f-055e-41e1-b6e7-74fa9e00d1c7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Values",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__3e1e507f-055e-41e1-b6e7-74fa9e00d1c7-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 52
+      }
+    },
+    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/auth_1.svg",
+            "title": "Authenticity",
+            "text": "<p>At Beslogic, authenticity and open communication foster a culture of empathy, collaboration, and growth, allowing everyone to express their ideas freely.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fun_1.svg",
+            "title": "Fun",
+            "text": "<p>At Beslogic, fun is our priority, as we believe that happiness and camaraderie are essential in a dynamic work environment.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/emp_1.svg",
+            "title": "Empathy",
+            "text": "<p>Empathy is fundamental at Beslogic, enriching our relationships by helping us understand and connect with the realities of our team members and clients.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "df812b90-c4c3-4496-8083-ced172adaa28": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ing_1.svg",
+            "title": "Ingenuity",
+            "text": "<p>We want to hear ideas from team members. We encourage them to use their creative and inventive minds to better propel innovation.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "9b84acb1-3868-4346-b3fe-d62d6a89e849": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/comm_1.svg",
+            "title": "Commitment",
+            "text": "<p>Our dedicated team at Beslogic is committed to changing the world together through respect and collaboration.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3",
+        "df812b90-c4c3-4496-8083-ced172adaa28",
+        "9b84acb1-3868-4346-b3fe-d62d6a89e849"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 80
+      }
+    },
+    "f283fe2b-a976-4ff7-a07a-a31f020c370a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20433044111661__f283fe2b-a976-4ff7-a07a-a31f020c370a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Partner Community",
+            "heading_size": "h1"
+          }
+        },
+        "e7435e10-573f-4e29-98b2-690061768ca1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are one of five founding members of <strong>Confiance IA</strong>, a Quebec-based organization that ensures safe, secure, sustainable and ethical development of AI models and processes. We're also members of aerospace specific institutions like <strong>Aero-Montreal</strong> and <strong>CRIAQ</strong>. You can also meet our exerts who collaborate with <strong>Mila</strong> Institute and <strong>Woman AI</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__f283fe2b-a976-4ff7-a07a-a31f020c370a-heading-1",
+        "e7435e10-573f-4e29-98b2-690061768ca1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 32
+      }
+    },
+    "9940e0e6-0561-47ae-8691-4cd2af574002": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20433044111661__9940e0e6-0561-47ae-8691-4cd2af574002-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__9940e0e6-0561-47ae-8691-4cd2af574002-column-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "3ff43a57-bc40-4996-8212-17f20da30f02": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/confiance_ai.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.confianceia.ca/",
+            "is_card_clickable": true
+          }
+        },
+        "184596ce-b8b6-44a5-90f6-6d115567f84d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/aero_montreal.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.aeromontreal.ca/",
+            "is_card_clickable": true
+          }
+        },
+        "a07e4cce-c665-4d95-b8df-636f76e9c116": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/criaq.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.criaq.aero/",
+            "is_card_clickable": true
+          }
+        },
+        "bb2ca0e2-11b8-4312-a278-910e5d238389": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mila.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://mila.quebec/",
+            "is_card_clickable": true
+          }
+        },
+        "column_n6kzAy": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_txbMXB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pastille_rectangle_blue_AQT_e3cf7f35-d217-41a0-bf8a-3d2bad489260.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.aqt.ca/",
+            "is_card_clickable": true
+          }
+        },
+        "161c6c68-6493-4b9b-b95f-2a536a2958c2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woman_in_ai_ae6b3cac-ffb3-4b31-bd1f-7af6f9093e91.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.womeninai.co/",
+            "is_card_clickable": true
+          }
+        },
+        "column_frCMcJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Logo_Canada_d3068129-baec-4c6e-9f43-4cd805d64687.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://women-in-tech.org/ca/",
+            "is_card_clickable": true
+          }
+        },
+        "column_YrxUXa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WIT_Logo_Purple_R_3c4ba31b-9ed3-495e-9ddf-ebb68916e2d1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://mywit.org/",
+            "is_card_clickable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__9940e0e6-0561-47ae-8691-4cd2af574002-column-1",
+        "template--20433044111661__9940e0e6-0561-47ae-8691-4cd2af574002-column-2",
+        "3ff43a57-bc40-4996-8212-17f20da30f02",
+        "184596ce-b8b6-44a5-90f6-6d115567f84d",
+        "a07e4cce-c665-4d95-b8df-636f76e9c116",
+        "bb2ca0e2-11b8-4312-a278-910e5d238389",
+        "column_n6kzAy",
+        "column_txbMXB",
+        "161c6c68-6493-4b9b-b95f-2a536a2958c2",
+        "column_frCMcJ",
+        "column_YrxUXa"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "061d8399-7931-4179-81f3-0bedfd329e15": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Tools and Technologies",
+            "heading_size": "h1"
+          }
+        },
+        "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our experts have an in-depth knowledge of the different platforms available to facilitate the integration and evolution of your digital solutions. Technologies already in use can be efficiently enhanced and integrated into your existing processes. Our developers are on the lookout for the latest trends and updates, and master the tools and certifications that will propel your technological projects.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-heading-1",
+        "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1691674772bb0055a6": {
+      "type": "apps",
+      "blocks": {
+        "13e59f17-7528-42c2-8290-57567cf4ef6f": {
+          "type": "shopify://apps/slidy-testimonial-carousel/blocks/star_rating/aec155f2-eaa1-4784-b6a2-6990d99df314",
+          "settings": {
+            "image_with_text_image_1": "shopify://shop_images/Angular.png",
+            "image_description_1": "",
+            "image_with_text_image_2": "shopify://shop_images/nodejs.png",
+            "image_description_2": "",
+            "image_with_text_image_3": "shopify://shop_images/ionic_b58d7cbb-5a8e-4237-ae1c-fbc418863a71.png",
+            "image_description_3": "",
+            "image_with_text_image_4": "shopify://shop_images/netmvc.png",
+            "image_description_4": "",
+            "image_with_text_image_5": "shopify://shop_images/react_98bdb549-4fae-4d9c-8365-f0bc28a2d26d.png",
+            "image_description_5": "",
+            "image_with_text_image_6": "shopify://shop_images/netcore.png",
+            "image_description_6": "",
+            "image_with_text_image_7": "shopify://shop_images/C_2f9cd415-b8b0-4a6d-8ae7-4e8c7cf8c7da.png",
+            "image_description_7": "",
+            "image_with_text_image_8": "shopify://shop_images/java_456e44ec-08ea-433c-8732-25a38074e863.png",
+            "image_description_8": "",
+            "slide_count": 6,
+            "image_size": 150,
+            "margin_top": 48,
+            "margin_bottom": 80
+          }
+        }
+      },
+      "block_order": [
+        "13e59f17-7528-42c2-8290-57567cf4ef6f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn_qXHzkT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_434d4a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Equality is Non-Negotiable",
+            "text": "<p>We stand firm in promoting equality for all, regardless of race, gender, age, abilities, or background. Everyone deserves a seat at the table, and we've got plenty of them!</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_M3tRcE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Global Minds, Local Hearts",
+            "text": "<p>Our community spans the globe, representing various cultures and perspectives. We celebrate the richness that diversity brings, making our company a tapestry of unique stories and experiences.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_Gj7mtg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Inclusivity is our Jam",
+            "text": "<p>Whether you're a tech guru, an art enthusiast, or a cat video connoisseur, you're welcome here! Our virtual doors are open to everyone, creating a space where differences are not just accepted but celebrated.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_zQKWc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Ethics at the Core",
+            "text": "<p>Trust is vital, and we take it seriously. Our commitment to ethical practices ensures a safe and respectful environment for everyone. Transparency, honesty, and integrity guide every pixel and line of code.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_4UMGJL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Join the Party!",
+            "text": "<p>Beslogic is not just a place; it's a celebration of uniqueness. So, come as you are, bring your authentic self, and let's make this online space a vibrant mosaic of diversity!</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_434d4a",
+        "column_M3tRcE",
+        "column_Gj7mtg",
+        "column_zQKWc6",
+        "column_4UMGJL"
+      ],
+      "custom_css": [
+        ".multicolumn-card {box-shadow: none; background: #f6f7f9 !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "84f84025-ad2f-41b7-aed1-f16a0834d322": {
+      "type": "footer",
+      "blocks": {
+        "7c75b3d4-b5a1-4ff1-a75b-92110899e11c": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "<p>From small projects to complex challenges, our expert team delivers innovative solutions.</p>",
+            "show_social": false
+          }
+        },
+        "template--20433044111661__84f84025-ad2f-41b7-aed1-f16a0834d322-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--20433044111661__84f84025-ad2f-41b7-aed1-f16a0834d322-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "7c75b3d4-b5a1-4ff1-a75b-92110899e11c",
+        "template--20433044111661__84f84025-ad2f-41b7-aed1-f16a0834d322-text-1",
+        "template--20433044111661__84f84025-ad2f-41b7-aed1-f16a0834d322-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "9f7a12b8-b61f-46ee-bf0b-42fdb4838c13",
+    "main",
+    "2feeef66-6903-4141-ae27-db73562bc751",
+    "image_with_text_8aqJ6q",
+    "be414724-5452-4879-bb29-dd5c9c9c8119",
+    "d61d0106-79a1-42af-9bf4-ac1aca0ca953",
+    "3e1e507f-055e-41e1-b6e7-74fa9e00d1c7",
+    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a",
+    "f283fe2b-a976-4ff7-a07a-a31f020c370a",
+    "9940e0e6-0561-47ae-8691-4cd2af574002",
+    "061d8399-7931-4179-81f3-0bedfd329e15",
+    "1691674772bb0055a6",
+    "multicolumn_qXHzkT",
+    "84f84025-ad2f-41b7-aed1-f16a0834d322"
+  ]
+}

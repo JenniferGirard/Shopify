@@ -1,0 +1,188 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "e8871918-53b6-4998-a2fb-bd8226b536bf": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo_8d62b9c9-0f7f-4878-819b-536a36c903a4.svg",
+        "logo_width": 90,
+        "logo_url": "shopify://pages/wildfire",
+        "menu": "wildfire",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "accent-2",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 4
+      }
+    },
+    "617af0da-2f7a-4858-b3d7-9d315faa58a0": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20440514036013__617af0da-2f7a-4858-b3d7-9d315faa58a0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>PLAY FOR A CAUSE</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "45a836e8-b49e-4c4a-9ab5-aa669da93c12": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>All profits of this game will be donated to the Red Cross Foundation</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "23b16b2e-50ff-4cd0-a17d-f0874ee63ee7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wildfire is a third person game where you engage in aerial firefighting.  </p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--20440514036013__617af0da-2f7a-4858-b3d7-9d315faa58a0-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Download",
+            "button_link_1": "https://store.epicgames.com/en-US/p/wildfire-f4546e",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20440514036013__617af0da-2f7a-4858-b3d7-9d315faa58a0-heading-1",
+        "45a836e8-b49e-4c4a-9ab5-aa669da93c12",
+        "23b16b2e-50ff-4cd0-a17d-f0874ee63ee7",
+        "template--20440514036013__617af0da-2f7a-4858-b3d7-9d315faa58a0-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/wildfire.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "d120c2e5-8b1e-401b-b3ab-03cd6323d432": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=bSoQNO4d9cU",
+        "cover_image": "shopify://shop_images/SPLASH_SCREEN_2.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "f117397b-1b1e-4a42-aa7a-58a92a7e9dd2": {
+      "type": "open-links-in-new-tab",
+      "blocks": {
+        "eff8cf0d-85bc-479e-af99-11f9d1d5a521": {
+          "type": "new_tab_link",
+          "settings": {
+            "link_target": "epic",
+            "new_tab_link": "https://epicgamesstore.com"
+          }
+        }
+      },
+      "block_order": [
+        "eff8cf0d-85bc-479e-af99-11f9d1d5a521"
+      ],
+      "settings": {}
+    },
+    "5696c6fb-19a6-492a-9ea3-200cfcfbaf95": {
+      "type": "footer",
+      "blocks": {
+        "f58a2846-e2c4-44d0-ab86-eed2058857f9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Wildfire_logo_footer.svg",
+            "brand_image_width": 120,
+            "brand_description": "<p>+1 (844) 825-8325</p><p><a href=\"mailto:support@wildfiregame.io\" target=\"_blank\" title=\"mailto:support@wildfiregame.io\">support@wildfiregame.io</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20440514036013__5696c6fb-19a6-492a-9ea3-200cfcfbaf95-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "wildfire-menu"
+          }
+        }
+      },
+      "block_order": [
+        "f58a2846-e2c4-44d0-ab86-eed2058857f9",
+        "template--20440514036013__5696c6fb-19a6-492a-9ea3-200cfcfbaf95-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-da433c6e-095f-4ec9-a000-f34e5f2bd3a6",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_3teVeJ": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Poppins",
+        "font_body_family": "Poppins"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e8871918-53b6-4998-a2fb-bd8226b536bf",
+    "617af0da-2f7a-4858-b3d7-9d315faa58a0",
+    "d120c2e5-8b1e-401b-b3ab-03cd6323d432",
+    "f117397b-1b1e-4a42-aa7a-58a92a7e9dd2",
+    "5696c6fb-19a6-492a-9ea3-200cfcfbaf95",
+    "page_font_3teVeJ"
+  ]
+}

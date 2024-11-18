@@ -1,0 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "32254524-8a52-4e2a-b456-b6a4c6403f9f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/Navbar_logo.svg",
+        "logo_width": 70,
+        "logo_url": "shopify://pages/ari",
+        "menu": "ari-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "scheme-3d88f602-ad6c-4a08-a669-451e30fb6fd8",
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e": {
+      "type": "footer",
+      "blocks": {
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/Footer_logo_ARI.svg",
+            "brand_image_width": 100,
+            "brand_description": "<p><a href=\"mailto:info@beslogic.com\" target=\"_blank\" title=\"mailto:info@beslogic.com\">info@beslogic.com</a></p><p>Bureau Montréal: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Bureau Paris: 38 Rue de Berri 75008 Paris</p>",
+            "show_social": true
+          }
+        },
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "ari-footer"
+          }
+        }
+      },
+      "block_order": [
+        "c920448a-acc2-4bae-a5c4-5ebde7173fe9",
+        "template--20929762033965__b2537af6-fafb-4b2f-bf21-091effc31a0e-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1f4b1c18-3657-4645-9ebf-d4e198fb7d8a",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "32254524-8a52-4e2a-b456-b6a4c6403f9f",
+    "main",
+    "b2537af6-fafb-4b2f-bf21-091effc31a0e"
+  ]
+}

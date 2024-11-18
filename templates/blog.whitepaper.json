@@ -1,0 +1,400 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "f8fdf58f-0ad1-4be2-b302-d97015c1c4b0": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "2c72c63c-09f5-4139-8bee-4d845845a24b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "White Papers",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917742893__2c72c63c-09f5-4139-8bee-4d845845a24b-heading-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "b7da41cd-ffed-45d0-9027-4a474b6c1f92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20434768429357__b7da41cd-ffed-45d0-9027-4a474b6c1f92-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover How AI Improves Customer Experience! 🚀",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--20434768429357__b7da41cd-ffed-45d0-9027-4a474b6c1f92-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 40
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "custom_css": [
+        "div.blog-articles {display: flex; justify-content: space-between; flex-wrap: wrap;}",
+        "div.blog-articles__article {width: 48%; box-sizing: border-box;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "b23d4cd3-8331-4948-af04-8b48f7a7a595": {
+      "type": "image-with-text",
+      "blocks": {
+        "7b2fe254-0fe0-4c72-a197-dde074916c95": {
+          "type": "caption",
+          "settings": {
+            "caption": "White paper",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--20434768429357__b23d4cd3-8331-4948-af04-8b48f7a7a595-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "RAG Systems",
+            "heading_size": "h1"
+          }
+        },
+        "template--20434768429357__b23d4cd3-8331-4948-af04-8b48f7a7a595-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Retrieval Augmented Generation Systems</p>",
+            "text_style": "body"
+          }
+        },
+        "92d32476-a39c-4839-aada-837d25f08b3b": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_Qb48QVzus_",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "7b2fe254-0fe0-4c72-a197-dde074916c95",
+        "template--20434768429357__b23d4cd3-8331-4948-af04-8b48f7a7a595-heading-1",
+        "template--20434768429357__b23d4cd3-8331-4948-af04-8b48f7a7a595-text-1",
+        "92d32476-a39c-4839-aada-837d25f08b3b"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/whitepaper-RAG-cover_en.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_iRGmVB": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_zGPBCw": {
+          "type": "caption",
+          "settings": {
+            "caption": "White paper",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_rMraDE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smart Search",
+            "heading_size": "h1"
+          }
+        },
+        "text_YTtVaM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Using Artificial Intelligence to Optimize Document Retrieval for the Digital Workplace</p>",
+            "text_style": "body"
+          }
+        },
+        "formful_app_block_form_mfNy6W": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_EhwvDCwxAq",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "caption_zGPBCw",
+        "heading_rMraDE",
+        "text_YTtVaM",
+        "formful_app_block_form_mfNy6W"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Whitepapaer_smart_search.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CVUxxK": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_gCwLMP": {
+          "type": "caption",
+          "settings": {
+            "caption": "White paper",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_TRUbGp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artificial Intelligence",
+            "heading_size": "h1"
+          }
+        },
+        "text_HfhKR9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Improving Customer Experience Through Intelligent Solutions</p>",
+            "text_style": "body"
+          }
+        },
+        "formful_app_block_form_eqin6e": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_3ifSljjDUe",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "caption_gCwLMP",
+        "heading_TRUbGp",
+        "text_HfhKR9",
+        "formful_app_block_form_eqin6e"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/whitepaper_artificial_intelligence.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_FRF6Ni": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_6pFzRh": {
+          "type": "caption",
+          "settings": {
+            "caption": "Case study",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_dJBiYE": {
+          "type": "heading",
+          "settings": {
+            "heading": "MOLSON COORS",
+            "heading_size": "h1"
+          }
+        },
+        "text_WiwVwH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Modernizing order preparation and palletization for Molson Coors</p>",
+            "text_style": "body"
+          }
+        },
+        "formful_app_block_form_bGdeFe": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_WZJ27VnisN",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "caption_6pFzRh",
+        "heading_dJBiYE",
+        "text_WiwVwH",
+        "formful_app_block_form_bGdeFe"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/White_Paper_Modernizing_Molson.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "31d9bc77-2251-479d-8522-7e8aa5318b73": {
+      "type": "footer",
+      "blocks": {
+        "37296359-f2f7-450b-9a56-bb1a476e6a39": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "<p>From small projects to complex challenges, our expert team delivers innovative solutions.</p>",
+            "show_social": false
+          }
+        },
+        "template--20434768429357__31d9bc77-2251-479d-8522-7e8aa5318b73-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Office",
+            "subtext": "<p>1-844-237-5644<br/><a href=\"mailto:%20info@beslogic.com\">info@beslogic.com</a><br/></p><p>Montreal Office: 721 Walker avenue, Office 200 Montréal, QC H4C 2H5</p><p>Paris Office: 38 Rue de Berri 75008 Paris</p>"
+          }
+        },
+        "template--20434768429357__31d9bc77-2251-479d-8522-7e8aa5318b73-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "37296359-f2f7-450b-9a56-bb1a476e6a39",
+        "template--20434768429357__31d9bc77-2251-479d-8522-7e8aa5318b73-text-1",
+        "template--20434768429357__31d9bc77-2251-479d-8522-7e8aa5318b73-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "f8fdf58f-0ad1-4be2-b302-d97015c1c4b0",
+    "2c72c63c-09f5-4139-8bee-4d845845a24b",
+    "b7da41cd-ffed-45d0-9027-4a474b6c1f92",
+    "main",
+    "b23d4cd3-8331-4948-af04-8b48f7a7a595",
+    "image_with_text_iRGmVB",
+    "image_with_text_CVUxxK",
+    "image_with_text_FRF6Ni",
+    "31d9bc77-2251-479d-8522-7e8aa5318b73"
+  ]
+}

@@ -1,0 +1,175 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "c8653272-282c-4271-b510-0956e48fdc81": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "hide_search": false,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {}
+    },
+    "73d033c1-87f5-4079-a17f-36f3411ae9db": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19990917710125__73d033c1-87f5-4079-a17f-36f3411ae9db-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Besteam is Waiting for You!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917710125__73d033c1-87f5-4079-a17f-36f3411ae9db-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you want to get involved? Let your ideas be heard? To make a difference around you and to have the recognition of your team members?</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917710125__73d033c1-87f5-4079-a17f-36f3411ae9db-heading-1",
+        "template--19990917710125__73d033c1-87f5-4079-a17f-36f3411ae9db-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "169472015522198a2c": {
+      "type": "apps",
+      "blocks": {
+        "70f61c52-3b4e-43bd-a30b-1f74fbb2efbb": {
+          "type": "shopify://apps/formful-contact-form-builder/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_IPthWZGRz7",
+            "max_width": 75,
+            "column_gap": 2,
+            "row_gap": 1
+          }
+        }
+      },
+      "block_order": [
+        "70f61c52-3b4e-43bd-a30b-1f74fbb2efbb"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "d1bd8286-832f-4677-bec9-2cff72b55b9d": {
+      "type": "footer",
+      "blocks": {
+        "template--20822273851693__d1bd8286-832f-4677-bec9-2cff72b55b9d-link_list-1": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "template--20822273851693__d1bd8286-832f-4677-bec9-2cff72b55b9d-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+          }
+        },
+        "61c9c895-33ab-449d-b1e0-70345581545f": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20822273851693__d1bd8286-832f-4677-bec9-2cff72b55b9d-link_list-1",
+        "template--20822273851693__d1bd8286-832f-4677-bec9-2cff72b55b9d-text-1",
+        "61c9c895-33ab-449d-b1e0-70345581545f"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "c8653272-282c-4271-b510-0956e48fdc81",
+    "main",
+    "73d033c1-87f5-4079-a17f-36f3411ae9db",
+    "169472015522198a2c",
+    "d1bd8286-832f-4677-bec9-2cff72b55b9d"
+  ]
+}

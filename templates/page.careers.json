@@ -1,0 +1,312 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Careers",
+            "heading_size": "h0"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "A dream job to propel your career in technology",
+            "text_style": "subtitle"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hero_img_88055750-8f00-4dc8-8201-b699ee54864d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20433088741677__8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The benefits of being parts of the BESTEAM",
+            "heading_size": "h1"
+          }
+        },
+        "template--20433088741677__8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>The choice to work in hybrid mode and flexible hours</li><li>A healty balance between work and personal life</li><li>A training and professional development program</li><li>Easy access to the management team</li><li>Fun social activities</li><li>An advantageous group insurance program</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433088741677__8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6-heading-1",
+        "template--20433088741677__8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BESLOGIC-Eventlancement-70.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d964c96c-3187-44ef-b8ea-6c5a642e8642": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20433088741677__d964c96c-3187-44ef-b8ea-6c5a642e8642-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover a company culture that is all about humans!",
+            "heading_size": "h1"
+          }
+        },
+        "template--20433088741677__d964c96c-3187-44ef-b8ea-6c5a642e8642-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Beslogic, we value an open culture. What does this mean? Quite simply, it means that every team member has the opportunity to voice their ideas and get involved at multiple levels. This allows everyone to have a real impact on projects and on our community spirit. All roles and tasks are equally important.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20433088741677__d964c96c-3187-44ef-b8ea-6c5a642e8642-heading-1",
+        "template--20433088741677__d964c96c-3187-44ef-b8ea-6c5a642e8642-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Andrew.Parker.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5cab02ba-fdad-4e36-9b60-69b9b602efcf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20433088741677__5cab02ba-fdad-4e36-9b60-69b9b602efcf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our values",
+            "heading_size": "h1"
+          }
+        },
+        "template--20433088741677__5cab02ba-fdad-4e36-9b60-69b9b602efcf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20433088741677__5cab02ba-fdad-4e36-9b60-69b9b602efcf-heading-1",
+        "template--20433088741677__5cab02ba-fdad-4e36-9b60-69b9b602efcf-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "0c10a728-38d6-4a60-ad69-54be832a3a88": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/auth_1.svg",
+            "title": "Authenticity",
+            "text": "<p>Everyone is free to be themselves and to express their ideas.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fun_1.svg",
+            "title": "Fun",
+            "text": "<p>Nothing is more important than having fun while working in a dynamic environment. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/emp_1.svg",
+            "title": "Empathy",
+            "text": "<p>It is the ability to put oneself in another's shoes and understand their reality.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "81e525d1-d886-4f16-ba54-1c1e934788ea": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ing_1.svg",
+            "title": "Ingenuity",
+            "text": "<p>We encourage the team members to use their creative and inventive minds.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bd1eac9b-cbf5-4242-af1f-87298de1f9b4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/comm_1.svg",
+            "title": "Commitment",
+            "text": "<p>Team members are dedicated and committed to Beslogic's mission.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-1",
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-2",
+        "template--20433088741677__0c10a728-38d6-4a60-ad69-54be832a3a88-column-3",
+        "81e525d1-d886-4f16-ba54-1c1e934788ea",
+        "bd1eac9b-cbf5-4242-af1f-87298de1f9b4"
+      ],
+      "custom_css": [
+        "a {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "835f7212-e63f-44b4-ade2-03281a267fcf": {
+      "type": "rich-text",
+      "blocks": {
+        "c1bdf7a9-a3e3-41d9-8e92-dfbd2fce5661": {
+          "type": "heading",
+          "settings": {
+            "heading": "We believe in you",
+            "heading_size": "h1"
+          }
+        },
+        "a4459949-14d3-4700-8813-21fafe1f718d": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "c1bdf7a9-a3e3-41d9-8e92-dfbd2fce5661",
+        "a4459949-14d3-4700-8813-21fafe1f718d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "83ba3549-f480-4eec-b949-0e518b361efd": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Job opening",
+        "heading_size": "h1",
+        "blog": "career",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "main",
+    "8b0cb5cb-891b-4bf5-bc62-bc937fbf29a6",
+    "d964c96c-3187-44ef-b8ea-6c5a642e8642",
+    "5cab02ba-fdad-4e36-9b60-69b9b602efcf",
+    "0c10a728-38d6-4a60-ad69-54be832a3a88",
+    "835f7212-e63f-44b4-ade2-03281a267fcf",
+    "83ba3549-f480-4eec-b949-0e518b361efd"
+  ]
+}

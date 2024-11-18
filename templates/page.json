@@ -1,0 +1,175 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "82044b5a-dc2d-48fa-97c1-bd8750a503fc": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": false,
+        "color_scheme": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Philanthropy",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Change the narrative, with us!</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "66019e69-0e10-4bc3-87bd-64a68c66eea5": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>A world where the preservation of the environment is increasingly important and where awareness of the environmental impact of human activities is constantly growing. Tree planting and micro-nurseries can be a response to this growing concern by promoting reforestation and environmental protection. <br/><br/>We are building an app that will join forces with the public, the municipalities and the government. <br/><br/>This app will also help every initiative track their data and manage the trees in order to be able to quantify success of all the initiatives as a global unit of effort.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "66019e69-0e10-4bc3-87bd-64a68c66eea5"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1socyi6k.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "1695745841cc150221": {
+      "type": "apps",
+      "blocks": {
+        "dd07a7c3-3147-496a-8265-c45e880efce1": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "65140",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 27,
+            "padding_bottom": 27,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "dd07a7c3-3147-496a-8265-c45e880efce1"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "video_x7FhEA": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/1VfXtgL0N3A",
+        "cover_image": "shopify://shop_images/1socyi6k.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
+    "c2b0d402-32c3-4c88-bcb0-bdd5e8f5c498": {
+      "type": "footer",
+      "blocks": {
+        "a9b26214-aee1-4364-bc96-31730c8b39ca": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "a9b26214-aee1-4364-bc96-31730c8b39ca"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "philantropy_form_styling_cPUrc7": {
+      "type": "philantropy-form-styling",
+      "settings": {}
+    }
+  },
+  "order": [
+    "82044b5a-dc2d-48fa-97c1-bd8750a503fc",
+    "main",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "1695745841cc150221",
+    "video_x7FhEA",
+    "c2b0d402-32c3-4c88-bcb0-bdd5e8f5c498",
+    "philantropy_form_styling_cPUrc7"
+  ]
+}

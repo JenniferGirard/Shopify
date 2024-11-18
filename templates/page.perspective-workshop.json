@@ -1,0 +1,234 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "center",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": true,
+        "color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_iBLKzi": {
+      "type": "image-banner",
+      "blocks": {
+        "text_Qnck8N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TRAININGS & WORKSHOP / Perspective Workshop</p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_UqwTtB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Revolutionize Your Operations with our Perspective Workshops",
+            "heading_size": "h0"
+          }
+        },
+        "text_7WEfUi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At our workshop, we introduce unique tools that empower you to evaluate your operations from a groundbreaking perspective. By seamlessly integrating human insight with artificial intelligence, we provide you with the means to revolutionize your approach and unlock new potential in your business.</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_Qnck8N",
+        "heading_UqwTtB",
+        "text_7WEfUi"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/small_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_harJNF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xPcTME": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock Your Potential",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xPcTME"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_3ieUVQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ieEU7e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_4_4x_1665666b-85c2-4c81-9268-40e2ec220ad4.png",
+            "title": "Self-Evaluate your Work",
+            "text": "<p>Learn and use unique tools to assess the effectiveness of your operations through a Human Intelligence & Artificial Intelligence perspective.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_mARLtq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_5_4x_878951c2-b0e8-4eb2-9647-4f3dcbbf9ed2.png",
+            "title": "Integrate AI",
+            "text": "<p>Identify where AI fits your business by merging your business strategy with technological capabilities.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_B4kimh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Asset_6_4x_c284f18b-3243-4588-9f66-312a7cf004a5.png",
+            "title": "Boost your Productivity",
+            "text": "<p>Refine the areas where technology best supports your company's objectives and design a clear, ROI-oriented roadmap.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_ieEU7e",
+        "column_mARLtq",
+        "column_B4kimh"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 900px) {.multicolumn-card {display: flex; flex-direction: column; align-items: center; }}",
+        "@media screen and (min-width: 900px) {.multicolumn-card {display: flex; max-width: 60%; margin: auto; }}",
+        ".multicolumn-card-spacing {padding-top: 15px;}",
+        ".multicolumn-card__info {width: 90%;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_xGhPhd": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Eager for More Knowledge?",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8": {
+      "type": "footer",
+      "blocks": {
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": false
+          }
+        },
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "6f86fe64-78c7-4a6a-b3a9-6afe4e6892b0",
+        "template--20748792267053__622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "e655f096-5ecb-4e03-a2c9-9630829d6b3f",
+    "image_banner_iBLKzi",
+    "main",
+    "rich_text_harJNF",
+    "multicolumn_3ieUVQ",
+    "contact_form_xGhPhd",
+    "622c1eb0-cb4f-4dcb-8a36-f5388e2edcb8"
+  ]
+}

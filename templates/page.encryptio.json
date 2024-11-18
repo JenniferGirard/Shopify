@@ -1,0 +1,163 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "a5f3bc7e-9e7a-4b75-91d2-8f89a64ffc6a": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo": "shopify://shop_images/navbar_logo.png",
+        "logo_width": 130,
+        "logo_url": "shopify://pages/encryptio",
+        "menu": "encryptio-header",
+        "menu_position": "right",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": false,
+        "hide_search": true,
+        "color_scheme": "scheme-4a0b5572-e4ac-4138-95ed-212faef51d14",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 24,
+        "padding_bottom": 8
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keep Your Documents Confidential",
+            "heading_size": "h1"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p> Encryptio is a Microsoft Teams plugin designed to provide encryption and decryption capabilities for various types of files, which is a crucial security measure that protects sensitive data by converting it into an unreadable format that can only be deciphered with the right decryption key.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Download",
+            "button_link_1": "https://teams.microsoft.com/l/app/3250de8d-4e1f-4fa8-9cac-244ac704191e?source=app-details-dialog",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-heading-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Encryptio_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5d4946e6-593c-4067-b013-20e635e8fd96": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/W_2lplE4e20",
+        "cover_image": "shopify://shop_images/Cover.png",
+        "description": "Encryptio presentation video",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "a006a86f-bb9c-40f2-80ed-f5de665818af": {
+      "type": "footer",
+      "blocks": {
+        "eec80a4a-77f6-4bfa-9f96-097aec24e711": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image": "shopify://shop_images/navbar_logo.png",
+            "brand_image_width": 150,
+            "brand_description": "",
+            "show_social": true
+          }
+        },
+        "template--20458463297837__a006a86f-bb9c-40f2-80ed-f5de665818af-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "encryptio-footer"
+          }
+        }
+      },
+      "block_order": [
+        "eec80a4a-77f6-4bfa-9f96-097aec24e711",
+        "template--20458463297837__a006a86f-bb9c-40f2-80ed-f5de665818af-link_list-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "page_font_Xe8XTr": {
+      "type": "page-font",
+      "disabled": true,
+      "settings": {
+        "font_heading_family": "Nunito",
+        "font_body_family": ""
+      }
+    }
+  },
+  "order": [
+    "a5f3bc7e-9e7a-4b75-91d2-8f89a64ffc6a",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "main",
+    "5d4946e6-593c-4067-b013-20e635e8fd96",
+    "a006a86f-bb9c-40f2-80ed-f5de665818af",
+    "page_font_Xe8XTr"
+  ]
+}
