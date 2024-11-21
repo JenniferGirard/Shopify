@@ -59,6 +59,9 @@
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@500&display=swap" rel="stylesheet">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Sansita:wght@400;700&display=swap" rel="stylesheet">
 
       <title>
         {{ page_title }}
@@ -317,24 +320,6 @@
           })(window, document, "clarity", "script", "igrn40loje");
         </script>
       {% endunless %}
-      {% if request.path contains 'trainings-workshop' 
-        or request.path contains 'ai-training' 
-        or request.path contains 'training' 
-        or request.path contains 'perspective-workshop' 
-      %}
-        <style>
-          body {
-            background: #D3E1EE!important;
-          }
-        </style>
-      {% endif %}
-      {% if request.path contains 'case-studies' %}
-        <style>
-          body {
-            background: #f8f9fd!important;
-          }
-        </style>
-      {% endif %}
     </head>
 
     <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">

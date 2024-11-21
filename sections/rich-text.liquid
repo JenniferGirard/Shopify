@@ -20,6 +20,8 @@
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
+            {%- when 'image' -%}
+               <img src="{{ block.settings.image | image_url: width: 500 }}" | image_tag: class= "logo" width="400" height="100" }}>
             {%- when 'heading' -%}
               <h2
                 class="rich-text__heading rte inline-richtext {{ block.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
@@ -323,6 +325,19 @@
         }
       ]
     }
+    ,
+{
+      "type": "image",
+      "name": "image",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "image"
+        }
+      ]
+}
   ],
   "presets": [
     {

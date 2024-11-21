@@ -1,0 +1,299 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "82044b5a-dc2d-48fa-97c1-bd8750a503fc": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "logo_width": 100,
+        "logo_url": "",
+        "menu": "main-menu",
+        "menu_position": "left",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "overlap_header": false,
+        "show_line_separator": true,
+        "hide_search": false,
+        "color_scheme": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4": {
+      "type": "image-banner",
+      "blocks": {
+        "image_y4eGER": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_Releaf.png"
+          }
+        },
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Change the narrative, with us!</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "66019e69-0e10-4bc3-87bd-64a68c66eea5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the Releaf philanthropic project for environmental preservation! 🌳</p><h3></h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image_y4eGER",
+        "template--19990917939501__75d5089d-2a5f-490b-8b67-79b11fb118c4-text-1",
+        "66019e69-0e10-4bc3-87bd-64a68c66eea5"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Sansita\", sans-serif;}",
+        "@media screen and (min-width: 900px) {.banner__content {margin-left: 50rem; }}",
+        ".logo {height: 6rem; width: 25rem;}",
+        "@media screen and (max-width: 900px) {.banner__box {background-color: rgba(0, 0, 0, 0.6) !important; } .banner__text {color: white; font-size: 24px; }}",
+        ".banner__text {font-size: 22px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/releaf_b578d99f-819c-47e9-badf-15171a792ae0.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-d5aeb63d-27f7-4c60-a3f2-044da903b28e",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_yDKJH8": {
+      "type": "image-with-text",
+      "blocks": {
+        "image_8iGhM8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_1_f437cc68-144e-453c-808c-9976e5658769.png"
+          }
+        },
+        "caption_4icYfC": {
+          "type": "caption",
+          "settings": {
+            "caption": "Simplifying Green Initiatives !",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_YmtdVg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tree Planting Management App",
+            "heading_size": "h1"
+          }
+        },
+        "text_MCwACQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An application that not only facilitates reforestation efforts but also brings together communities, municipalities, and governments in this crucial mission. 🌱</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image_8iGhM8",
+        "caption_4icYfC",
+        "heading_YmtdVg",
+        "text_MCwACQ"
+      ],
+      "custom_css": [
+        ".logo {height: 10rem; width: 15rem;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Group_732.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "rich_text_Qxq9N3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MUtNpP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Watch Our Video",
+            "heading_size": "h1"
+          }
+        },
+        "text_KrmLwT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover what makes it unique!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MUtNpP",
+        "text_KrmLwT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_x7FhEA": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/1VfXtgL0N3A",
+        "cover_image": "shopify://shop_images/1socyi6k.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_Tw8JdV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8NVRnQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Updated on Our App Release!",
+            "heading_size": "h2"
+          }
+        },
+        "text_4FWfV9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Want to be the first to know when our app launches? Send us your email, and we'll keep you in the loop with updates and notifications!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8NVRnQ",
+        "text_4FWfV9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1732028379a6484563": {
+      "type": "apps",
+      "blocks": {
+        "formful_app_block_form_qQLGXA": {
+          "type": "shopify://apps/formful/blocks/app-block-form/be9de36b-78a1-4ce9-8de3-f1044fb2ee2e",
+          "settings": {
+            "form_id": "form_IWTTT1SUuT",
+            "max_width": 64,
+            "column_gap": 2,
+            "row_gap": 1,
+            "padding_top": 36,
+            "padding_bottom": 100,
+            "color_scheme": "scheme-435c1d6e-3d7e-45e8-841d-d92d35e99836"
+          }
+        }
+      },
+      "block_order": [
+        "formful_app_block_form_qQLGXA"
+      ],
+      "custom_css": [
+        ".formful__button {background-color: #016f48;}",
+        ".formful__button::after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "c2b0d402-32c3-4c88-bcb0-bdd5e8f5c498": {
+      "type": "footer",
+      "blocks": {
+        "a9b26214-aee1-4364-bc96-31730c8b39ca": {
+          "type": "brand_information",
+          "settings": {
+            "brand_image_width": 100,
+            "brand_description": "",
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "a9b26214-aee1-4364-bc96-31730c8b39ca"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "is_product": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "philantropy_form_styling_cPUrc7": {
+      "type": "philantropy-form-styling",
+      "settings": {}
+    }
+  },
+  "order": [
+    "82044b5a-dc2d-48fa-97c1-bd8750a503fc",
+    "main",
+    "75d5089d-2a5f-490b-8b67-79b11fb118c4",
+    "image_with_text_yDKJH8",
+    "rich_text_Qxq9N3",
+    "video_x7FhEA",
+    "rich_text_Tw8JdV",
+    "1732028379a6484563",
+    "c2b0d402-32c3-4c88-bcb0-bdd5e8f5c498",
+    "philantropy_form_styling_cPUrc7"
+  ]
+}

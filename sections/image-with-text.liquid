@@ -52,6 +52,8 @@
       >
         {%- for block in section.blocks -%}
           {% case block.type %}
+             {%- when 'image' -%}
+               <img src="{{ block.settings.image | image_url: width: 500 }}" | image_tag: class= "logo" width="400" height="100" }}>
             {%- when 'heading' -%}
               <h2
                 class="image-with-text__heading inline-richtext {{ block.settings.heading_size }}"
@@ -432,7 +434,19 @@
     },
     {
       "type": "@app"
-    }
+    },
+    {
+      "type": "image",
+      "name": "image",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "image"
+        }
+      ]
+}
   ],
   "presets": [
     {
