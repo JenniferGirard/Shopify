@@ -320,6 +320,17 @@
           })(window, document, "clarity", "script", "igrn40loje");
         </script>
       {% endunless %}
+
+            {% if request.path contains 'case-studies' 
+        or request.path contains 'etudes-de-cas'
+      %}
+        <style>
+          body {
+            background: #f8f9fd!important;
+          }
+        </style>
+      {% endif %}
+
     </head>
 
     <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
