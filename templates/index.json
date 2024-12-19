@@ -74,7 +74,7 @@
         "buttons_wpf847"
       ],
       "custom_css": [
-        "img {position: absolute; display: flex; height: 100%; object-fit:cover;}"
+        "img {position: absolute; top: 0; display: flex; width: 100%;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Background.png",
