@@ -31,127 +31,153 @@
         "padding_bottom": 12
       }
     },
-    "image_banner": {
-      "type": "image-banner",
+    "image_with_text_xw8pBa": {
+      "type": "image-with-text",
       "blocks": {
-        "text_kqy9rk": {
-          "type": "text",
+        "caption_MD6kyD": {
+          "type": "caption",
           "settings": {
-            "text": "<p>From Concept to Creation</p>",
-            "text_style": "caption-with-letter-spacing"
+            "caption": "from concept to creation",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
-        "bfe9b42f-52af-4c6f-9572-e8fa37473add": {
+        "heading_GHHdDn": {
           "type": "heading",
           "settings": {
             "heading": "YOUR PROJECT, OUR EXPERTISE!",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
-        "c31cca3e-e863-463f-9fa0-5fac9713013e": {
+        "text_c4RWNa": {
           "type": "text",
           "settings": {
             "text": "<p>From small projects to complex challenges, our team brings AI-driven innovation and software expertise to turn your idea into reality—on time and done right.</p>",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
-        "buttons_wpf847": {
-          "type": "buttons",
+        "button_wQHWxw": {
+          "type": "button",
           "settings": {
-            "button_label_1": "GET IN TOUCH",
-            "button_link_1": "shopify://pages/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "GET IN TOUCH",
+            "button_link": "shopify://pages/contact"
           }
         }
       },
       "block_order": [
-        "text_kqy9rk",
-        "bfe9b42f-52af-4c6f-9572-e8fa37473add",
-        "c31cca3e-e863-463f-9fa0-5fac9713013e",
-        "buttons_wpf847"
+        "caption_MD6kyD",
+        "heading_GHHdDn",
+        "text_c4RWNa",
+        "button_wQHWxw"
       ],
       "custom_css": [
-        "img {position: absolute; top: 0; display: flex; width: 100%;}"
+        ".image-with-text__media-item {position: absolute; top: 0px; width: 100%;}",
+        ".image-with-text {max-width: 100%; padding-left: 0; padding-right: 0;}",
+        "p {color: white;}",
+        "h2 {color: white;}",
+        "img {max-height: 2200px;}",
+        ".image-with-text__text-item {max-width: 900px; padding-top: 150px; padding-left: 100px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Background.png",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_UQXwEC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eQAtGT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our services",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eQAtGT"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_with_text_JNeEEf": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rrrGq9": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our services",
-            "heading_size": "h1"
-          }
-        },
-        "text_4FKnyF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Empowering businesses with innovative, secure, and versatile technology solutions that drive efficiency and growth, backed by dedicated support and a commitment to sustainability.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rrrGq9",
-        "text_4FKnyF"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "img {width: 200px; object-fit: contain; margin-left: 30%;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Copie_de_Specializing_in_Turn-Key_Solutions.gif",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_6AjnkC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Yy3idE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yy3idE"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {position: absolute; margin-left: 39rem; margin-top: 6.5rem; width: 60px;}",
+        ".image-with-text {position: absolute; margin-top: 15rem; max-width: 100%; padding-left: 0; padding-right: 0;}",
+        "h2 {color: white;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Arrow.svg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_iyh4qH": {
+      "type": "video",
+      "custom_css": [
+        "img {opacity: 0;}",
+        "svg {color: red;}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=hEpiwyRVckk",
+        "cover_image": "shopify://shop_images/Video_cover_img.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_DtMtUM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Bk6Jkg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bk6Jkg"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {position: absolute; z-index: 2; margin-left: 39rem; margin-top: 6.5rem; width: 60px;}",
+        ".image-with-text {max-width: 100%; padding-left: 0; padding-right: 0;}",
+        "h2 {color: white;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Arrow.svg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_LqT6Xa": {
@@ -160,33 +186,33 @@
         "column_NCk8xh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Custom_software_solutions.png",
+            "image": "shopify://shop_images/Asset_4_4x_a08b3645-0c13-49c8-931e-e9bcc8e1d12c.png",
             "title": "Custom Software Development",
-            "text": "<p>Our experts address your specific business needs with integrations, process automation, custom development and web application development services.</p>",
-            "link_label": "Learn more",
-            "link": "shopify://pages/custom-software-development",
+            "text": "<p>Building custom applications tailored to specific business requirements, including web, mobile, and desktop applications.</p>",
+            "link_label": "",
+            "link": "",
             "is_card_clickable": false
           }
         },
         "column_ezUpHk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Intelligent_automation.png",
-            "title": "Add AI to your tool Belt!",
-            "text": "<p>Integrate the power of AI models to boost your workforce.</p>",
-            "link_label": "Learn more",
-            "link": "shopify://pages/artificial-intelligence",
+            "image": "shopify://shop_images/Asset_5_4x_7abbb63e-5ba3-4eef-ae93-9b4590c8424d.png",
+            "title": "Business Transformation",
+            "text": "<p>Providing expert advice on software solutions, technology strategy, and project management.</p>",
+            "link_label": "",
+            "link": "",
             "is_card_clickable": false
           }
         },
         "column_pAKwVi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Integration_of_new_technologies_in_your_digital_ecosystem.png",
-            "title": "Digital Transformation",
-            "text": "<p>Digital transformation allows you to maximize the potential of your company and your business model through technology. We support and advise you at every stage of this transition.</p>",
-            "link_label": "Learn More",
-            "link": "shopify://pages/digital-transformation",
+            "image": "shopify://shop_images/Asset_6_4x_bf52f60a-acec-4518-a73a-1fe2d8df40df.png",
+            "title": "AI Solutions",
+            "text": "<p>Unlock AI's potential with custom solutions to boost efficiency, drive innovation, and enhance decision-making. </p>",
+            "link_label": "",
+            "link": "",
             "is_card_clickable": false
           }
         },
@@ -209,7 +235,11 @@
         "column_pAKwVi",
         "column_ttFtJQ"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".multicolumn-list__item {background: rgba(255, 255, 255, 0.2); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3); padding-top: 2rem;}",
+        "p {color: white;}",
+        "h3 {color: white;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -217,7 +247,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -227,98 +257,32 @@
         "padding_bottom": 80
       }
     },
-    "multirow_bdwj6Y": {
-      "type": "multirow",
+    "image_banner_x7E93C": {
+      "type": "image-banner",
       "blocks": {
-        "row_69YhYE": {
-          "type": "row",
-          "settings": {
-            "caption": "We are",
-            "heading": "Innovative",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p><p>Études de cas ou exemples de projets réussis.</p>",
-            "button_label": "See our projects ?",
-            "button_link": ""
-          }
-        },
-        "row_w7C9X6": {
-          "type": "row",
-          "settings": {
-            "caption": "We thrive in",
-            "heading": "Versatility",
-            "text": "<p>From startups to enterprises, our versatile solutions drive efficiency and growth across all industries.</p><p></p><p>Secteurs d’activité</p>",
-            "button_label": "See our Clients",
-            "button_link": ""
-          }
-        },
-        "row_wibPQw": {
-          "type": "row",
-          "settings": {
-            "caption": "Emphasize",
-            "heading": "<strong>Security and Reliability</strong>",
-            "text": "<p>Built on a foundation of trust—our solutions ensure top-tier security and reliability for your business.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_69YhYE",
-        "row_w7C9X6",
-        "row_wibPQw"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_EFqm6Q": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_pryMTC": {
-          "type": "heading",
-          "settings": {
-            "heading": "TurnKey Solutions",
-            "heading_size": "h1"
-          }
-        },
-        "text_hhCVix": {
+        "text_jFdrKe": {
           "type": "text",
           "settings": {
-            "text": "<p>For every project</p>",
+            "text": "<h4>At Beslogic, we bring together a team of highly qualified talents, including project managers, software engineers, UI/UX designers, and quality assurance testers. Our diverse expertise ensures that every aspect of your software development project is handled with excellence.</h4><p></p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_pryMTC",
-        "text_hhCVix"
+        "text_jFdrKe"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Untitled-2_dbf7d5e0-c1d2-4e05-9aa7-bb3ba457a04a.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "image": "shopify://shop_images/Besteam.png",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
-        "image_behavior": "none",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "rich_text_erz3iB": {
@@ -327,248 +291,171 @@
         "caption_dTJY7J": {
           "type": "caption",
           "settings": {
-            "caption": "Trusted by Industry Leaders",
+            "caption": "WE ARE",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_size": "large"
           }
         },
         "heading_LAgUfN": {
           "type": "heading",
           "settings": {
-            "heading": "We Thrive  In Versatility",
-            "heading_size": "h1"
+            "heading": "INNOVATIVE",
+            "heading_size": "hxl"
+          }
+        },
+        "text_VVCLht": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We've applied our industry experience and combined it with the expertise of our people to deliver unique solutions that meets growing business needs across a variety of industries.</p>"
+          }
+        },
+        "button_KHXDNn": {
+          "type": "button",
+          "settings": {
+            "button_label": "See our products",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "caption_dTJY7J",
-        "heading_LAgUfN"
+        "heading_LAgUfN",
+        "text_VVCLht",
+        "button_KHXDNn"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 100,
         "padding_bottom": 52
       }
     },
-    "17313333711e84d5d6": {
-      "type": "apps",
-      "blocks": {
-        "slidy_testimonial_carousel_star_rating_9Dwirn": {
-          "type": "shopify://apps/slidy-testimonial-carousel/blocks/star_rating/aec155f2-eaa1-4784-b6a2-6990d99df314",
-          "settings": {
-            "image_with_text_image_1": "shopify://shop_images/Weatherford.webp",
-            "image_description_1": "",
-            "image_with_text_image_2": "shopify://shop_images/Attitude_de1f703a-cf60-44e2-879d-9fb54e3fcb0c.png",
-            "image_description_2": "",
-            "image_with_text_image_3": "shopify://shop_images/DRL-Systems.png",
-            "image_description_3": "",
-            "image_with_text_image_4": "shopify://shop_images/Cycles-St-Onge.png",
-            "image_description_4": "",
-            "image_with_text_image_5": "shopify://shop_images/INSPQ_5dd3f89b-10c5-4afe-abf2-9545a108036b.png",
-            "image_description_5": "",
-            "image_with_text_image_6": "shopify://shop_images/Orica_5b5b2157-0130-4242-9ce3-8041ed23979c.png",
-            "image_description_6": "",
-            "image_with_text_image_7": "shopify://shop_images/Novisto.jpg",
-            "image_description_7": "",
-            "image_with_text_image_8": "shopify://shop_images/purkinje.jpg",
-            "image_description_8": "",
-            "slide_count": 6,
-            "image_size": 149,
-            "margin_top": 8,
-            "margin_bottom": 100
-          }
-        }
-      },
-      "block_order": [
-        "slidy_testimonial_carousel_star_rating_9Dwirn"
-      ],
+    "image_banner_mNdJYT": {
+      "type": "image-banner",
       "settings": {
-        "include_margins": true
+        "image_2": "shopify://shop_images/Products-_copy.gif",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
-    "rich_text_Nq4PCX": {
+    "rich_text_dCKzfx": {
       "type": "rich-text",
       "blocks": {
-        "heading_KiDEbe": {
+        "caption_QVinEx": {
+          "type": "caption",
+          "settings": {
+            "caption": "WE THRIVE IN",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_RiEYaD": {
           "type": "heading",
           "settings": {
-            "heading": "Listening to deliver real results",
-            "heading_size": "h1"
+            "heading": "VERSATILITY",
+            "heading_size": "hxl"
+          }
+        },
+        "text_HRP8Ez": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From startups to enterprises, our versatile solutions drive efficiency and growth across all industries.</p>"
+          }
+        },
+        "button_XVHdDc": {
+          "type": "button",
+          "settings": {
+            "button_label": "See our case studies",
+            "button_link": "shopify://blogs/case-studies",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_KiDEbe"
+        "caption_QVinEx",
+        "heading_RiEYaD",
+        "text_HRP8Ez",
+        "button_XVHdDc"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
+        "color_scheme": "",
         "full_width": true,
-        "padding_top": 80,
-        "padding_bottom": 0
+        "padding_top": 100,
+        "padding_bottom": 52
       }
     },
-    "multirow_mFTcgN": {
-      "type": "multirow",
-      "blocks": {
-        "row_qQXJH4": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Group_788_1.png",
-            "caption": "Working with Beslogic is...",
-            "heading": "Reduce Project Risks",
-            "text": "<p>At Beslogic, we include a Project Engineering phase in our project development that significantly reduces project risks from 30% to 5%. Our turnkey solutions are meticulously designed to align with your goals from the very start of the project, ensuring seamless execution and long-term success.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_qQXJH4"
-      ],
-      "custom_css": [
-        ".image-with-text__content {color: white;}",
-        "h2 {color: white;}",
-        "img {object-fit: contain;}"
-      ],
+    "image_banner_f6VN3q": {
+      "type": "image-banner",
       "settings": {
+        "image": "shopify://shop_images/Client-logos_2.gif",
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_image_width": "small",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
-    "multicolumn_efzr6E": {
-      "type": "multicolumn",
+    "rich_text_CryNAC": {
+      "type": "rich-text",
       "blocks": {
-        "column_j6cPHX": {
-          "type": "column",
+        "caption_DTWcfc": {
+          "type": "caption",
           "settings": {
-            "image": "shopify://shop_images/Asset_1.png",
-            "title": "16 years",
-            "text": "<p>Software Development</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
+            "caption": "We LISTEN TO DELIVER",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         },
-        "column_CLTACV": {
-          "type": "column",
+        "heading_mE7DrD": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Frame_3622.svg",
-            "title": "40+",
-            "text": "<p>AI Projects accross several industries</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
+            "heading": "REAL RESULTS",
+            "heading_size": "hxl"
           }
         },
-        "column_UbWNQ3": {
-          "type": "column",
+        "text_rX8m3P": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Picture1_b379ac23-ebae-4148-9538-c91d99aedd57.png",
-            "title": "12 years",
-            "text": "<p>Client loyalty</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_VYAD8f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Picture6_526492c1-6e60-4da3-91f8-3beeb8704207.png",
-            "title": "Montreal",
-            "text": "<p>based serving local and international clients</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
+            "text": "<p>At Beslogic, we include a Project Engineering phase in our project development that significantly reduces project risks from <strong>30%</strong> to <strong>5%</strong>. Our turnkey solutions are meticulously designed to align with your goals from the very start of the project, ensuring seamless execution and long-term success.</p>"
           }
         }
       },
       "block_order": [
-        "column_j6cPHX",
-        "column_CLTACV",
-        "column_UbWNQ3",
-        "column_VYAD8f"
-      ],
-      "custom_css": [
-        ".multicolumn-card {background: rgba(255, 255, 255, 0.2) !important; border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3);}"
+        "caption_DTWcfc",
+        "heading_mE7DrD",
+        "text_rX8m3P"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_fUjNNV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_QkQMGj": {
-          "type": "column",
-          "settings": {
-            "title": "Highly Qualified Team",
-            "text": "<p>At Beslogic, we bring together a team of highly qualified talents, including project managers, software engineers, UI/UX designers, and quality assurance testers. Our diverse expertise ensures that every aspect of your software development project is handled with excellence.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_cBe4MX": {
-          "type": "column",
-          "settings": {
-            "title": "Fully Transparent",
-            "text": "<p>Partner with Beslogic and play an integral role in your project's progress. We handle the heavy lifting while you stay involved, informed, and engaged in the decision-making process. You’ll have full visibility into our progress, the challenges we’re addressing, and receive regular updates on key advancements. Together, we’ll bring your vision to life!</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        }
-      },
-      "block_order": [
-        "column_QkQMGj",
-        "column_cBe4MX"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-200bc5fc-a2ce-4ecb-9300-82613fdcb775",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 40
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
       }
     },
     "smi_testimonial_1_1_RqtcnA": {
@@ -695,6 +582,105 @@
         "color_rating": "#f8a427",
         "padding_top": 50,
         "padding_bottom": 50
+      }
+    },
+    "image_banner_PngCpF": {
+      "type": "image-banner",
+      "blocks": {
+        "text_E6ar3n": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Partner with Beslogic and play an integral role in your project's progress. We handle the heavy lifting while you stay involved, informed, and engaged in the decision-making process. You’ll have full visibility into our progress, the challenges we’re addressing, and receive regular updates on key advancements. Together, we’ll bring your vision to life!</h4><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_E6ar3n"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/We_are_transparent.png",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_efzr6E": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_j6cPHX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "16 YEARS",
+            "text": "<p>Software Development</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_CLTACV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "40+",
+            "text": "<p>AI Projects accross several industries</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_UbWNQ3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "12 YEARS",
+            "text": "<p>Client loyalty</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_VYAD8f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "MONTREAL",
+            "text": "<p>based serving local and international clients</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_j6cPHX",
+        "column_CLTACV",
+        "column_UbWNQ3",
+        "column_VYAD8f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "image_banner_8dPKki": {
@@ -867,19 +853,20 @@
   },
   "order": [
     "167124d0-1af9-4ff2-834b-f46a3ba52824",
-    "image_banner",
-    "rich_text_UQXwEC",
-    "image_with_text_JNeEEf",
+    "image_with_text_xw8pBa",
+    "image_with_text_6AjnkC",
+    "video_iyh4qH",
+    "image_with_text_DtMtUM",
     "multicolumn_LqT6Xa",
-    "multirow_bdwj6Y",
-    "image_with_text_EFqm6Q",
+    "image_banner_x7E93C",
     "rich_text_erz3iB",
-    "17313333711e84d5d6",
-    "rich_text_Nq4PCX",
-    "multirow_mFTcgN",
-    "multicolumn_efzr6E",
-    "multicolumn_fUjNNV",
+    "image_banner_mNdJYT",
+    "rich_text_dCKzfx",
+    "image_banner_f6VN3q",
+    "rich_text_CryNAC",
     "smi_testimonial_1_1_RqtcnA",
+    "image_banner_PngCpF",
+    "multicolumn_efzr6E",
     "image_banner_8dPKki",
     "rich_text_gXEUkc",
     "de093387-95c3-49b5-b6fd-7e73b6b027c7",
