@@ -34,28 +34,50 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "text_kqy9rk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From Concept to Creation</p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
         "bfe9b42f-52af-4c6f-9572-e8fa37473add": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>ELEVATE THE MISSION</strong>",
+            "heading": "YOUR PROJECT, OUR EXPERTISE!",
             "heading_size": "h0"
           }
         },
         "c31cca3e-e863-463f-9fa0-5fac9713013e": {
           "type": "text",
           "settings": {
-            "text": "<p>From small projects to challenging and complex problems that stretch your capabilities, our team of experts bring innovation and sofware expertise to turn your idea into a completed solution. We’ll work with you to get it done right - and on time.</p>",
+            "text": "<p>From small projects to complex challenges, our team brings AI-driven innovation and software expertise to turn your idea into reality—on time and done right.</p>",
             "text_style": "subtitle"
+          }
+        },
+        "buttons_wpf847": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GET IN TOUCH",
+            "button_link_1": "shopify://pages/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
+        "text_kqy9rk",
         "bfe9b42f-52af-4c6f-9572-e8fa37473add",
-        "c31cca3e-e863-463f-9fa0-5fac9713013e"
+        "c31cca3e-e863-463f-9fa0-5fac9713013e",
+        "buttons_wpf847"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "img{}"
+      ],
       "settings": {
-        "image": "shopify://shop_images/home_page_banner_right_2.png",
+        "image": "shopify://shop_images/Background.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-left",
