@@ -75,15 +75,15 @@
         "button_Xi8yTJ"
       ],
       "custom_css": [
-        "{color: transparent !important;}"
+        "{background-color: transparent !important; margin-top: 15rem;}"
       ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 0
       }
     },
     "image_with_text_6AjnkC": {
