@@ -74,6 +74,9 @@
         "text_WBYMb3",
         "button_Xi8yTJ"
       ],
+      "custom_css": [
+        "{background-color: transparent !important;}"
+      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
