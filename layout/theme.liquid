@@ -330,13 +330,7 @@
           }
         </style>
       {% endif %}
-      <style>
-        .custom-homepage-content {
-          background-color: #FF0000 !important;
-          padding: 20px;
-        }
-      </style>
-
+      
     </head>
 
     <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
@@ -402,6 +396,13 @@
         {% render 'redcross-popup' %}
       {% endcomment %}
     {%- sections 'smi-group' -%}
+
+          <style>
+        .custom-homepage-content {
+          background-color: #FF0000 !important;
+          padding: 20px;
+        }
+      </style>
 </body>
   {% endif %}
 </html>
