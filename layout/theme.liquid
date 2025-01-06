@@ -321,11 +321,16 @@
         </script>
       {% endunless %}
 
-      {% if template ==  'blog.case-studies'
-      %}
+      {% if template ==  'blog.case-studies'%}
         <style>
           body {
             background: #f8f9fd!important;
+          }
+        </style>
+        {% elsif template == 'index'  %}
+        <style>
+          body {
+            background: #FF0000!important;
           }
         </style>
       {% endif %}
@@ -334,14 +339,6 @@
         <h1>Bienvenue sur notre boutique !</h1>
         {{ template }}
       </div>
-
-      {% if template == 'index' %}
-        <style>
-          body {
-            background-color: #FF0000; 
-          }
-        </style>
-      {% endif %}
       
     </head>
 
