@@ -125,7 +125,8 @@
       "type": "video",
       "custom_css": [
         "img {opacity: 0;}",
-        "svg {color: red;}"
+        "svg {color: red;}",
+        ".color-background-1 {background-color: transparent !important;}"
       ],
       "settings": {
         "heading": "",
