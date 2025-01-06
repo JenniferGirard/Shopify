@@ -75,7 +75,7 @@
         "button_Xi8yTJ"
       ],
       "custom_css": [
-        "{background-color: transparent !important;}"
+        "{color: transparent !important;}"
       ],
       "settings": {
         "desktop_content_position": "left",
