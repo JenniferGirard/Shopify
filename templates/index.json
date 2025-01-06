@@ -75,7 +75,8 @@
         "button_Xi8yTJ"
       ],
       "custom_css": [
-        "{background-color: transparent !important; margin-top: 15rem;}"
+        "{margin-top: 15rem;}",
+        ".rich-text {background-color: transparent !important;}"
       ],
       "settings": {
         "desktop_content_position": "left",
