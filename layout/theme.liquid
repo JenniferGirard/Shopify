@@ -330,7 +330,15 @@
         {% elsif template == 'index'  %}
         <style>
           body {
-            background: #FF0000!important;
+            .background-image {
+              background-image: url('{{ 'https://cdn.shopify.com/s/files/1/0796/0621/9053/files/Background.png?v=1731522474' | asset_url }}');
+              background-size: cover; /* Couvre toute la zone */
+              background-position: center center; /* Centrer l'image */
+              background-repeat: no-repeat; /* Ne pas répéter l'image */
+              position: relative;
+              z-index: -1; /* Placer l'image derrière les autres sections */
+              height: 100vh; /* Ajustez la hauteur selon le besoin */
+            }
           }
         </style>
       {% endif %}
