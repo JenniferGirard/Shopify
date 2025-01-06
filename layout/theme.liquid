@@ -321,8 +321,7 @@
         </script>
       {% endunless %}
 
-      {% if request.path contains 'case-studies' 
-        or request.path contains 'etudes-de-cas'
+      {% if template ==  'blog.case-studies'
       %}
         <style>
           body {
