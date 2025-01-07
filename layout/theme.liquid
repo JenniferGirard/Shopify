@@ -328,7 +328,6 @@
           }
         </style>
         {% elsif template == 'index'  %}
-        console.log("hello");
         <style>
           body {
             .background-image {
@@ -342,6 +341,10 @@
             }
           }
         </style>
+        <script>
+            var liquidData = "{{ shop.name }}"; // Récupère le nom de la boutique depuis Shopify
+            console.log("Le nom de la boutique est : " + liquidData);
+          </script>
       {% endif %}
       
     </head>
