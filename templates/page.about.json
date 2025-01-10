@@ -54,7 +54,7 @@
           "type": "heading",
           "settings": {
             "heading": "You come first!",
-            "heading_size": "h1"
+            "heading_size": "hxl"
           }
         }
       },
@@ -74,114 +74,179 @@
     "image_banner_TYKjXc": {
       "type": "image-banner",
       "blocks": {
-        "heading_ifgc3j": {
+        "text_nnxF6i": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>Fueled by 15+ years' experience,  built from a collaborative and process driven approach, we transform ideas, visions and concepts into custom solutions that solve client’s unique challenges.  </strong></h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_nnxF6i"
+      ],
+      "custom_css": [
+        "h2 {font-size: 32px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Besteam.png",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_gPBAQx": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_MCA8Xy": {
+          "type": "caption",
+          "settings": {
+            "caption": "We are",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_dmrgPn": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "All About Humans!",
+            "heading_size": "hxl"
+          }
+        },
+        "text_eKgjLC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With a commitment and drive to build advanced custom AI solutions, we work collaboratively with our clients to create high-performance high-accuracy models to achieve your organization's strategic objectives, efficiently and effectively. </p><p>Our hallmark is transparency, our guiding principles are expertise, timeliness and quality.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_MCA8Xy",
+        "heading_dmrgPn",
+        "text_eKgjLC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_UVmDcj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_PEVrCX": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Like to Do Things Differently",
             "heading_size": "h1"
           }
         },
-        "text_AVTKUF": {
+        "text_gzbBKc": {
           "type": "text",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<p>",
+            "text": "<p>We have deconstructed standard hierarchical models by placing team members at the center of our structure. In this way, barriers fall and ideas flow more organically, leaving room for collaboration and innovation.</p>",
             "text_style": "body"
-          }
-        },
-        "buttons_GJFWrk": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_ifgc3j",
-        "text_AVTKUF",
-        "buttons_GJFWrk"
+        "heading_PEVrCX",
+        "text_gzbBKc"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "image": "shopify://shop_images/DSCF3082.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
-    "image_with_text_8aqJ6q": {
-      "type": "image-with-text",
+    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a": {
+      "type": "multicolumn",
       "blocks": {
-        "text_T7K7wi": {
-          "type": "text",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Fueled by 15+ years' experience,  built from a collaborative and process driven approach, we transform ideas, visions and concepts into custom solutions that solve client’s unique challenges.  </p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_T7K7wi"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/PreAllIN2024-37-2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "be414724-5452-4879-bb29-dd5c9c9c8119": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Discover a Company Culture That is All About Humans!",
-            "heading_size": "h2"
+            "image": "shopify://shop_images/auth_1.svg",
+            "title": "Benevolance",
+            "text": "<p>We adopt a respectful, empathetic and attentive attitude, promoting a climate of trust, mutual assistance and recognition.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
           }
         },
-        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-text-1": {
-          "type": "text",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2": {
+          "type": "column",
           "settings": {
-            "text": "<p>With a commitment and drive to build advanced custom AI solutions, we work collaboratively with our clients to create high-performance high-accuracy models to achieve your organization's strategic objectives, efficiently and effectively. </p><p>Our hallmark is transparency, our guiding principles are expertise, timeliness and quality.</p>",
-            "text_style": "subtitle"
+            "image": "shopify://shop_images/fun_1.svg",
+            "title": "Humble",
+            "text": "<p>We recognize our limitations, value the contributions of others and remain open to learning and constructive criticism.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/emp_1.svg",
+            "title": "Hard Worker",
+            "text": "<p>We demonstrate diligence, perseverance and commitment to our tasks.​</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "df812b90-c4c3-4496-8083-ced172adaa28": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ing_1.svg",
+            "title": "Ingenuity",
+            "text": "<p>We want to hear ideas from team members. We encourage them to use their creative and inventive minds to better propel innovation.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
           }
         }
       },
       "block_order": [
-        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-heading-1",
-        "template--20433044111661__be414724-5452-4879-bb29-dd5c9c9c8119-text-1"
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2",
+        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3",
+        "df812b90-c4c3-4496-8083-ced172adaa28"
       ],
+      "custom_css": [],
       "settings": {
-        "image": "shopify://shop_images/BESLOGIC-Eventlancement-70.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-bbc37e47-c110-48f8-a24c-c4e74617dbee",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 80
       }
     },
     "d61d0106-79a1-42af-9bf4-ac1aca0ca953": {
@@ -267,90 +332,6 @@
         "full_width": true,
         "padding_top": 80,
         "padding_bottom": 52
-      }
-    },
-    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/auth_1.svg",
-            "title": "Authenticity",
-            "text": "<p>At Beslogic, authenticity and open communication foster a culture of empathy, collaboration, and growth, allowing everyone to express their ideas freely.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fun_1.svg",
-            "title": "Fun",
-            "text": "<p>At Beslogic, fun is our priority, as we believe that happiness and camaraderie are essential in a dynamic work environment.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/emp_1.svg",
-            "title": "Empathy",
-            "text": "<p>Empathy is fundamental at Beslogic, enriching our relationships by helping us understand and connect with the realities of our team members and clients.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "df812b90-c4c3-4496-8083-ced172adaa28": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/ing_1.svg",
-            "title": "Ingenuity",
-            "text": "<p>We want to hear ideas from team members. We encourage them to use their creative and inventive minds to better propel innovation.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "9b84acb1-3868-4346-b3fe-d62d6a89e849": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/comm_1.svg",
-            "title": "Commitment",
-            "text": "<p>Our dedicated team at Beslogic is committed to changing the world together through respect and collaboration.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1",
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2",
-        "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3",
-        "df812b90-c4c3-4496-8083-ced172adaa28",
-        "9b84acb1-3868-4346-b3fe-d62d6a89e849"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 80
       }
     },
     "f283fe2b-a976-4ff7-a07a-a31f020c370a": {
@@ -744,11 +725,11 @@
     "main",
     "2feeef66-6903-4141-ae27-db73562bc751",
     "image_banner_TYKjXc",
-    "image_with_text_8aqJ6q",
-    "be414724-5452-4879-bb29-dd5c9c9c8119",
+    "rich_text_gPBAQx",
+    "image_banner_UVmDcj",
+    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a",
     "d61d0106-79a1-42af-9bf4-ac1aca0ca953",
     "3e1e507f-055e-41e1-b6e7-74fa9e00d1c7",
-    "630c5f1e-9f87-42ee-9776-b9d9456e5b9a",
     "f283fe2b-a976-4ff7-a07a-a31f020c370a",
     "9940e0e6-0561-47ae-8691-4cd2af574002",
     "061d8399-7931-4179-81f3-0bedfd329e15",
