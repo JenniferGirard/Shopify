@@ -32,6 +32,62 @@
         "padding_bottom": 12
       }
     },
+    "image_banner_mheQbL": {
+      "type": "image-banner",
+      "blocks": {
+        "text_Qy7Bk9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>from concept to creation</p><p></p>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_MGdzME": {
+          "type": "heading",
+          "settings": {
+            "heading": "YOUR PROJECT, OUR EXPERTISE!",
+            "heading_size": "h1"
+          }
+        },
+        "text_jrPAG6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From small projects to complex challenges, our team brings AI-driven innovation and software expertise to turn your idea into reality—on time and done right.</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_AJxbca": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GET IN TOUCH",
+            "button_link_1": "shopify://pages/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_Qy7Bk9",
+        "heading_MGdzME",
+        "text_jrPAG6",
+        "buttons_AJxbca"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Background.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text_bCVaUw": {
       "type": "rich-text",
       "blocks": {
@@ -74,6 +130,7 @@
         "text_WBYMb3",
         "button_Xi8yTJ"
       ],
+      "disabled": true,
       "custom_css": [
         "{margin-top: 15rem;}",
         ".rich-text {background-color: transparent !important;}"
@@ -124,9 +181,7 @@
     "video_iyh4qH": {
       "type": "video",
       "custom_css": [
-        "img {opacity: 0;}",
-        "svg {color: red;}",
-        ".color-background-1 {background-color: transparent !important;}"
+        "svg {color: red;}"
       ],
       "settings": {
         "heading": "",
@@ -157,8 +212,7 @@
       ],
       "custom_css": [
         ".image-with-text__media-item {position: absolute; z-index: 2; margin-left: 39rem; margin-top: 6.5rem; width: 60px;}",
-        ".image-with-text {max-width: 100%; padding-left: 0; padding-right: 0;}",
-        "h2 {color: white;}"
+        ".image-with-text {max-width: 100%; padding-left: 0; padding-right: 0;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Arrow.svg",
@@ -849,6 +903,7 @@
   },
   "order": [
     "167124d0-1af9-4ff2-834b-f46a3ba52824",
+    "image_banner_mheQbL",
     "rich_text_bCVaUw",
     "image_with_text_6AjnkC",
     "video_iyh4qH",
