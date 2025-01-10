@@ -177,13 +177,45 @@
         "show_text_below": false
       }
     },
+    "rich_text_m3JLGr": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_U9MNjT": {
+          "type": "caption",
+          "settings": {
+            "caption": "we respect our",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_XJXBhf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Values",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "caption_U9MNjT",
+        "heading_XJXBhf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 52
+      }
+    },
     "630c5f1e-9f87-42ee-9776-b9d9456e5b9a": {
       "type": "multicolumn",
       "blocks": {
         "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/auth_1.svg",
+            "image": "shopify://shop_images/Small_Cube.png",
             "title": "Benevolance",
             "text": "<p>We adopt a respectful, empathetic and attentive attitude, promoting a climate of trust, mutual assistance and recognition.</p>",
             "link_label": "",
@@ -194,7 +226,7 @@
         "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fun_1.svg",
+            "image": "shopify://shop_images/Small_Cube.png",
             "title": "Humble",
             "text": "<p>We recognize our limitations, value the contributions of others and remain open to learning and constructive criticism.</p>",
             "link_label": "",
@@ -205,7 +237,7 @@
         "template--20433044111661__630c5f1e-9f87-42ee-9776-b9d9456e5b9a-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/emp_1.svg",
+            "image": "shopify://shop_images/Small_Cube.png",
             "title": "Hard Worker",
             "text": "<p>We demonstrate diligence, perseverance and commitment to our tasks.​</p>",
             "link_label": "",
@@ -216,7 +248,7 @@
         "df812b90-c4c3-4496-8083-ced172adaa28": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ing_1.svg",
+            "image": "shopify://shop_images/Small_Cube.png",
             "title": "Ingenuity",
             "text": "<p>We want to hear ideas from team members. We encourage them to use their creative and inventive minds to better propel innovation.</p>",
             "link_label": "",
@@ -247,6 +279,158 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 80
+      }
+    },
+    "image_banner_VM3UpD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VdJjzd": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Believe in You",
+            "heading_size": "h1"
+          }
+        },
+        "text_PxUMVc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In order to encourage professional growth and achievement, we have put in place an internal training program that motivates team members to propel their careers and develop their potential. Here, the interests, aspirations and passions of our employees come first. This is how we ensure the success of each project. The management team is accessible and always available to support BesTeam members and help them grow.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VdJjzd",
+        "text_PxUMVc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DSCF3126.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_RL6EBr": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_C4iBGA": {
+          "type": "caption",
+          "settings": {
+            "caption": "we are",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_6cYEKM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Respectful",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "caption_C4iBGA",
+        "heading_6cYEKM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_qXHzkT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_434d4a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Equality is Non-Negotiable",
+            "text": "<p>We stand firm in promoting equality for all, regardless of race, gender, age, abilities, or background. </p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_M3tRcE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Global Minds, Local Hearts",
+            "text": "<p>We celebrate the richness that diversity brings, making our company a tapestry of unique stories and experiences.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_Gj7mtg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Inclusivity is our Jam",
+            "text": "<p>Whether you're a tech guru, an art enthusiast, or a cat video connoisseur, you're welcome here! </p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_zQKWc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Ethics at the Core",
+            "text": "<p>Transparency, honesty, and integrity guide every pixel and line of code.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_4UMGJL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "Join the Party!",
+            "text": "<p> So, come as you are, bring your authentic self, and let's make this online space a vibrant mosaic of diversity!</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_434d4a",
+        "column_M3tRcE",
+        "column_Gj7mtg",
+        "column_zQKWc6",
+        "column_4UMGJL"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 100
       }
     },
     "d61d0106-79a1-42af-9bf4-ac1aca0ca953": {
@@ -309,29 +493,6 @@
         "swipe_on_mobile": false,
         "padding_top": 12,
         "padding_bottom": 100
-      }
-    },
-    "3e1e507f-055e-41e1-b6e7-74fa9e00d1c7": {
-      "type": "rich-text",
-      "blocks": {
-        "template--20433044111661__3e1e507f-055e-41e1-b6e7-74fa9e00d1c7-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Values",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--20433044111661__3e1e507f-055e-41e1-b6e7-74fa9e00d1c7-heading-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 80,
-        "padding_bottom": 52
       }
     },
     "f283fe2b-a976-4ff7-a07a-a31f020c370a": {
@@ -585,92 +746,6 @@
         "include_margins": true
       }
     },
-    "multicolumn_qXHzkT": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_434d4a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "Equality is Non-Negotiable",
-            "text": "<p>We stand firm in promoting equality for all, regardless of race, gender, age, abilities, or background. Everyone deserves a seat at the table, and we've got plenty of them!</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_M3tRcE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "Global Minds, Local Hearts",
-            "text": "<p>Our community spans the globe, representing various cultures and perspectives. We celebrate the richness that diversity brings, making our company a tapestry of unique stories and experiences.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_Gj7mtg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "Inclusivity is our Jam",
-            "text": "<p>Whether you're a tech guru, an art enthusiast, or a cat video connoisseur, you're welcome here! Our virtual doors are open to everyone, creating a space where differences are not just accepted but celebrated.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_zQKWc6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "Ethics at the Core",
-            "text": "<p>Trust is vital, and we take it seriously. Our commitment to ethical practices ensures a safe and respectful environment for everyone. Transparency, honesty, and integrity guide every pixel and line of code.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_4UMGJL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "Join the Party!",
-            "text": "<p>Beslogic is not just a place; it's a celebration of uniqueness. So, come as you are, bring your authentic self, and let's make this online space a vibrant mosaic of diversity!</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        }
-      },
-      "block_order": [
-        "column_434d4a",
-        "column_M3tRcE",
-        "column_Gj7mtg",
-        "column_zQKWc6",
-        "column_4UMGJL"
-      ],
-      "custom_css": [
-        ".multicolumn-card {box-shadow: none; background: #f6f7f9 !important;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
     "84f84025-ad2f-41b7-aed1-f16a0834d322": {
       "type": "footer",
       "blocks": {
@@ -727,14 +802,16 @@
     "image_banner_TYKjXc",
     "rich_text_gPBAQx",
     "image_banner_UVmDcj",
+    "rich_text_m3JLGr",
     "630c5f1e-9f87-42ee-9776-b9d9456e5b9a",
+    "image_banner_VM3UpD",
+    "rich_text_RL6EBr",
+    "multicolumn_qXHzkT",
     "d61d0106-79a1-42af-9bf4-ac1aca0ca953",
-    "3e1e507f-055e-41e1-b6e7-74fa9e00d1c7",
     "f283fe2b-a976-4ff7-a07a-a31f020c370a",
     "9940e0e6-0561-47ae-8691-4cd2af574002",
     "061d8399-7931-4179-81f3-0bedfd329e15",
     "1691674772bb0055a6",
-    "multicolumn_qXHzkT",
     "84f84025-ad2f-41b7-aed1-f16a0834d322"
   ]
 }
