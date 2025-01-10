@@ -309,35 +309,104 @@
         "padding_bottom": 80
       }
     },
-    "image_banner_x7E93C": {
-      "type": "image-banner",
+    "image_with_text_Nae8Hh": {
+      "type": "image-with-text",
       "blocks": {
-        "text_jFdrKe": {
+        "text_JKaALz": {
           "type": "text",
           "settings": {
-            "text": "<h4>At Beslogic, we bring together a team of highly qualified talents, including project managers, software engineers, UI/UX designers, and quality assurance testers. Our diverse expertise ensures that every aspect of your software development project is handled with excellence.</h4><p></p>",
+            "text": "<p>At Beslogic, we bring together a team of highly qualified talents, including project managers, software engineers, UI/UX designers, and quality assurance testers. Our diverse expertise ensures that every aspect of your software development project is handled with excellence</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "text_jFdrKe"
-      ],
-      "custom_css": [
-        ".banner {margin-top: 50px}"
+        "text_JKaALz"
       ],
       "settings": {
-        "image": "shopify://shop_images/Besteam.png",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
+        "image": "shopify://shop_images/cube_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "image_behavior": "fixed",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_efzr6E": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_j6cPHX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "16 YEARS",
+            "text": "<p>Software Development</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_CLTACV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "40+",
+            "text": "<p>AI Projects accross several industries</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_UbWNQ3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "12 YEARS",
+            "text": "<p>Client loyalty</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_VYAD8f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Small_Cube.png",
+            "title": "MONTREAL",
+            "text": "<p>based serving local and international clients</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_j6cPHX",
+        "column_CLTACV",
+        "column_UbWNQ3",
+        "column_VYAD8f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "rich_text_erz3iB": {
@@ -394,7 +463,7 @@
     "image_banner_mNdJYT": {
       "type": "image-banner",
       "settings": {
-        "image_2": "shopify://shop_images/Products-_copy.gif",
+        "image": "shopify://shop_images/ARI_version_en.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -458,6 +527,65 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_EJMRTM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fcrmpR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pratt__Whitney_logo_svg.png",
+            "title": "Aeronautic",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://blogs/case-studies/a-web-application-to-enhance-the-customer-experience",
+            "is_card_clickable": true
+          }
+        },
+        "column_JJDrtp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Weatherford.webp",
+            "title": "Medical",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        },
+        "column_gN8LMC": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "is_card_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "column_fcrmpR",
+        "column_JJDrtp",
+        "column_gN8LMC"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_f6VN3q": {
       "type": "image-banner",
       "settings": {
@@ -503,6 +631,46 @@
         "caption_DTWcfc",
         "heading_mE7DrD",
         "text_rX8m3P"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_3w7r4q": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_UL3eUV": {
+          "type": "caption",
+          "settings": {
+            "caption": "We are",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_ET6KwD": {
+          "type": "heading",
+          "settings": {
+            "heading": "TRANSPARENT",
+            "heading_size": "hxl"
+          }
+        },
+        "text_PkYMUt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Partner with Beslogic and play an integral role in your project's progress. We handle the heavy lifting while you stay involved, informed, and engaged in the decision-making process. You’ll have full visibility into our progress, the challenges we’re addressing, and receive regular updates on key advancements. Together, we’ll bring your vision to life!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_UL3eUV",
+        "heading_ET6KwD",
+        "text_PkYMUt"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -623,7 +791,7 @@
       "settings": {
         "full_width": false,
         "sub_heading": "",
-        "heading": "You are at the heart",
+        "heading": "",
         "heading_size": "smi-h2",
         "description": "",
         "heading_alignment": "center",
@@ -637,221 +805,6 @@
         "color_rating": "#f8a427",
         "padding_top": 50,
         "padding_bottom": 50
-      }
-    },
-    "image_banner_PngCpF": {
-      "type": "image-banner",
-      "blocks": {
-        "text_E6ar3n": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Partner with Beslogic and play an integral role in your project's progress. We handle the heavy lifting while you stay involved, informed, and engaged in the decision-making process. You’ll have full visibility into our progress, the challenges we’re addressing, and receive regular updates on key advancements. Together, we’ll bring your vision to life!</h4><p></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_E6ar3n"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/We_are_transparent.png",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "image_behavior": "fixed",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_efzr6E": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_j6cPHX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "16 YEARS",
-            "text": "<p>Software Development</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_CLTACV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "40+",
-            "text": "<p>AI Projects accross several industries</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_UbWNQ3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "12 YEARS",
-            "text": "<p>Client loyalty</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "column_VYAD8f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Small_Cube.png",
-            "title": "MONTREAL",
-            "text": "<p>based serving local and international clients</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        }
-      },
-      "block_order": [
-        "column_j6cPHX",
-        "column_CLTACV",
-        "column_UbWNQ3",
-        "column_VYAD8f"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "image_banner_8dPKki": {
-      "type": "image-banner",
-      "disabled": true,
-      "custom_css": [
-        "{max-width: 500px; margin: auto; padding-top: 100px; padding-bottom: 32px;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Picture2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_gXEUkc": {
-      "type": "rich-text",
-      "blocks": {
-        "caption_q6rUnm": {
-          "type": "caption",
-          "settings": {
-            "caption": "Ready, Set, Not Quite",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "heading_LUJBgh": {
-          "type": "heading",
-          "settings": {
-            "heading": "Explore Your Possibilities Before You Dive In",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "caption_q6rUnm",
-        "heading_LUJBgh"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 40
-      }
-    },
-    "de093387-95c3-49b5-b6fd-7e73b6b027c7": {
-      "type": "multicolumn",
-      "blocks": {
-        "ebc433f3-c545-404e-ba81-2f02e8acc602": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/business-meeting-with-large-team.jpg",
-            "title": "Corporate Trainings",
-            "text": "<p>Learn and use unique tools to assess the effectiveness of your operations through an IH & AI perspective.​</p>",
-            "link_label": "Ready to Learn",
-            "link": "shopify://pages/trainings-workshop",
-            "is_card_clickable": true
-          }
-        },
-        "template--19990917841197__de093387-95c3-49b5-b6fd-7e73b6b027c7-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brainstorm-meeting-ideas.jpg",
-            "title": "Business-Tech Workshop",
-            "text": "<p>Refine and qualify the areas in which technology contributes the most to achieving the company's objectives.</p>",
-            "link_label": "Explore our Workshop",
-            "link": "shopify://pages/perspective-workshop",
-            "is_card_clickable": true
-          }
-        },
-        "template--19990917841197__de093387-95c3-49b5-b6fd-7e73b6b027c7-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/making-a-budget-tracking-finances.jpg",
-            "title": "Project specifications",
-            "text": "<p>We ensure project success with clear objectives, defined challenges, responsibilities, and an accurate schedule and pricing.</p>",
-            "link_label": "Contact Us",
-            "link": "shopify://pages/contact",
-            "is_card_clickable": true
-          }
-        }
-      },
-      "block_order": [
-        "ebc433f3-c545-404e-ba81-2f02e8acc602",
-        "template--19990917841197__de093387-95c3-49b5-b6fd-7e73b6b027c7-column-1",
-        "template--19990917841197__de093387-95c3-49b5-b6fd-7e73b6b027c7-column-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".media {padding-bottom: 50%;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "shopify://blogs/case-studies",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 100
       }
     },
     "d4ce0827-8c6b-4f78-91c8-58afcb32144c": {
@@ -914,18 +867,16 @@
     "video_iyh4qH",
     "image_with_text_DtMtUM",
     "multicolumn_LqT6Xa",
-    "image_banner_x7E93C",
+    "image_with_text_Nae8Hh",
+    "multicolumn_efzr6E",
     "rich_text_erz3iB",
     "image_banner_mNdJYT",
     "rich_text_dCKzfx",
+    "multicolumn_EJMRTM",
     "image_banner_f6VN3q",
     "rich_text_CryNAC",
+    "rich_text_3w7r4q",
     "smi_testimonial_1_1_RqtcnA",
-    "image_banner_PngCpF",
-    "multicolumn_efzr6E",
-    "image_banner_8dPKki",
-    "rich_text_gXEUkc",
-    "de093387-95c3-49b5-b6fd-7e73b6b027c7",
     "d4ce0827-8c6b-4f78-91c8-58afcb32144c"
   ]
 }
