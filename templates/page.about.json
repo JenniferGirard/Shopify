@@ -433,66 +433,40 @@
         "padding_bottom": 100
       }
     },
-    "d61d0106-79a1-42af-9bf4-ac1aca0ca953": {
-      "type": "multicolumn",
+    "image_banner_id4Ljp": {
+      "type": "image-banner",
       "blocks": {
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-1": {
-          "type": "column",
+        "heading_EhRNPK": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/beer_1_K-2.jpg",
-            "title": "We Like to Do Things Differently",
-            "text": "<p>We have deconstructed standard hierarchical models by placing team members at the center of our structure. In this way, barriers fall and ideas flow more organically, leaving room for collaboration and innovation.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
+            "heading": "A Friendly and Creative Space",
+            "heading_size": "h1"
           }
         },
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-2": {
-          "type": "column",
+        "text_iPCLiN": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/beer_img-besl.jpg",
-            "title": "We Believe in You",
-            "text": "<p>In order to encourage professional growth and achievement, we have put in place an internal training program that motivates team members to propel their careers and develop their potential. Here, the interests, aspirations and passions of our employees come first. This is how we ensure the success of each project. The management team is accessible and always available to support BesTeam members and help them grow.</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
-          }
-        },
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/beer_1_K-1.jpg",
-            "title": "A Friendly and Creative Space",
             "text": "<p>Our offices are located in the heart of Little Burgundy, just a stone's throw from the shops on Montreal's iconic Atwater Street. We like to get together for all kinds of activities: lunchtime picnics, video game nights, 5@7 at the best restaurant on the corner...</p>",
-            "link_label": "",
-            "link": "",
-            "is_card_clickable": false
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-1",
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-2",
-        "template--20433044111661__d61d0106-79a1-42af-9bf4-ac1aca0ca953-column-3"
-      ],
-      "custom_css": [
-        ".multicolumn-card {box-shadow: none; background: #f6f7f9 !important;}"
+        "heading_EhRNPK",
+        "text_iPCLiN"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 100
+        "image": "shopify://shop_images/DSCF3085.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "f283fe2b-a976-4ff7-a07a-a31f020c370a": {
@@ -701,6 +675,7 @@
         "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-heading-1",
         "template--20433044111661__061d8399-7931-4179-81f3-0bedfd329e15-text-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -742,6 +717,7 @@
       "block_order": [
         "13e59f17-7528-42c2-8290-57567cf4ef6f"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -807,7 +783,7 @@
     "image_banner_VM3UpD",
     "rich_text_RL6EBr",
     "multicolumn_qXHzkT",
-    "d61d0106-79a1-42af-9bf4-ac1aca0ca953",
+    "image_banner_id4Ljp",
     "f283fe2b-a976-4ff7-a07a-a31f020c370a",
     "9940e0e6-0561-47ae-8691-4cd2af574002",
     "061d8399-7931-4179-81f3-0bedfd329e15",
