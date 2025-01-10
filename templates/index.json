@@ -171,7 +171,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -181,7 +181,9 @@
     "video_iyh4qH": {
       "type": "video",
       "custom_css": [
-        "svg {color: red;}"
+        "img {opacity: 0;}",
+        "svg {color: red;}",
+        ".video-section {background-color: #031d38 !important;}"
       ],
       "settings": {
         "heading": "",
@@ -222,11 +224,11 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_LqT6Xa": {
@@ -300,7 +302,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 32,
@@ -320,6 +322,9 @@
       },
       "block_order": [
         "text_jFdrKe"
+      ],
+      "custom_css": [
+        ".banner {margin-top: 50px}"
       ],
       "settings": {
         "image": "shopify://shop_images/Besteam.png",
